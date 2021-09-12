@@ -1,129 +1,44 @@
-# default.custom.yaml  rime基础引擎框架配置
-# UTF-8
 patch:
-  "ascii_composer/good_old_caps_lock": true
-  #commit_text #在你输入一段拼音字符后，按此键，文字上屏，同时RIME切换为英文输入。在按此键，切换回来。
-  #clear #在你输入一段字符后按此键，字符被清除，同时RIME输入状态切换为英文输入。在按此键，RIME输入切换回中文输入。
-  #commit_code # 左右Shift上屏编码并切换为英文状态，
-  #inline_ascii 设定在有输入时不能切换至英文状态
-  "ascii_composer/switch_key":
-    Caps_Lock: noop
-    Control_L: commit_text 
-    Control_R: commit_text 
-    Eisu_toggle: clear
-    Shift_L: commit_code   #commit_code MACOS不区分左右配置只对L起作用
-    Shift_R: inline_ascii
-  key_binder:
-    bindings: [{accept: "Control+p", send: Up, when: composing}, {accept: "Control+n", send: Down, when: composing}, {accept: "Control+b", send: Left, when: composing}, {accept: "Control+f", send: Right, when: composing}, {accept: "Control+a", send: Home, when: composing}, {accept: "Control+e", send: End, when: composing}, {accept: "Control+d", send: Delete, when: composing}, {accept: "Control+k", send: "Shift+Delete", when: composing}, {accept: "Control+h", send: BackSpace, when: composing}, {accept: "Control+g", send: Escape, when: composing}, {accept: "Control+bracketleft", send: Escape, when: composing}, {accept: "Alt+v", send: Page_Up, when: composing}, {accept: "Control+v", send: Page_Down, when: composing}, {accept: ISO_Left_Tab, send: Page_Up, when: composing}, {accept: "Shift+Tab", send: Page_Up, when: composing}, {accept: Tab, send: Page_Down, when: composing}, {accept: minus, send: Page_Up, when: has_menu}, {accept: equal, send: Page_Down, when: has_menu}, {accept: comma, send: Page_Up, when: paging}, {accept: period, send: Page_Down, when: has_menu}, {accept: "Control+Shift+1", select: .next, when: always}, {accept: "Control+Shift+2", toggle: ascii_mode, when: always}, {accept: "Control+Shift+3", toggle: full_shape, when: always}, {accept: "Control+Shift+4", toggle: simplification, when: always}, {accept: "Control+Shift+5", toggle: extended_charset, when: always}, {accept: "Control+Shift+exclam", select: .next, when: always}, {accept: "Control+Shift+at", toggle: ascii_mode, when: always}, {accept: "Control+Shift+numbersign", toggle: full_shape, when: always}, {accept: "Control+Shift+dollar", toggle: simplification, when: always}, {accept: "Control+Shift+percent", toggle: extended_charset, when: always}, {accept: "Shift+space", toggle: full_shape, when: always}, {accept: "Control+period", toggle: ascii_punct, when: always}]
-  menu:
-    page_size: 5
-  "punctuator/full_shape": #全角
-    " ": {commit: "　"}
-    "!": {commit: "！"}
-    "\"": {pair: ["“", "”"]}
-    "#": ["＃", "⌘"]
-    "$": ["￥", "$", "€", "£", "¥", "¢", "¤"]
-    "%": ["％", "°", "℃"]
-    "&": "＆"
-    "'": {pair: ["‘", "’"]}
-    "(": "（"
-    ")": "）"
-    "*": ["＊", "·", "・", "×", "※", "❂"]
-    "+": "＋"
-    ",": {commit: "，"}
-    "-": "－"
-    .: {commit: "。"}
-    "/": ["／", "÷"]
-    ":": {commit: "："}
-    ";": {commit: "；"}
-    "<": ["《", "〈", "«", "‹"]
-    "=": "＝"
-    ">": ["》", "〉", "»", "›"]
-    "?": {commit: "？"}
-    "@": ["＠", "☯"]
-    "[": ["「", "【】", "〔", "［"]
-    "\\": ["、", "＼"]
-    "]": ["」", "】", "〕", "］"]
-    "^": {commit: "……"}
-    _: "——"
-    "`": "｀"
-    "{": ["『", "〖", "｛"]
-    "|": ["·", "｜", "§", "¦"]
-    "}": ["』", "〗", "｝"]
-    "~": "～"
-  "punctuator/half_shape": #半角
-    "!": {commit: "！"}
-    "\"": {pair: ["“", "”"]}
-    "#": "#"
-    "$": ["￥", "$", "€", "£", "¥", "¢", "¤"]
-    "%": ["%", "％", "°", "℃"]
-    "&": "&"
-    "'": {pair: ["‘", "’"]}
-    "(": "（"
-    ")": "）"
-    "*": ["*", "＊", "·", "・", "×", "※", "❂"]
-    "+": "+"
-    ",": {commit: "，"}
-    "-": "-"
-    .: {commit: "。"}
-    "/": ["、", "/", "／", "÷"]
-    ":": {commit: "："}
-    ";": {commit: "；"}
-    "<": ["《", "〈", "«", "‹"]
-    "=": "="
-    ">": ["》", "〉", "»", "›"]
-    "?": {commit: "？"}
-    "@": "@"
-    "[": ["「", "【】", "〔", "［"]
-    "\\": ["、", "\\", "＼"]
-    "]": ["」", "】", "〕", "］"]
-    "^": {commit: "……"}
-    _: "——"
-    "`": "`"
-    "{": ["『", "〖", "｛"]
-    "|": ["·", "|", "｜", "§", "¦"]
-    "}": ["』", "〗", "｝"]
-    "~": ["~", "～"]
-  "punctuator/import_preset": symbols
-  "punctuator/symbols":
-    "/cha": ["✕", "✖"]
-    "/cuo": ["✕", "✖"]
-    "/dui": ["√", "✔"]
-    "/jiayou": "💪"
-    "/niupi": "🐮🍺"
-    "/ok": "👌"
-    "/pai": "π"
-    "/xiao": ["😂", "☺"]
-    "/xingba": "彳亍口巴"
-    "/ye": "✌"
-    "/zan": "👍"
-    "/ke": "🉑"
-    "/ningmeng": "🍋"
-    "/chuizi": "🔨"
-    "/yao": "💊"
-    "/zhen": "💉"
-    "/fs": ["½", "‰", "¼", "⅓", "⅔", "¾", "⅒" ]
-    "/bq": ["😂️", "😅️", "☺️", "😱️", "😭️", "😇️", "🙃️", "🤔️", "💊️", "💯️", "👍️", "🙈️", "💩️", "😈️" ]
-    "/dn": ["⌘", "⌥", "⇧", "⌃", "⎋", "⇪", "", "⌫", "⌦", "↩︎", "⏎", "↑", "↓", "←", "→", "↖", "↘", "⇟", "⇞"]
-    "/fh": ["©", "®", "℗", "℠", "™", "℡", "ⓘ", "♂", "♀", "☉", "☊", "☋", "☌", "☍", "☐", "☑︎", "☒", "☜", "☝", "☞", "☟", "✎", "✄", "♲", "♻", "⚐", "⚑", "⚠"]
-    "/xh": ["＊", "×", "✱", "★", "☆", "✩", "✧", "❋", "❊", "❉", "❈", "❅", "✿", "✲"]
-  recognizer:
-  #  patterns: {email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$", punct: "^/([A-Z|a-z]*|[0-9]|10)$", uppercase: "[A-Z][-_+.'0-9A-Za-z]*$", url: "^(www[.]|https?[:]|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"}
   schema_list:
-    - {schema: luna_pinyin_simp}
-    - {schema: luna_pinyin}
-    - {schema: luna_pinyin_fluency}
-  "switcher":
-    abbreviate_options: true
-    caption: "〔切换〕"          #把默认的“方案選單”修改为了“切换”。
-    fold_options: true
-    hotkeys:
-      - "Control+grave"
-      - "Control+Shift+grave"
-      - "Control+s"
-    option_list_separator: "／"   #以下都为默认custom.yaml文件的默认配置，copy过来就可以。
-    save_options:
-      - full_shape
-      - ascii_punct
-      - simplification
-      - extended_charset
+    - schema: luna_pinyin_simp      # 朙月拼音 简化字
+    - schema: luna_pinyin           # 朙月拼音
+    #- schema: double_pinyin_flypy   # 小鹤双拼
+    #- schema: double_pinyin         # 自然码双拼
+    - schema: numbers               # 大写数字
+        
+  menu/page_size: 5   # 候选词个数
+
+# 若caps切换大小写无效,打开系统偏好设置-键盘-输入法-取消勾选[使用大写锁定键切换“美国”输入模式]
+  ascii_composer/good_old_caps_lock: true   # 若为true，caps只切换大小写
+  ascii_composer/switch_key:
+    Caps_Lock: commit_code                    
+    Shift_L: commit_code                    # 左Shift   关闭noop
+    Shift_R: commit_code                    # 右Shift
+    Control_L: noop                         # 左Control
+    Control_R: noop                         # 右Control
+
+  key_binder/bindings: # 翻页(若要开启,去掉前面的#号)
+    - { when: composing, accept: ISO_Left_Tab, send: Shift+Left }
+    - { when: composing, accept: Shift+Tab, send: Shift+Left }  # "Shift+Tab" 键向左选拼音分词
+    - { when: composing, accept: Tab, send: Shift+Right }       # "tab" 键选拼音分词   
+    #- { when: composing, accept: Tab, send: Page_Down }        # "tab" 键翻页
+    - { when: paging, accept: minus, send: Page_Up }            # "-"上一页
+    - { when: has_menu, accept: equal, send: Page_Down }        # "="下一页
+    - { when: paging, accept: bracketleft, send: Page_Up }      # "["上一页
+    - { when: has_menu, accept: bracketright, send: Page_Down } # "]"下一页
+    #- { when: paging, accept: comma, send: Page_Up }            # ","上一页
+    #- { when: has_menu, accept: period, send: Page_Down }       # "."下一页
+    #- {accept: semicolon, send: 2, when: has_menu}  # 候选2 用分号
+    #- {accept: apostrophe, send: 3, when: has_menu} # 候选3 用单引号
+ 
+# 快捷键(若要开启,去掉前面的#号)
+    #- {accept: "Control+a", send: Home, when: composing}                   # 光标移至首
+    #- {accept: "Control+e", send: End, when: composing}                    # 光标移至尾
+    #- {accept: "Control+Shift+1", select: .next, when: always}             # 切换输入方案
+    - {accept: "Control+Shift+2", toggle: ascii_mode, when: always}        # 中英文切换
+    - {accept: "Control+Shift+3", toggle: full_shape, when: always}        # 全角/半角切换
+    - {accept: "Control+Shift+4", toggle: simplification, when: always}    # 繁简体切换
+    - {accept: "Control+Shift+5", toggle: extended_charset, when: always}  # 通用/增广切换（显示生僻字）
+
+# 回车清码（若要开启,去掉前面的#号）
+    #- {accept: Return, send: Escape, when: composing}   
