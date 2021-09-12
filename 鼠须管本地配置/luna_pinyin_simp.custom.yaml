@@ -1,0 +1,20 @@
+# luna_pinyin.custom.yaml 输入方案配置
+# UTF-8
+
+patch:
+  "switches/@0/reset": 1  #表示將 switcher 列表中的第一個元素（即 ascii_mode 開關）的初始值重設爲狀態1（即「英文」）。
+  "auto_select_unique_candidate": true #无重码自动上屏
+  engine/translators:
+    - punct_translator
+    - r10n_translator
+    - reverse_lookup_translator
+  recognizer/patterns/reverse_lookup: "`[a-z]*$" #请删除$后的空格！不加一个空格貌似总是解析错误，不知道MarkDown我还有多少不知道的地方:(
+  schema/dependencies:
+    - emoji
+  abc_segmentor/extra_tags:
+    - reverse_lookup
+  reverse_lookup:
+    dictionary: emoji
+    enable_completion: true
+    prefix: "`"
+    tips: 〔表情〕

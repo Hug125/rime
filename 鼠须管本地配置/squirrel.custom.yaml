@@ -1,0 +1,33 @@
+#squirrel.custom.yaml UTF-8
+#定义输入法的外观、横排竖排等显示模式、右下角图标，并可以在指定程序中关闭中文输入。
+#使用“输入法设定”修改设定后，本文件内的注释都会消失。。慎重。
+#下列选项中，true表示开启，false关闭。
+patch:
+  # us_keyboard_layout: true    # 键盘选项：应用美式键盘布局
+  # show_notifications_when: growl_is_running  # 狀態通知，默認裝有Growl時顯示，也可設爲全開（always）全關（never）
+  "style/color_scheme": lost_temple #皮肤设定
+  "style/display_tray_icon": false #开启：右下角输入法状态栏显示图标，方便进行操作。关闭：隐藏图标
+  "style/font_face": Consolas #预选栏字体
+  "style/font_point": 17 #预选栏字号
+  “style/label_font_face”: "Myriad Pro Light"  # 预选栏编号字体，使用西文字体：Myriad Pro Light
+  ”style/label_font_point“: 17       #预选栏编号字号
+  "style/fullscreen": false #全屏？？目前未知待测试。
+  "style/horizontal": false #开启：横排显示候选词。关闭：竖排显示。
+  "style/inline_preedit": false #內嵌編碼（僅支持TSF） 关闭后可以显示首行拼音（MAC下建议关闭）
+  # style/line_spacing: 1         # 候选词的行间距
+  # style/spacing: 5              # 在非内嵌编码模式下，预编辑和候选词之间的间距
+  "style/layout":
+    #显示效果选项
+    border_width: 4     # 窗口边界宽度 大于圆角半径生效
+    border_height: 4    # 窗口边界高度 大于圆角半径生效
+    corner_radius: 3    # 窗口圆角半径
+    candidate_spacing: 5
+    hilite_padding: 2
+    hilite_spacing: 4
+    margin_x: 12
+    margin_y: 12
+    min_height: 0
+    min_width: 160
+    round_corner: 4
+    spacing: 10
+  #进入下列程序，关闭中文："app_options/WeChat.exe":ascii_mode: true  打开中文："app_options/WeChat.exe": {}

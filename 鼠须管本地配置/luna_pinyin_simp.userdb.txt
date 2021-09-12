@@ -1,0 +1,2925 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin_simp.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	5015
+#@/user_id	745a313e-3b80-4f42-9e1d-fa237096293f
+a 	啊	c=9 d=1.71725 t=5015
+a ka 	阿卡	c=0 d=0.00871609 t=5015
+a ka li 	阿卡麗	c=1 d=0.0875977 t=5015
+ai fan er 	愛范兒	c=1 d=1 t=5015
+ai hao 	愛好	c=1 d=0.08291 t=5015
+an 	按	c=0 d=0.00256042 t=5015
+an de sen 	安德森	c=1 d=0.491644 t=5015
+an li 	案例	c=1 d=0.431711 t=5015
+an quan 	安全	c=3 d=0.0808044 t=5015
+an tiao jian cha xun 	按條件查詢	c=1 d=0.0257325 t=5015
+an zhuang 	安裝	c=1 d=0.20037 t=5015
+an zhuang bao 	安裝包	c=1 d=0.172907 t=5015
+an zhuang hao zhi hou 	安裝好之後	c=1 d=0.173774 t=5015
+an zhuo 	安卓	c=1 d=0.357007 t=5015
+ba 	吧	c=3 d=1.07433 t=5015
+ba 	把	c=2 d=0.312027 t=5015
+ba ji 	八集	c=0 d=0.276816 t=5015
+ba mei tiao shu ju 	把每條數據	c=1 d=0.141564 t=5015
+ba shu ju feng zhuang cheng shi ti lei 	把數據封裝成實體類	c=1 d=0.140156 t=5015
+ba shu ju feng zhuang dao 	把數據封裝到	c=1 d=0.147342 t=5015
+bai 	白	c=0 d=0.0115325 t=5015
+bai 	百	c=0 d=0.256985 t=5015
+bai bai 	拜拜	c=2 d=0.698092 t=5015
+bai fei 	白費	c=0 d=0.0115325 t=5015
+bai he ce shi 	白盒測試	c=1 d=0.115903 t=5015
+bai pi shu 	白皮書	c=1 d=0.174645 t=5015
+ban 	班	c=2 d=0.223836 t=5015
+ban ben 	版本	c=2 d=0.0152823 t=5015
+ban ben hao 	版本號	c=1 d=0.0145524 t=5015
+ban gong 	辦公	c=0 d=0.0109154 t=5015
+ban ji 	班級	c=4 d=0.413594 t=5015
+ban zang 	半藏	c=1 d=0.157237 t=5015
+ban zi dong 	半自動	c=1 d=0.0122773 t=5015
+ban zi dong hua 	半自動化	c=2 d=0.604026 t=5015
+bang ding 	綁定	c=0 d=0.0102797 t=5015
+bang ding zai 	綁定在	c=1 d=0.103312 t=5015
+bao 	保	c=2 d=0.763379 t=5015
+bao 	包	c=22 d=3.18689 t=5015
+bao cun 	保存	c=8 d=1.61689 t=5015
+bao cun dao gong xiang yu 	保存到共享域	c=1 d=0.715338 t=5015
+bao cun dui xiang 	保存對象	c=1 d=0.0258615 t=5015
+bao cun shu ju 	保存數據	c=5 d=1.61143 t=5015
+bao cun shu ju dao gong xiang yu 	保存數據到共享域	c=1 d=0.166127 t=5015
+bao cun yong hu 	保存用戶	c=1 d=0.209088 t=5015
+bao cun zai gong xiang yu 	保存在共享域	c=1 d=0.0126512 t=5015
+bao cuo 	報錯	c=2 d=0.647192 t=5015
+bao han 	包含	c=0 d=0.000708341 t=5015
+bao ming 	包名	c=1 d=0.0409665 t=5015
+bao zhang 	保障	c=0 d=0.00162445 t=5015
+bao zheng 	保證	c=0 d=0.0123687 t=5015
+bao zi 	孢子	c=0 d=0.00121552 t=5015
+bao zi wu yu 	孢子物語	c=1 d=0.0122161 t=5015
+bei 	被	c=3 d=0.782705 t=5015
+bei bao han 	被包含	c=1 d=0.00711891 t=5015
+bei chuang jian 	被創建	c=1 d=0.109374 t=5015
+bei diao yong 	被調用	c=1 d=0.267135 t=5015
+bei jing 	北京	c=2 d=0.511709 t=5015
+bei jing qing he 	北京清河	c=1 d=0.666977 t=5015
+bei shan chu 	被刪除	c=0 d=0.132075 t=5015
+bei yin yong 	被引用	c=1 d=0.66365 t=5015
+bei zhu 	備註	c=1 d=0.13332 t=5015
+ben dian 	本店	c=1 d=0.246597 t=5015
+ben lei 	本類	c=1 d=0.460704 t=5015
+ben zhi 	本質	c=1 d=0.477114 t=5015
+beng 	崩	c=1 d=0.00755912 t=5015
+bi 	幣	c=0 d=0.0202909 t=5015
+bi ji 	筆記	c=1 d=0.618783 t=5015
+bi jiao 	比較	c=1 d=0.213316 t=5015
+bi jiao fan suo 	比較繁瑣	c=1 d=0.00878245 t=5015
+bi jiao gao 	比較高	c=1 d=0.0102037 t=5015
+bi jiao rong yi 	比較容易	c=0 d=0.00117371 t=5015
+bi jiao rong yi shang shou 	比較容易上手	c=1 d=0.0117959 t=5015
+bi mian 	避免	c=1 d=0.190139 t=5015
+bi sai 	比賽	c=0 d=0.0121238 t=5015
+bi she 	畢設	c=2 d=0.878095 t=5015
+bi she bi 	畢設幣	c=1 d=0.203926 t=5015
+bi tian 	必填	c=2 d=0.0838788 t=5015
+bi tian zi duan 	必填字段	c=1 d=0.0699482 t=5015
+bi xu 	必須	c=2 d=0.744119 t=5015
+bi xu bao zheng 	必須保證	c=1 d=0.124307 t=5015
+bi xu shu ru 	必須輸入	c=1 d=0.0702988 t=5015
+bi xu wei 	必須爲	c=1 d=0.839457 t=5015
+bi xu you 	必須有	c=1 d=0.565525 t=5015
+bi zhi 	壁紙	c=0 d=0.0180866 t=5015
+bian 	遍	c=1 d=0.0639279 t=5015
+bian cheng 	編程	c=1 d=0.00804355 t=5015
+bian cheng 	變成	c=0 d=0.00623495 t=5015
+bian hao 	編號	c=9 d=1.54512 t=5015
+bian hao ji he 	編號集合	c=1 d=0.32628 t=5015
+bian hua 	變化	c=1 d=0.100761 t=5015
+bian ma 	編碼	c=2 d=0.631607 t=5015
+bian wei 	變爲	c=0 d=0.0806541 t=5015
+bian xie 	編寫	c=0 d=0.0113042 t=5015
+bian xie dai ma 	編寫代碼	c=1 d=0.113608 t=5015
+bian xie yan zheng gui ze 	編寫驗證規則	c=1 d=0.0871609 t=5015
+biao 	表	c=6 d=0.572933 t=5015
+biao bai 	表白	c=0 d=0.0151829 t=5015
+biao da shi 	表達式	c=6 d=1.27182 t=5015
+biao dan 	表單	c=13 d=2.48689 t=5015
+biao dan chong fu 	表單重複	c=1 d=0.774916 t=5015
+biao dan chong fu ti jiao 	表單重複提交	c=1 d=0.67032 t=5015
+biao dan chuan di guo lai de 	表單傳遞過來的	c=1 d=0.0502874 t=5015
+biao dan gui fan 	表單規範	c=1 d=0.182684 t=5015
+biao dan shu ju 	表單數據	c=1 d=0.0405589 t=5015
+biao dan ti jiao de shu ju 	表單提交的數據	c=2 d=0.562705 t=5015
+biao dan yan zheng 	表單驗證	c=1 d=0.085435 t=5015
+biao dan zhong 	表單中	c=1 d=0.524663 t=5015
+biao de 	表的	c=1 d=0.0720785 t=5015
+biao ji 	標記	c=2 d=0.701173 t=5015
+biao li 	表裏	c=0 d=0.000726273 t=5015
+biao ming 	表名	c=9 d=1.05381 t=5015
+biao qian 	標籤	c=4 d=1.07677 t=5015
+biao qian biao da shi 	標籤表達式	c=1 d=0.0845849 t=5015
+biao qian ye 	標籤頁	c=1 d=0.562705 t=5015
+biao shi 	表示	c=2 d=0.198789 t=5015
+biao shi can shu 	表示參數	c=1 d=0.025223 t=5015
+biao shi wu kong zhi quan 	表事物控制權	c=1 d=0.479505 t=5015
+biao shi yong hu ming ke yi shi yong 	表示用戶名可以使用	c=1 d=0.189191 t=5015
+biao suo 	表鎖	c=1 d=0.102284 t=5015
+biao ti 	標題	c=1 d=0.937067 t=5015
+biao xian 	表現	c=0 d=0.0540641 t=5015
+biao xian ceng 	表現層	c=1 d=0.543351 t=5015
+biao zhong 	表中	c=3 d=0.157633 t=5015
+biao zhu 	標註	c=1 d=0.0409665 t=5015
+bie de 	別的	c=1 d=0.0686121 t=5015
+bie ming 	別名	c=7 d=0.722644 t=5015
+bie ren 	別人	c=1 d=0.0575558 t=5015
+bing 	並	c=4 d=0.32359 t=5015
+bing fa 	併發	c=1 d=0.0655462 t=5015
+bing fang zai 	並放在	c=1 d=0.12307 t=5015
+bing jiang 	並將	c=1 d=0.00900478 t=5015
+bo 	亳	c=0 d=0.0279431 t=5015
+bu 	不	c=4 d=1.41138 t=5015
+bu 	步	c=1 d=0.117655 t=5015
+bu 	部	c=2 d=0.634448 t=5015
+bu an quan 	不安全	c=0 d=0.00437178 t=5015
+bu cha 	不查	c=1 d=0.161218 t=5015
+bu chu yu 	不處於	c=1 d=0.900325 t=5015
+bu chuang jian 	不創建	c=1 d=0.0238732 t=5015
+bu cun zai 	不存在	c=3 d=0.0975132 t=5015
+bu cun zai wai jian 	不存在外鍵	c=1 d=0.00644146 t=5015
+bu cun zai zhi jie chuang jian 	不存在直接創建	c=1 d=0.0284388 t=5015
+bu dao 	不到	c=0 d=0.0117068 t=5015
+bu duan 	不斷	c=0 d=0.0771052 t=5015
+bu fa song 	不發送	c=1 d=0.183599 t=5015
+bu fan zhuan 	不反轉	c=2 d=1.01863 t=5015
+bu fen 	部分	c=0 d=0.0199888 t=5015
+bu fen nei rong 	部分內容	c=0 d=0.0344728 t=5015
+bu fen nei rong bu yu xian shi 	部分內容不予顯示	c=2 d=0.346456 t=5015
+bu fu he 	不符合	c=1 d=0.181772 t=5015
+bu fu he san fan shi 	不符合三範式	c=1 d=0.0135686 t=5015
+bu gao 	不高	c=0 d=0.00109436 t=5015
+bu gou 	不夠	c=0 d=0.0640824 t=5015
+bu gou ling huo 	不夠靈活	c=1 d=0.644036 t=5015
+bu guo 	不過	c=0 d=0.00154523 t=5015
+bu guo xian zai 	不過現在	c=1 d=0.0155297 t=5015
+bu hao 	不好	c=0 d=0.00706512 t=5015
+bu he li 	不合理	c=0 d=0.00134335 t=5015
+bu hui 	不會	c=1 d=0.152935 t=5015
+bu hui bao cuo 	不回報錯	c=1 d=0.600496 t=5015
+bu hui gun 	不回滾	c=1 d=0.0107807 t=5015
+bu hui jie 	不會劫	c=1 d=0.375311 t=5015
+bu hui tian shi 	不會天使	c=1 d=0.268474 t=5015
+bu ji lian cao zuo 	不級聯操作	c=1 d=0.694197 t=5015
+bu jian yi shi yong 	不建議使用	c=2 d=0.066205 t=5015
+bu jin xing ren he dong zuo 	不進行任何動作	c=1 d=0.183599 t=5015
+bu ke 	不可	c=0 d=0.0979307 t=5015
+bu ke chong fu 	不可重複	c=1 d=0.400517 t=5015
+bu ke shi yong 	不可使用	c=1 d=0.186374 t=5015
+bu ke wei kong 	不可爲空	c=1 d=0.932394 t=5015
+bu liao 	不了	c=0 d=0.0122456 t=5015
+bu men 	部門	c=8 d=1.7446 t=5015
+bu men biao 	部門表	c=4 d=1.04435 t=5015
+bu men shu xing 	部門屬性	c=1 d=0.218712 t=5015
+bu men wei hu yuan gong 	部門維護員工	c=1 d=0.276651 t=5015
+bu men xia 	部門下	c=1 d=0.0383884 t=5015
+bu neng 	不能	c=5 d=0.343511 t=5015
+bu neng chong fu 	不能重複	c=1 d=0.189191 t=5015
+bu neng jia zai 	不能加載	c=1 d=0.154896 t=5015
+bu neng jie chu guan xi 	不能解除關係	c=1 d=0.597501 t=5015
+bu neng wei kong 	不能爲空	c=2 d=0.113095 t=5015
+bu neng zhi jie 	不能直接	c=1 d=0.0086517 t=5015
+bu pian yi 	不偏移	c=1 d=0.0192547 t=5015
+bu qu 	不去	c=1 d=0.156453 t=5015
+bu sheng cheng 	不生成	c=1 d=0.0137049 t=5015
+bu shi 	不是	c=1 d=0.124076 t=5015
+bu shi meng 	不是夢	c=1 d=0.88692 t=5015
+bu shi yong 	不適用	c=2 d=0.434321 t=5015
+bu shu 	部署	c=0 d=0.0280832 t=5015
+bu shu shang xian 	部署上線	c=1 d=0.118837 t=5015
+bu tai 	不太	c=0 d=0.0755784 t=5015
+bu tai chang yong 	不太常用	c=1 d=0.759572 t=5015
+bu tai hui 	不太會	c=1 d=0.895834 t=5015
+bu tong 	不同	c=2 d=0.188872 t=5015
+bu tong de ming zi dui ying 	不同的名字對應	c=1 d=0.32628 t=5015
+bu tong de shu ru fa 	不同的輸入法	c=1 d=0.927743 t=5015
+bu tong guo 	不通過	c=1 d=1.54255e-11 t=5015
+bu wan 	不玩	c=0 d=0.0062662 t=5015
+bu wan le 	不玩了	c=1 d=0.0629761 t=5015
+bu xian zhi 	不限制	c=1 d=0.0114473 t=5015
+bu xiang yong jiu shan diao pei zhi wen jian 	不想用就刪掉配置文件	c=1 d=0.0555762 t=5015
+bu xie 	不寫	c=2 d=0.127859 t=5015
+bu xu yao 	不需要	c=3 d=0.331993 t=5015
+bu xu yao de hua 	不需要的話	c=1 d=0.00914087 t=5015
+bu yan chi jia zai 	部延遲加載	c=1 d=0.11475 t=5015
+bu yao 	不要	c=1 d=0.22245 t=5015
+bu yao shi yong 	不要使用	c=1 d=0.99005 t=5015
+bu yao ye ba 	不要也罷	c=1 d=0.398519 t=5015
+bu yi nuo si ai li si 	布宜諾斯艾利斯	c=1 d=0.0632918 t=5015
+bu yi zhi 	不一致	c=1 d=0.200403 t=5015
+bu yong 	不用	c=1 d=0.161666 t=5015
+bu yong an zhuang 	不用安裝	c=1 d=0.128093 t=5015
+bu yong guan bi 	不用關閉	c=1 d=0.0248475 t=5015
+bu yong xie 	不用寫	c=2 d=0.0252394 t=5015
+bu yong zhan wei fu 	不用佔位符	c=1 d=0.0169922 t=5015
+bu yu 	不予	c=0 d=0.0344728 t=5015
+bu yun xu 	不允許	c=1 d=0.99005 t=5015
+bu zheng que 	不正確	c=1 d=0.0706512 t=5015
+bu zhi chi quan wen suo yin 	不支持全文索引	c=1 d=0.100761 t=5015
+bu zhi chi shi wu 	不支持事物	c=1 d=0.0997588 t=5015
+bu zhi dao 	不知道	c=1 d=0.154242 t=5015
+bu zhou 	步驟	c=0 d=0.0597501 t=5015
+bu zu 	不足	c=0 d=1.62164e-12 t=5015
+cai 	才	c=1 d=0.0435067 t=5015
+cai hong 	彩虹	c=0 d=0.0701173 t=5015
+cai hui 	纔會	c=1 d=0.114902 t=5015
+cai hui bei chuang jian 	纔會被創建	c=1 d=0.116484 t=5015
+cai ke yi 	纔可以	c=0 d=0.00167392 t=5015
+cai ke yi shi yong 	纔可以使用	c=1 d=0.0168231 t=5015
+cai xu yao 	才需要	c=1 d=0.0161635 t=5015
+can kao 	參考	c=0 d=0.00409665 t=5015
+can shu 	參數	c=6 d=0.930778 t=5015
+can shu er 	參數而	c=1 d=0.0958472 t=5015
+can shu hui xian 	參數回顯	c=3 d=1.74246 t=5015
+can shu ke yi 	參數可以	c=1 d=0.718924 t=5015
+can shu lei xing 	參數類型	c=1 d=0.0328764 t=5015
+can shu san 	參數三	c=1 d=0.0972957 t=5015
+can shu si 	參數四	c=1 d=0.0997588 t=5015
+can shu yi 	參數一	c=1 d=0.0944202 t=5015
+cang tian 	蒼天	c=0 d=0.0748264 t=5015
+cao zuo 	操作	c=6 d=1.05985 t=5015
+cao zuo fang fa 	操作方法	c=1 d=0.516851 t=5015
+cao zuo gong ju 	操作工具	c=1 d=0.169483 t=5015
+cao zuo huan cun 	操作緩存	c=2 d=0.0174337 t=5015
+cao zuo shang pin 	操作商品	c=1 d=0.733447 t=5015
+cao zuo yong hu cheng gong 	操作用戶成功	c=1 d=0.348192 t=5015
+cao zuo zhi chi 	操作支持	c=1 d=0.0710054 t=5015
+ce lve 	策略	c=0 d=0.00605068 t=5015
+ce shi 	測試	c=12 d=0.514137 t=5015
+ce shi bu 	測試部	c=1 d=1 t=5015
+ce shi lei 	測試類	c=1 d=0.327915 t=5015
+ce shi ni xiang sheng cheng 	測試逆向生成	c=1 d=0.806541 t=5015
+ceng 	層	c=13 d=1.59119 t=5015
+ceng jing you 	曾經有	c=0 d=0.0904837 t=5015
+cha 	查	c=3 d=1.00523 t=5015
+cha jian 	插件	c=2 d=0.70822 t=5015
+cha kan 	查看	c=2 d=0.572903 t=5015
+cha kan ge ren xin xi 	查看個人信息	c=1 d=0.113042 t=5015
+cha kan suo you shang pin 	查看所有商品	c=3 d=1.45633 t=5015
+cha ru 	插入	c=5 d=1.12532 t=5015
+cha ru bu men shu ju 	插入部門數據	c=1 d=0.293758 t=5015
+cha xun 	查詢	c=17 d=0.708408 t=5015
+cha xun cuo wu 	查詢錯誤	c=1 d=0.571209 t=5015
+cha xun dao 	查詢到	c=1 d=0.128735 t=5015
+cha xun dui xiang 	查詢對象	c=1 d=0.180866 t=5015
+cha xun huan cun 	查詢緩存	c=1 d=0.0057994 t=5015
+cha xun quan bu 	查詢全部	c=1 d=0.0157644 t=5015
+cha xun shi 	查詢時	c=1 d=0.0308074 t=5015
+cha xun suo you 	查詢所有	c=2 d=0.0383884 t=5015
+cha xun suo you shu ju 	查詢所有數據	c=1 d=0.715338 t=5015
+cha xun yu ju 	查詢語句	c=4 d=0.0820356 t=5015
+cha yi ge 	查一個	c=1 d=0.10435 t=5015
+cha yuan gong 	查員工	c=1 d=0.0125881 t=5015
+cha zhao 	查找	c=0 d=0.0105928 t=5015
+chan pin 	產品	c=0 d=0.0224249 t=5015
+chang de 	唱的	c=1 d=0.516851 t=5015
+chang du 	長度	c=2 d=0.112184 t=5015
+chang jian 	常見	c=1 d=0.0117371 t=5015
+chang liang 	常量	c=2 d=1.91678 t=5015
+chang yong 	常用	c=4 d=0.618047 t=5015
+chang yong biao qian 	常用標籤	c=1 d=0.0850088 t=5015
+chao guo 	超過	c=1 d=0.263158 t=5015
+chao shi 	超時	c=0 d=0.00112769 t=5015
+chao shi shi jian 	超時時間	c=1 d=0.0113334 t=5015
+che 	撤	c=0 d=0.00188734 t=5015
+che lun 	車輪	c=0 d=0.000729913 t=5015
+che xiao 	撤銷	c=0 d=0.0136695 t=5015
+cheng 	成	c=1 d=0.060388 t=5015
+cheng gong 	成功	c=3 d=0.805579 t=5015
+cheng jiu 	成就	c=0 d=0.0203926 t=5015
+cheng shi 	城市	c=1 d=0.647265 t=5015
+cheng xu 	程序	c=0 d=0.0340268 t=5015
+chi 	吃	c=1 d=0.0747952 t=5015
+chi jiu 	持久	c=0 d=0.0737123 t=5015
+chi jiu ceng 	持久層	c=1 d=0.0490458 t=5015
+chi jiu tai 	持久態	c=7 d=2.44683 t=5015
+chi jiu xing 	持久性	c=1 d=0.179066 t=5015
+chi ku nai lao 	吃苦耐勞	c=1 d=0.209088 t=5015
+chong 	重	c=0 d=0.0364219 t=5015
+chong ding xiang 	重定向	c=1 d=0.289384 t=5015
+chong fu 	重複	c=5 d=1.7644 t=5015
+chong fu dai ma 	重複代碼	c=1 d=0.637628 t=5015
+chong fu shi yong 	重複使用	c=1 d=0.562705 t=5015
+chong gou 	重構	c=1 d=0.280832 t=5015
+chong ming 	重名	c=1 d=0.0858632 t=5015
+chong shi 	重試	c=0 d=0.0782705 t=5015
+chong wu 	寵物	c=1 d=0.306476 t=5015
+chong wu dian 	寵物店	c=0 d=0.0244143 t=5015
+chong wu you 	寵物有	c=1 d=0.249075 t=5015
+chong xie 	重寫	c=1 d=0.843665 t=5015
+chong xin 	重新	c=0 d=0.0280832 t=5015
+chong xin bu shu 	重新部署	c=1 d=0.282239 t=5015
+chong zhi 	充值	c=1 d=0.220077 t=5015
+chong zhi 	重置	c=1 d=0.289384 t=5015
+chong zhi ji lu 	充值記錄	c=1 d=0.202909 t=5015
+chou xiang 	抽象	c=0 d=0.0444965 t=5015
+chou xiang lei 	抽象累	c=2 d=0.898669 t=5015
+chou yan 	抽菸	c=1 d=0.285076 t=5015
+chu cun 	儲存	c=1 d=0.826959 t=5015
+chu cuo 	出錯	c=1 d=0.102797 t=5015
+chu lai 	出來	c=2 d=0.0294201 t=5015
+chu li 	處理	c=5 d=0.961318 t=5015
+chu li bao 	處理包	c=1 d=0.822835 t=5015
+chu li guan xi 	處理關係	c=1 d=0.00683978 t=5015
+chu li guan yi 	處理冠以	c=1 d=0.0608101 t=5015
+chu li qing qiu he xiang ying 	處理請求和相應	c=1 d=0.236928 t=5015
+chu li wen jian shang chuan 	處理文件上傳	c=1 d=0.927743 t=5015
+chu li wen jian xia zai 	處理文件下載	c=1 d=0.970446 t=5015
+chu li yi lai guan xi 	處理依賴關係	c=1 d=0.0675424 t=5015
+chu li yong hu 	處理用戶	c=1 d=0.0415857 t=5015
+chu qu 	出去	c=0 d=0.025924 t=5015
+chu qu zou zou 	出去走走	c=1 d=0.26054 t=5015
+chu rou 	出肉	c=1 d=0.843665 t=5015
+chu shi hua 	初始化	c=6 d=0.984844 t=5015
+chu shou 	觸手	c=1 d=0.778801 t=5015
+chu xian 	出現	c=1 d=0.0148464 t=5015
+chu yu 	處於	c=3 d=0.936532 t=5015
+chuan bo 	傳播	c=0 d=0.00108347 t=5015
+chuan bo xing wei 	傳播行爲	c=1 d=0.010889 t=5015
+chuan can 	傳參	c=4 d=0.354005 t=5015
+chuan da 	川大	c=1 d=0.38868 t=5015
+chuan di 	傳遞	c=1 d=0.828644 t=5015
+chuan di de 	傳遞的	c=1 d=0.927743 t=5015
+chuan di guo lai 	傳遞過來	c=1 d=0.535261 t=5015
+chuan zhi 	傳值	c=1 d=0.126818 t=5015
+chuang 	牀	c=1 d=1.63793e-11 t=5015
+chuang jian 	創建	c=21 d=2.04267 t=5015
+chuang jian biao 	創建表	c=2 d=0.253974 t=5015
+chuang jian cha xun 	創建查詢	c=1 d=0.0439369 t=5015
+chuang jian dai li dui xiang 	創建代理對象	c=1 d=0.442639 t=5015
+chuang jian dui hua dui xiang 	創建對話對象	c=1 d=0.249075 t=5015
+chuang jian dui xiang 	創建對象	c=6 d=0.482094 t=5015
+chuang jian dui xiang hou 	創建對象後	c=2 d=0.0349347 t=5015
+chuang jian fang shi 	創建方式	c=1 d=0.0222592 t=5015
+chuang jian gong chang dui xiang 	創建工廠對象	c=2 d=0.584963 t=5015
+chuang jian hui hua dui xiang 	創建會話對象	c=1 d=0.341298 t=5015
+chuang jian jie xi 	創建解析	c=1 d=0.818731 t=5015
+chuang jian lei 	創建類	c=2 d=0.0866557 t=5015
+chuang jian mu biao wen jian jia 	創建目標文件夾	c=1 d=0.726149 t=5015
+chuang jian rong qi dui xiang 	創建容器對象	c=1 d=0.0871609 t=5015
+chuang jian shang xia wen dui xiang 	創建上下文對象	c=1 d=0.806541 t=5015
+chuang jian shi jian 	創建時間	c=1 d=0.0958472 t=5015
+chuang jian shi ti lei 	創建實體類	c=1 d=0.100259 t=5015
+chuang jian shu ju ku 	創建數據庫	c=1 d=0.423162 t=5015
+chuang jian wan 	創建玩	c=1 d=0.0596059 t=5015
+chuang jian yi ge 	創建一個	c=1 d=0.0430669 t=5015
+chuang jian zhu pei zhi wen jian 	創建主配置文件	c=1 d=0.310367 t=5015
+chuang jian zi dong sheng cheng 	創建自動生成	c=1 d=0.839457 t=5015
+chuang jian zi lei dai li 	創建子類代理	c=1 d=0.460704 t=5015
+chuang kou 	窗口	c=2 d=2.03928 t=5015
+chuang li 	創利	c=0 d=0.0298197 t=5015
+chuang yi 	創意	c=0 d=0.0044601 t=5015
+chun 	純	c=1 d=0.158025 t=5015
+ci li 	磁力	c=1 d=0.0182243 t=5015
+ci ma 	詞碼	c=1 d=0.440432 t=5015
+ci shu 	次數	c=1 d=1 t=5015
+ci wen jian 	此文件	c=1 d=0.0510474 t=5015
+cong 	從	c=3 d=0.918512 t=5015
+cong di yi ge gun dong dao 	從第一個滾動到	c=1 d=0.0196437 t=5015
+cong dui xiang 	從對象	c=1 d=1.48949e-11 t=5015
+cong rong qi 	從容器	c=1 d=0.0889216 t=5015
+cong shu ju ku 	從數據庫	c=1 d=0.00975476 t=5015
+cun chu 	存儲	c=1 d=0.0095616 t=5015
+cun fang 	存放	c=1 d=0.0740818 t=5015
+cun fang wen jian de mu lu 	存放文件的目錄	c=1 d=0.744532 t=5015
+cun fang zai 	存放在	c=2 d=0.722527 t=5015
+cun zai 	存在	c=3 d=0.213394 t=5015
+cun zai zhu jian 	存在主鍵	c=1 d=0.0325493 t=5015
+cun zhong 	村中	c=0 d=0.0408608 t=5015
+cuo 	錯	c=0 d=0.0310367 t=5015
+cuo wu 	錯誤	c=4 d=0.782705 t=5015
+cuo wu bian hao 	錯誤編號	c=1 d=0.0977834 t=5015
+cuo wu dui xiang 	錯誤對象	c=1 d=0.0992613 t=5015
+cuo wu ti shi xin xi 	錯誤提示信息	c=1 d=0.100259 t=5015
+cuo wu xin xi 	錯誤信息	c=1 d=0.0948935 t=5015
+cuo yong zi 	錯用字	c=1 d=0.311923 t=5015
+da 	大	c=0 d=0.00118551 t=5015
+da bao zha 	大爆炸	c=0 d=0.00155297 t=5015
+da da 	大大	c=0 d=0.0579217 t=5015
+da da jian shao 	大大減少	c=1 d=0.579842 t=5015
+da da jiang di 	大大降低	c=1 d=0.516851 t=5015
+da gu tou 	大骨頭	c=1 d=0.0119145 t=5015
+da jian 	搭建	c=1 d=0.454451 t=5015
+da jian xiang mu mu lu 	搭建項目目錄	c=1 d=0.408608 t=5015
+da jian ying yong 	搭建應用	c=1 d=0.367879 t=5015
+da kai 	打開	c=1 d=0.00546167 t=5015
+da lian 	大臉	c=0 d=0.00116203 t=5015
+da lian mao 	大臉貓	c=1 d=0.0116786 t=5015
+da man guan 	大滿貫	c=1 d=0.694197 t=5015
+da man guan de kai shi 	大滿貫的開始	c=1 d=0.364219 t=5015
+da sa 	搭撒	c=1 d=0.38868 t=5015
+da shi 	大勢	c=1 d=0.0152985 t=5015
+da si 	大四	c=1 d=0.133989 t=5015
+da wen ti 	大問題	c=0 d=0.0767206 t=5015
+da wen ti mei you 	大問題沒有	c=1 d=0.771052 t=5015
+da ye 	大業	c=1 d=0.509156 t=5015
+da yi 	大一	c=1 d=0.0550232 t=5015
+da zhao 	大招	c=0 d=0.0878095 t=5015
+dai biao 	代表	c=0 d=0.00212797 t=5015
+dai biao yi ge shu ju ku 	代表一個數據庫	c=1 d=0.0213864 t=5015
+dai kuan 	貸款	c=0 d=0.0282239 t=5015
+dai li 	代理	c=7 d=4.0164 t=5015
+dai li dui xiang 	代理對象	c=9 d=3.31206 t=5015
+dai li lei 	代理類	c=3 d=0.902021 t=5015
+dai li mo shi 	代理模式	c=1 d=0.228779 t=5015
+dai li shi li diao yong de cheng xu 	代理實例調用的程序	c=1 d=0.341298 t=5015
+dai ma 	代碼	c=14 d=5.56934 t=5015
+dai ma ce shi 	代碼測試	c=1 d=0.116484 t=5015
+dai ma de chong yong xing 	代碼的重用性	c=1 d=0.366045 t=5015
+dai ma fu shen 	代碼複審	c=1 d=0.278037 t=5015
+dai ma rong yu 	代碼冗餘	c=1 d=0.293758 t=5015
+dai ma shi xian 	代碼實現	c=1 d=0.157237 t=5015
+dai ma yan zheng 	代碼驗證	c=1 d=0.631284 t=5015
+dai ti 	代替	c=1 d=0.540641 t=5015
+dan 	但	c=0 d=0.0115325 t=5015
+dan bu hui bai fei 	但不會白費	c=2 d=0.232971 t=5015
+dan chun 	單純	c=1 d=0.034562 t=5015
+dan dian 	單點	c=0 d=1.36812e-12 t=5015
+dan dian deng lu 	單點登錄	c=1 d=1.37498e-11 t=5015
+dan ge 	單個	c=1 d=0.375311 t=5015
+dan li 	單例	c=5 d=0.284833 t=5015
+dan shi 	但是	c=4 d=1.44928 t=5015
+dan shi wo mei you kan dao duan xin 	但是我沒有看到短信	c=1 d=0.0197421 t=5015
+dan xiang 	單項	c=0 d=0.033454 t=5015
+dan xiang yi dui duo 	單項一對多	c=1 d=0.336216 t=5015
+dan yuan ce shi 	單元測試	c=0 d=0.0275271 t=5015
+dang 	當	c=0 d=0.129112 t=5015
+dang diao yong 	當調用	c=2 d=0.798516 t=5015
+dang qian 	當前	c=4 d=1.35532 t=5015
+dang qian dui xiang 	當前對象	c=3 d=0.355207 t=5015
+dang qian fang fa 	當前方法	c=1 d=0.774916 t=5015
+dang qian fang mei you kong zhi quan 	當前方沒有控制權	c=1 d=0.50409 t=5015
+dang qian fang you kong zhi quan 	當前方有控制權	c=1 d=0.499074 t=5015
+dang qian huan jing 	當前環境	c=1 d=0.551563 t=5015
+dang qian mi ma 	當前密碼	c=4 d=0.274643 t=5015
+dang qian wen jian 	當前文件	c=1 d=0.965605 t=5015
+dang qian ye shu 	當前頁數	c=1 d=0.946485 t=5015
+dao 	到	c=8 d=1.42557 t=5015
+dao bao 	導包	c=9 d=0.782139 t=5015
+dao na 	到哪	c=1 d=0.937067 t=5015
+dao ru 	導入	c=3 d=0.981147 t=5015
+dao shu 	倒數	c=0 d=0.0135335 t=5015
+dao shu di si ge 	倒數第四個	c=1 d=0.136014 t=5015
+dao shu ju ku 	到數據庫	c=1 d=0.0259911 t=5015
+dao xiao 	到小	c=1 d=0.313486 t=5015
+de 	地	c=1 d=0.350394 t=5015
+de 	的	c=270 d=16.088 t=5015
+de di ceng 	的底層	c=1 d=0.0642483 t=5015
+de dui ying 	的對應	c=1 d=0.856415 t=5015
+de hua 	的話	c=0 d=0.000909528 t=5015
+de shu 	的書	c=0 d=0.0377192 t=5015
+dei qu 	得去	c=0 d=0.00156076 t=5015
+deng 	等	c=2 d=0.805785 t=5015
+deng lu 	登錄	c=26 d=8.45812 t=5015
+deng lu cheng gong 	登錄成功	c=4 d=1.07286 t=5015
+deng lu fang fa 	登錄方法	c=3 d=0.460704 t=5015
+deng lu jie mian 	登錄界面	c=2 d=0.0824965 t=5015
+deng lu le 	登錄了	c=2 d=0.674034 t=5015
+deng lu shi bai 	登錄失敗	c=1 d=0.470011 t=5015
+deng lu ye mian 	登錄頁面	c=2 d=0.736497 t=5015
+di 	低	c=0 d=0.00439369 t=5015
+di 	地	c=0 d=0.0282239 t=5015
+di 	第	c=4 d=1.34079 t=5015
+di ceng 	底層	c=0 d=0.00639279 t=5015
+di dong 	地動	c=1 d=0.287941 t=5015
+di du 	帝都	c=1 d=0.0183156 t=5015
+di er 	第二	c=0 d=0.127207 t=5015
+di er bai jiu shi ba ji 	第二百九十八集	c=1 d=0.637628 t=5015
+di er bai jiu shi jiu ji 	第二百九十九集	c=1 d=0.640824 t=5015
+di er ge 	第二個	c=2 d=0.839457 t=5015
+di ji 	第幾	c=0 d=0.0937067 t=5015
+di ji ye 	第幾頁	c=1 d=0.941765 t=5015
+di li wei zhi 	地理位置	c=1 d=0.0205478 t=5015
+di san 	第三	c=0 d=0.129777 t=5015
+di san bai 	第三百	c=1 d=2.63147 t=5015
+di san bai er shi ba ji 	第三百二十八集	c=1 d=0.752014 t=5015
+di san bai er shi er ji 	第三百二十二集	c=1 d=0.729789 t=5015
+di san bai er shi ji 	第三百二十集	c=1 d=0.722527 t=5015
+di san bai er shi jiu ji 	第三百二十九集	c=1 d=0.755784 t=5015
+di san bai er shi liu ji 	第三百二十六集	c=1 d=0.744532 t=5015
+di san bai er shi qi ji 	第三百二十七集	c=1 d=0.748264 t=5015
+di san bai er shi san ji 	第三百二十三集	c=1 d=0.733447 t=5015
+di san bai er shi si ji 	第三百二十四集	c=1 d=0.737123 t=5015
+di san bai er shi wu ji 	第三百二十五集	c=1 d=0.740818 t=5015
+di san bai er shi yi ji 	第三百二十一集	c=1 d=0.726149 t=5015
+di san bai ling ba ji 	第三百零八集	c=1 d=0.677057 t=5015
+di san bai ling jiu ji 	第三百零九集	c=1 d=0.683861 t=5015
+di san bai ling liu ji 	第三百零六級	c=1 d=0.67032 t=5015
+di san bai ling qi ji 	第三百零七集	c=1 d=0.67368 t=5015
+di san bai ling san ji 	第三百零三集	c=1 d=0.66034 t=5015
+di san bai ling si ji 	第三百零四集	c=1 d=0.66365 t=5015
+di san bai ling wu ji 	第三百零五集	c=1 d=0.666977 t=5015
+di san bai ling yi ji 	第三百零一集	c=1 d=0.650509 t=5015
+di san bai san shi ji 	第三百三十集	c=1 d=0.759572 t=5015
+di san bai yi shi ba ji 	第三百一十八集	c=1 d=0.715338 t=5015
+di san bai yi shi er ji 	第三百一十二集	c=1 d=0.694197 t=5015
+di san bai yi shi ji 	第三百一十集	c=1 d=0.687289 t=5015
+di san bai yi shi jiu ji 	第三百一十九集	c=1 d=0.718924 t=5015
+di san bai yi shi liu ji 	第三百一十六集	c=1 d=0.70822 t=5015
+di san bai yi shi qi ji 	第三百一十七集	c=1 d=0.71177 t=5015
+di san bai yi shi san ji 	第三百一十三集	c=1 d=0.697676 t=5015
+di san bai yi shi si ji 	第三百一十四集	c=1 d=0.701173 t=5015
+di san bai yi shi wu ji 	第三百一十五集	c=1 d=0.704688 t=5015
+di san bai yi shi yi ji 	第三百一十一集	c=1 d=0.690734 t=5015
+di san fang 	第三方	c=0 d=0.0384812 t=5015
+di san fang lian jie chi 	第三方連接池	c=1 d=0.386741 t=5015
+di san ge 	第三個	c=1 d=0.175566 t=5015
+di san ge can shu 	第三個參數	c=1 d=0.103312 t=5015
+di si ge 	第四個	c=0 d=0.0135335 t=5015
+di yi ci 	第一次	c=0 d=0.0278037 t=5015
+di yi ci deng lu 	第一次登錄	c=1 d=0.279431 t=5015
+di yi ge 	第一個	c=0 d=0.00195457 t=5015
+di yi tiao 	第一條	c=0 d=0.012938 t=5015
+di yu 	地獄	c=0 d=0.00221482 t=5015
+di zhi 	地址	c=1 d=0.640824 t=5015
+dian 	點	c=1 d=0.860708 t=5015
+dian hua 	電話	c=1 d=0.0824965 t=5015
+dian ji 	點擊	c=1 d=0.86587 t=5015
+dian ji shang chuan 	點擊上傳	c=1 d=0.802519 t=5015
+dian jing 	電競	c=2 d=1 t=5015
+dian liang 	電量	c=1 d=0.384812 t=5015
+dian liang 	點亮	c=1 d=0.382893 t=5015
+dian nao 	電腦	c=3 d=0.582169 t=5015
+dian nao ban gong 	電腦辦公	c=1 d=0.109701 t=5015
+dian shang 	電商	c=1 d=0.371577 t=5015
+dian shang 	點上	c=0 d=0.0367879 t=5015
+dian shang xiang mu 	點上項目	c=1 d=0.369723 t=5015
+dian xin 	電信	c=4 d=0.0598889 t=5015
+dian xin ka 	電信卡	c=1 d=0.0202419 t=5015
+dian xing 	典型	c=0 d=0.0603506 t=5015
+dian xing mo shi 	典型模式	c=1 d=0.606531 t=5015
+dian zi you jian 	電子郵件	c=1 d=0.194952 t=5015
+diao 	掉	c=0 d=0.0254107 t=5015
+diao fang fa 	掉方法	c=1 d=0.255381 t=5015
+diao yong 	調用	c=11 d=1.78427 t=5015
+diao yong gong chang fang fa 	調用工廠方法	c=1 d=0.70822 t=5015
+diao yong jie kou 	調用接口	c=1 d=0.348192 t=5015
+diao yong jie kou fang fa 	調用接口方法	c=1 d=0.256661 t=5015
+diao yong le 	調用了	c=1 d=0.687289 t=5015
+diao yong shu ju ku 	調用數據庫	c=1 d=0.511709 t=5015
+die dai 	迭代	c=2 d=1.83705 t=5015
+ding dan 	訂單	c=2 d=0.884434 t=5015
+ding dan bian hao 	訂單編號	c=2 d=0.618976 t=5015
+ding dan bian hao shu liang 	訂單編號數量	c=1 d=0.33454 t=5015
+ding dan biao zhong 	訂單表中	c=1 d=0.358796 t=5015
+ding dan jin e 	訂單金額	c=1 d=0.377192 t=5015
+ding dan xiang qing 	訂單詳情	c=1 d=0.329559 t=5015
+ding dan zhuang tai 	訂單狀態	c=1 d=0.379083 t=5015
+ding dian 	定點	c=0 d=0.0339596 t=5015
+ding dian xiang qing biao 	定點詳情表	c=1 d=0.341298 t=5015
+ding shi qi 	定時器	c=1 d=1.56586e-11 t=5015
+ding yi 	定義	c=8 d=2.8312 t=5015
+dong tai 	動態	c=1 d=0.862254 t=5015
+dong tai dai li 	動態代理	c=5 d=2.09049 t=5015
+dong tai dai li lei 	動態代理類	c=1 d=0.331211 t=5015
+dong tai de gei mu biao dui xiang 	動態的給目標對象	c=1 d=0.316637 t=5015
+dong tai de zai nei cun zhong gou jian dai li dui xiang 	動態地在內存中構建代理對象	c=1 d=0.307279 t=5015
+dong tai zhi ru 	動態植入	c=1 d=0.603506 t=5015
+dong wu 	動物	c=0 d=0.00106734 t=5015
+dong wu lei 	動物類	c=1 d=0.0107269 t=5015
+dong xi 	東西	c=0 d=0.0394554 t=5015
+dong zuo 	動作	c=0 d=0.0182684 t=5015
+dou 	都	c=2 d=0.0672269 t=5015
+dou feng zhuang cheng shi ti lei 	都封裝成實體類	c=1 d=0.142274 t=5015
+dou ji cheng 	都繼承	c=1 d=0.418952 t=5015
+dou pei zhi le 	都配置了	c=1 d=0.344728 t=5015
+dou shi 	都是	c=1 d=0.951229 t=5015
+dou shi yi ge zi lei 	都是一個子類	c=1 d=0.010889 t=5015
+dou tui 	抖腿	c=1 d=0.00588705 t=5015
+dou xu yao kai qi shi wu 	都需要開啓事物	c=1 d=0.0464212 t=5015
+dou xu yao xie 	都需要寫	c=1 d=0.0523397 t=5015
+dou yao 	都要	c=1 d=0.0585669 t=5015
+dou you 	都有	c=1 d=0.00628242 t=5015
+du 	度	c=1 d=0.0548812 t=5015
+du 	讀	c=0 d=0.0546074 t=5015
+du dong 	讀懂	c=1 d=0.0350844 t=5015
+du shi 	都市	c=0 d=0.0715338 t=5015
+du shi qi yuan 	都市奇緣	c=1 d=0.718924 t=5015
+du shu 	讀書	c=1 d=0.00775048 t=5015
+duan 	段	c=1 d=0.0120946 t=5015
+duan lian shen ti 	鍛鍊身體	c=1 d=0.279431 t=5015
+duan xin 	短信	c=0 d=0.00196437 t=5015
+dui 	對	c=12 d=0.680594 t=5015
+dui bi 	對比	c=0 d=0.0162838 t=5015
+dui bi chong fu 	對比重複	c=1 d=0.163654 t=5015
+dui bu qi 	對不起	c=1 d=0.343009 t=5015
+dui dai ma 	對代碼	c=1 d=0.00923273 t=5015
+dui gong zi 	對工資	c=1 d=0.22091 t=5015
+dui hua 	對話	c=0 d=0.0247833 t=5015
+dui shang pin 	對商品	c=1 d=0.467666 t=5015
+dui shu ju ku 	對數據庫	c=2 d=0.928417 t=5015
+dui xian you de lei you ying xiang 	對現有的類有影響	c=1 d=0.0513033 t=5015
+dui xiang 	對象	c=39 d=5.80581 t=5015
+dui xiang chuang jian 	對象創建	c=1 d=0.0495388 t=5015
+dui xiang de yi lai guan xi 	對象的依賴關係	c=1 d=0.0590129 t=5015
+dui xiang fa sheng geng gai shi 	對象發生更改時	c=1 d=0.852144 t=5015
+dui xiang fang zai 	對象放在	c=1 d=0.00835412 t=5015
+dui xiang guan xi ying she 	對象關係映射	c=1 d=0.00909528 t=5015
+dui xiang he shu ju ku biao de jiao hu 	對象和數據庫表的交互	c=1 d=0.0124007 t=5015
+dui xiang hua 	對象化	c=1 d=0.0100017 t=5015
+dui xiang jiu bian wei le 	對象就變爲了	c=1 d=0.810584 t=5015
+dui xiang ming 	對象名	c=1 d=0.0135686 t=5015
+dui xiang shan chu le 	對象刪除了	c=1 d=0.00474815 t=5015
+dui xiang shu xing 	對象屬性	c=1 d=0.856415 t=5015
+dui xiang shu zu 	對象數組	c=2 d=0.24782 t=5015
+dui xiang ying she wen jian 	對象映射文件	c=1 d=0.0223708 t=5015
+dui xiang zhi jie bao cun dao shu ju 	對象直接保存到數據	c=1 d=0.0488012 t=5015
+dui ying 	對應	c=3 d=0.688448 t=5015
+dui ying de 	對應的	c=1 d=0.63385 t=5015
+dui ying de ji lu 	對應的記錄	c=1 d=0.913931 t=5015
+dui ying de lei 	對應的類	c=1 d=0.423162 t=5015
+dui ying yi ge ren 	對應一個人	c=1 d=0.00618889 t=5015
+dui ying zhong jian biao 	對應中間表	c=1 d=0.357007 t=5015
+dun guo 	燉鍋	c=0 d=0.0650509 t=5015
+duo 	多	c=1 d=0.0939568 t=5015
+duo ci 	多次	c=1 d=0.108067 t=5015
+duo de 	多的	c=0 d=0.0683861 t=5015
+duo dui duo 	多對多	c=3 d=0.447259 t=5015
+duo dui duo ying she 	多對多映射	c=2 d=0.14452 t=5015
+duo dui duo ying she guan xi 	多對多映射關係	c=1 d=0.349938 t=5015
+duo dui yi 	多對一	c=7 d=1.87318 t=5015
+duo ge 	多個	c=0 d=0.0120032 t=5015
+duo ge shou huo di zhi 	多個收貨地址	c=1 d=0.120633 t=5015
+duo jiu 	多久	c=0 d=0.00608101 t=5015
+duo li 	多例	c=3 d=0.195686 t=5015
+duo shao 	多少	c=0 d=0.187451 t=5015
+duo shao ge 	多少個	c=0 d=0.187045 t=5015
+duo shao kai shi 	多少開始	c=1 d=0.923116 t=5015
+duo tiao 	多條	c=0 d=0.0128735 t=5015
+duo tiao shu ju 	多條數據	c=1 d=0.12938 t=5015
+duo xian cheng 	多線程	c=1 d=0.479505 t=5015
+duo yu 	多餘	c=1 d=0.0239928 t=5015
+e wai de 	額外的	c=0 d=0.0245367 t=5015
+e wai de gong neng 	額外的功能	c=1 d=0.246597 t=5015
+en 	恩	c=3 d=0.951229 t=5015
+en en 	嗯嗯	c=1 d=0.153355 t=5015
+er 	二	c=1 d=0.0963739 t=5015
+er 	而	c=1 d=0.025223 t=5015
+er bai 	二百	c=0 d=0.0631284 t=5015
+er bai jiu shi qi ji 	二百九十七集	c=1 d=0.634448 t=5015
+er ji 	二集	c=0 d=0.207066 t=5015
+er ji huan cun 	二級緩存	c=6 d=0.171187 t=5015
+er jin zhi 	二進制	c=0 d=0.0814647 t=5015
+er jin zhi lei xing 	二進制類型	c=1 d=0.818731 t=5015
+er shi 	二十	c=0 d=0.660905 t=5015
+er shi qi 	二十七	c=0 d=0.0744532 t=5015
+fa 	發	c=2 d=0.293758 t=5015
+fa lv fa gui 	法律法規	c=0 d=0.0343009 t=5015
+fa sheng 	發生	c=0 d=0.0847894 t=5015
+fa song 	發送	c=4 d=0.850794 t=5015
+fa song qing qiu 	發送請求	c=1 d=0.0833256 t=5015
+fan 	反	c=0 d=0.00862936 t=5015
+fan hui 	返回	c=8 d=1.2938 t=5015
+fan hui de lu jing 	返回的路徑	c=1 d=0.244143 t=5015
+fan hui hou tong zhi 	返回後通知	c=1 d=0.020141 t=5015
+fan hui mu biao dui xiang 	返回目標對象	c=1 d=0.358796 t=5015
+fan hui quan bu shu ju 	返回全部數據	c=1 d=0.106992 t=5015
+fan hui suo you shu ju 	返回所有數據	c=3 d=0.422336 t=5015
+fan hui tong zhi 	返回通知	c=1 d=0.0206508 t=5015
+fan hui yi ge 	返回一個	c=1 d=0.379083 t=5015
+fan hui yi tiao shu ju 	返回一條數據	c=2 d=0.2747 t=5015
+fan hui zhi 	返回值	c=1 d=0.860145 t=5015
+fan she 	反射	c=1 d=0.329559 t=5015
+fan shi 	範式	c=0 d=0.00135009 t=5015
+fan suo 	繁瑣	c=0 d=0.000873865 t=5015
+fan wei 	範圍	c=0 d=0.0222017 t=5015
+fan wei nei 	範圍內	c=1 d=0.00790705 t=5015
+fan yi 	翻譯	c=2 d=0.753936 t=5015
+fan yin hao 	反引號	c=1 d=0.0867261 t=5015
+fan zhuan 	反轉	c=1 d=0.589467 t=5015
+fang 	放	c=0 d=0.0814647 t=5015
+fang 	方	c=0 d=0.0501576 t=5015
+fang an 	方案	c=0 d=0.00188734 t=5015
+fang bian 	方便	c=0 d=0.0181772 t=5015
+fang bian zuo 	方便做	c=1 d=0.182684 t=5015
+fang dao 	放到	c=0 d=0.0116484 t=5015
+fang dao ji he zhong 	放到集合中	c=1 d=0.117068 t=5015
+fang fa 	方法	c=44 d=5.87117 t=5015
+fang fa ming 	方法名	c=2 d=1.1315 t=5015
+fang fa ming shi bu shi 	方法名是不是	c=1 d=0.522046 t=5015
+fang fa shi 	方法時	c=1 d=0.806541 t=5015
+fang fa zhong 	方法中	c=1 d=1.57371e-11 t=5015
+fang hui 	放回	c=0 d=0.00992613 t=5015
+fang hui shu ju ku zhong 	放回數據庫中	c=1 d=0.0997588 t=5015
+fang qi 	放棄	c=0 d=0.00710054 t=5015
+fang qi ba 	放棄吧	c=1 d=0.0713613 t=5015
+fang ru 	放入	c=1 d=0.00565622 t=5015
+fang shi 	方式	c=8 d=1.50223 t=5015
+fang shi er 	方式二	c=1 d=0.00778933 t=5015
+fang shu ju 	放數據	c=1 d=0.818731 t=5015
+fang wen 	訪問	c=7 d=1.70728 t=5015
+fang wen ci shu 	訪問次數	c=1 d=0.00806679 t=5015
+fang wen de 	訪問的	c=3 d=0.840098 t=5015
+fang wen fang shi 	訪問方式	c=1 d=0.235746 t=5015
+fang wen lu jing 	訪問路徑	c=3 d=0.962108 t=5015
+fang xiang 	方想	c=1 d=0.70822 t=5015
+fang xing 	放行	c=9 d=3.89234 t=5015
+fang xing jing tai zi yuan 	放行靜態資源	c=1 d=0.0672055 t=5015
+fang yan 	方言	c=0 d=0.00413782 t=5015
+fang yan pei zhi 	方言配置	c=1 d=0.0415857 t=5015
+fang zai 	放在	c=8 d=1.1163 t=5015
+fang zai tong yi ge wen jian jia 	放在同一個文件夾	c=1 d=0.122456 t=5015
+fang zhi 	防止	c=3 d=2.18629 t=5015
+fei 	費	c=1 d=1.6544e-11 t=5015
+fei 	非	c=1 d=0.869358 t=5015
+fei chang 	非常	c=0 d=0.0582748 t=5015
+fei chang bu ling huo 	非常不靈活	c=1 d=0.585669 t=5015
+fei chang you xiu 	非常優秀	c=1 d=0.177284 t=5015
+fei qin ru shi kuang jia 	非侵入式框架	c=1 d=0.054204 t=5015
+fei zhu jian ying she 	非主鍵映射	c=2 d=0.12252 t=5015
+fen lei 	分類	c=1 d=0.618783 t=5015
+fen li 	分離	c=0 d=0.0548812 t=5015
+fen pei 	分配	c=0 d=0.0432785 t=5015
+fen pei jue se 	分配角色	c=2 d=0.127233 t=5015
+fen pei quan xian 	分配權限	c=2 d=0.236634 t=5015
+fen xi 	分析	c=0 d=0.001649 t=5015
+fen xi bu 	分析部	c=2 d=0.0336501 t=5015
+fen ye 	分頁	c=5 d=1.43021 t=5015
+fen ye cha xun 	分頁查詢	c=2 d=0.0430569 t=5015
+fen ye xian shi 	分頁顯示	c=1 d=0.995012 t=5015
+fen ye xian shi shi bai 	分頁顯示失敗	c=1 d=0.99005 t=5015
+fen ye zhan shi shang pin 	分頁展示商品	c=3 d=1.5259 t=5015
+fen zu 	分組	c=0 d=0.00161635 t=5015
+fen zu cha xun 	分組查詢	c=2 d=0.0423661 t=5015
+feng yi 	風衣	c=1 d=0.398519 t=5015
+feng zhuang 	封裝	c=9 d=1.43387 t=5015
+feng zhuang cheng shu zu 	封裝成數組	c=1 d=0.13466 t=5015
+feng zhuang jin 	封裝進	c=1 d=0.516851 t=5015
+fu 	父	c=0 d=0.0142635 t=5015
+fu gai 	覆蓋	c=0 d=0.0847677 t=5015
+fu gui hua 	富貴花	c=1 d=0.0378169 t=5015
+fu jin 	附近	c=1 d=0.390628 t=5015
+fu kuan 	付款	c=0 d=0.0467666 t=5015
+fu kuan can kao hao ma 	付款參考號碼	c=1 d=0.0411719 t=5015
+fu lei 	父類	c=1 d=0.0585515 t=5015
+fu mo kuai dai ma 	父模塊代碼	c=1 d=0.142987 t=5015
+fu shen 	複審	c=0 d=0.0276651 t=5015
+fu wen 	符文	c=1 d=0.0731678 t=5015
+fu wu 	服務	c=0 d=0.0355226 t=5015
+fu wu qi 	服務器	c=4 d=0.91074 t=5015
+fu za 	複雜	c=1 d=0.0122162 t=5015
+fu zhi 	賦值	c=2 d=0.0363668 t=5015
+gai 	改	c=4 d=1.50886 t=5015
+gai 	該	c=4 d=0.97428 t=5015
+gai bian 	改變	c=0 d=0.0856415 t=5015
+gai bian shi 	改變時	c=1 d=0.860708 t=5015
+gai cao zuo bu ke che xiao 	該操作不可撤銷	c=1 d=0.137381 t=5015
+gai cheng 	改成	c=0 d=0.0423162 t=5015
+gai le 	改了	c=0 d=0.080229 t=5015
+gai le ba 	改了吧	c=1 d=0.506617 t=5015
+gai le ma 	改了嗎	c=1 d=0.299692 t=5015
+gai lei 	該類	c=0 d=0.0440432 t=5015
+gai lei bie de suo you shang pin 	該類別的所有商品	c=1 d=0.442639 t=5015
+gai mu lu xia 	該目錄下	c=1 d=0.752014 t=5015
+gai qie ru dian 	該切入點	c=1 d=0.0199405 t=5015
+gai shang pin yi bei xia jia 	該商品已被下架	c=1 d=0.752014 t=5015
+gai yong hu 	該用戶	c=2 d=0.384074 t=5015
+gai yong hu de shu ju 	該用戶的數據	c=2 d=0.726639 t=5015
+gan jin 	趕緊	c=2 d=0.0292873 t=5015
+gan jue bu dao 	感覺不到	c=1 d=0.0623495 t=5015
+gao 	高	c=1 d=0.173137 t=5015
+gao chuang li 	高創利	c=3 d=0.908165 t=5015
+gao de 	搞得	c=0 d=0.00156076 t=5015
+gao de wo hai dei qu 	搞得我還得去	c=1 d=0.0156858 t=5015
+gao hang 	高航	c=2 d=0.131472 t=5015
+gao hang 	高行	c=-1 d=0 t=5015
+gao ji 	高級	c=0 d=0.00640057 t=5015
+gao ji guan li yuan 	高級管理員	c=1 d=0.0380064 t=5015
+gao ji quan xian 	高級權限	c=1 d=0.0620385 t=5015
+gao su 	告訴	c=0 d=0.083527 t=5015
+gao su liu lan qi 	告訴瀏覽器	c=1 d=0.839457 t=5015
+gao su ni 	告訴你	c=1 d=0.151829 t=5015
+gao zhi 	告知	c=0 d=0.0980199 t=5015
+gao zhi liu lan qi 	告知瀏覽器	c=1 d=0.985112 t=5015
+ge 	個	c=3 d=0.955997 t=5015
+ge 	哥	c=1 d=0.125556 t=5015
+ge di fang 	各地方	c=0 d=0.050409 t=5015
+ge li 	隔離	c=0 d=0.00106202 t=5015
+ge li ji bie 	隔離級別	c=1 d=0.0106734 t=5015
+ge ren xin xi 	個人信息	c=0 d=0.0112478 t=5015
+ge shi 	格式	c=1 d=0.396991 t=5015
+ge shi cuo wu 	格式錯誤	c=1 d=0.597501 t=5015
+ge shi hua 	格式化	c=2 d=0.045502 t=5015
+ge shu 	個數	c=1 d=0.0227353 t=5015
+ge xing 	個性	c=1 d=0.219386 t=5015
+ge xing shang 	個性上	c=1 d=0.205975 t=5015
+ge zhong 	各種	c=0 d=0.00184074 t=5015
+ge zhong jie liu 	各種節流	c=1 d=0.0184997 t=5015
+gei 	給	c=1 d=0.504948 t=5015
+gei fang fa 	給方法	c=1 d=0.501576 t=5015
+gei mu biao dui xiang 	給目標對象	c=1 d=0.440432 t=5015
+gei nin 	給您	c=0 d=0.025284 t=5015
+gei wo 	給我	c=0 d=0.0369723 t=5015
+gen 	根	c=0 d=0.0767206 t=5015
+gen 	跟	c=1 d=0.017163 t=5015
+gen ju 	根據	c=1 d=0.111683 t=5015
+gen ju shu ju 	根據數據	c=1 d=0.0808629 t=5015
+gen ju shu ju ku 	根據數據庫	c=1 d=0.0639279 t=5015
+gen ju you guan fa lv fa gui 	根據有關法律法規	c=2 d=0.344728 t=5015
+gen yuan su 	根元素	c=4 d=3.17299 t=5015
+gen yuan su li 	根元素裏	c=1 d=0.814647 t=5015
+geng gai 	更改	c=0 d=0.0847894 t=5015
+geng xin 	更新	c=3 d=0.392421 t=5015
+geng xin shu ju 	更新數據	c=1 d=0.0347353 t=5015
+gong 	攻	c=0 d=0.0268474 t=5015
+gong chang 	工廠	c=0 d=0.0789807 t=5015
+gong chang dui xiang 	工廠對象	c=1 d=0.0259405 t=5015
+gong chang lei 	工廠類	c=1 d=0.0183156 t=5015
+gong chang lei chuang jian dui xiang 	工廠類創建對象	c=1 d=0.0182243 t=5015
+gong cheng xi 	工程系	c=0 d=0.0108067 t=5015
+gong hao 	工號	c=2 d=0.114742 t=5015
+gong hui 	工會	c=0 d=0.0442639 t=5015
+gong hui ju lei 	工會聚類	c=1 d=0.444858 t=5015
+gong ju 	工具	c=0 d=0.0410656 t=5015
+gong ju lei 	工具類	c=4 d=0.456079 t=5015
+gong neng 	功能	c=5 d=0.460521 t=5015
+gong neng ce shi 	功能測試	c=1 d=0.117068 t=5015
+gong neng mo kuai 	功能模塊	c=1 d=0.161268 t=5015
+gong su kuai le 	攻速快了	c=1 d=0.26982 t=5015
+gong wang 	公網	c=1 d=0.0291588 t=5015
+gong xiang 	共享	c=1 d=1.035 t=5015
+gong xiang yu 	共享域	c=6 d=2.42797 t=5015
+gong zi 	工資	c=0 d=0.0219808 t=5015
+gong zuo 	工作	c=1 d=0.0760923 t=5015
+gou 	夠	c=0 d=0.00178634 t=5015
+gou jian 	構建	c=1 d=0.748264 t=5015
+gou jian yi ge 	構建一個	c=2 d=0.846589 t=5015
+gou wo yong le 	夠我用了	c=1 d=0.017953 t=5015
+gu ding 	固定	c=1 d=0.582748 t=5015
+gu tou 	骨頭	c=0 d=0.00118551 t=5015
+guan bi 	關閉	c=5 d=0.872053 t=5015
+guan bi lian jie 	關閉連接	c=1 d=0.0948935 t=5015
+guan bi shi wu 	關閉事物	c=4 d=1.37014 t=5015
+guan bi zi yuan 	關閉資源	c=3 d=0.263546 t=5015
+guan jian ci 	關鍵詞	c=4 d=0.75773 t=5015
+guan jian dian 	關鍵點	c=2 d=0.407393 t=5015
+guan jian zi 	關鍵字	c=2 d=1 t=5015
+guan li 	管理	c=8 d=2.54465 t=5015
+guan li lei 	管理類	c=1 d=0.0152222 t=5015
+guan li lei dui xiang 	管理類對象	c=1 d=0.0246002 t=5015
+guan li lian jie 	管理連接	c=1 d=0.0146986 t=5015
+guan li qi 	管理器	c=0 d=0.0946485 t=5015
+guan li yuan 	管理員	c=4 d=0.185987 t=5015
+guan lian 	關聯	c=1 d=0.298545 t=5015
+guan lian guan xi 	關聯關係	c=1 d=0.551563 t=5015
+guan lian ying she 	關聯映射	c=1 d=0.106992 t=5015
+guan xi 	關係	c=8 d=1.66469 t=5015
+guan xi ying she 	關係映射	c=1 d=0.228779 t=5015
+guan xin 	關心	c=0 d=0.0582748 t=5015
+guan xin ye wu 	關心業務	c=1 d=0.585669 t=5015
+guan yi 	冠以	c=0 d=0.00605068 t=5015
+guan yu 	關於	c=0 d=0.00188734 t=5015
+guan zhu dian 	關注點	c=3 d=1.82339 t=5015
+guan zhu dian dai ma 	關注點代碼	c=3 d=1.63088 t=5015
+guang zhou 	廣州	c=1 d=0.144424 t=5015
+gui fan 	規範	c=0 d=0.0181772 t=5015
+gui jia 	歸家	c=0 d=0.0353455 t=5015
+gui jia yi tu 	歸家異途	c=1 d=0.355226 t=5015
+gui ze 	規則	c=1 d=0.075774 t=5015
+gun dong 	滾動	c=0 d=0.00389939 t=5015
+gun dong de jie guo ji 	滾動的結果集	c=1 d=0.0195457 t=5015
+guo 	過	c=0 d=0.0904837 t=5015
+guo cheng 	過程	c=1 d=0.0400517 t=5015
+guo ji hua 	國際化	c=3 d=1.93143 t=5015
+guo jia 	國家	c=4 d=1.15805 t=5015
+guo jia kai fa yin hang 	國家開發銀行	c=0 d=0.029671 t=5015
+guo jia kai fa yin hang sheng yuan di dai kuan 	國家開發銀行生源地貸款	c=1 d=0.298197 t=5015
+guo lai 	過來	c=0 d=0.11184 t=5015
+guo lai de shu ju 	過來的數據	c=1 d=0.782705 t=5015
+guo lv qi 	過濾器	c=1 d=0.949867 t=5015
+guo ran 	果然	c=1 d=0.818731 t=5015
+ha ha 	哈哈	c=2 d=0.156453 t=5015
+ha ha ha 	哈哈哈	c=1 d=0.826959 t=5015
+hai 	還	c=1 d=0.0198411 t=5015
+hai bu 	還不	c=0 d=0.00154523 t=5015
+hai bu geng xin 	還不更新	c=1 d=0.0155297 t=5015
+hai shi 	還是	c=2 d=1.82511 t=5015
+hai shi tai gao 	還是太高	c=1 d=0.554327 t=5015
+hai zai 	還在	c=1 d=0.0053377 t=5015
+han shu 	函數	c=0 d=0.0472841 t=5015
+han you 	含有	c=1 d=1.45272e-11 t=5015
+han zi 	漢字	c=2 d=0.34669 t=5015
+hang 	行	c=2 d=0.264477 t=5015
+hang shu 	行數	c=1 d=0.100259 t=5015
+hang suo 	行鎖	c=1 d=0.102797 t=5015
+hang zhou 	杭州	c=1 d=0.128735 t=5015
+hao 	好	c=0 d=0.0321056 t=5015
+hao 	號	c=1 d=0.895834 t=5015
+hao ba 	好吧	c=1 d=0.147342 t=5015
+hao chu 	好處	c=5 d=0.855071 t=5015
+hao ji nian 	好幾年	c=1 d=0.511709 t=5015
+hao le 	好了	c=1 d=0.408453 t=5015
+hao le ma 	好了嗎	c=2 d=0.227638 t=5015
+hao ma 	號碼	c=0 d=0.00409665 t=5015
+hao yi dian 	好一點	c=1 d=0.148823 t=5015
+he 	和	c=45 d=4.36482 t=5015
+he 	盒	c=0 d=0.0232393 t=5015
+he bing zai 	合併在	c=0 d=0.0690734 t=5015
+he bing zai yi qi 	合併在一起	c=1 d=0.694197 t=5015
+he dui xiang zai tong yi mu lu xia 	和對象在統一目錄下	c=1 d=0.0134335 t=5015
+he mu biao lei 	和目標類	c=1 d=0.286505 t=5015
+he shou dong chuang jian 	和手動創建	c=1 d=0.085435 t=5015
+he xiao hui 	和銷毀	c=1 d=0.0800583 t=5015
+he xin 	核心	c=4 d=1.14086 t=5015
+he xin bao 	核心包	c=3 d=0.615697 t=5015
+he xin fang fa 	核心方法	c=2 d=0.0398857 t=5015
+he xin fang fa zhi xing qian 	核心方法執行前	c=1 d=0.0192547 t=5015
+he xin gong neng 	核心功能	c=3 d=0.697676 t=5015
+he xin guo lv qi 	核心過濾器	c=2 d=1.36092 t=5015
+he xin kong zhi qi 	核心控制器	c=1 d=0.231078 t=5015
+he xin lei 	核心類	c=2 d=0.786628 t=5015
+he xin nan fang fa 	核心男方法	c=1 d=0.88692 t=5015
+he xin pei zhi wen jian 	核心配置文件	c=2 d=0.234042 t=5015
+he xin ye wu 	核心業務	c=1 d=0.509156 t=5015
+hei 	黑	c=1 d=0.120633 t=5015
+hei bei 	黑背	c=1 d=0.2334 t=5015
+hei he 	黑盒	c=0 d=0.011475 t=5015
+hei he ce shi 	黑盒測試	c=1 d=0.115325 t=5015
+hei mei 	黑莓	c=1 d=0.421052 t=5015
+hen 	很	c=0 d=0.0980199 t=5015
+hen da 	很大	c=1 d=0.0109436 t=5015
+hen duo 	很多	c=0 d=0.0063609 t=5015
+hen nan shou 	很難受	c=1 d=0.985112 t=5015
+hou 	後	c=3 d=0.876748 t=5015
+hou pai 	後排	c=1 d=0.0620385 t=5015
+hou tai 	後臺	c=2 d=0.816551 t=5015
+hou tai guan li 	後臺管理	c=1 d=0.0575558 t=5015
+hou tai yan zheng 	後臺驗證	c=1 d=0.621885 t=5015
+hou xu 	後續	c=0 d=0.0224249 t=5015
+hou xu chan pin 	後續產品	c=1 d=0.225373 t=5015
+hou zhi xing 	後執行	c=1 d=0.0305009 t=5015
+hou zhui 	後綴	c=1 d=0.410656 t=5015
+hu tou she wei 	虎頭蛇尾	c=1 d=0.179066 t=5015
+hua 	化	c=0 d=0.000995182 t=5015
+huan 	換	c=0 d=0.0122456 t=5015
+huan bu liao 	換不了	c=1 d=0.12307 t=5015
+huan cheng 	換成	c=1 d=0.0170774 t=5015
+huan cun 	緩存	c=7 d=1.1633 t=5015
+huan cun shi xiao 	緩存失效	c=1 d=0.00814786 t=5015
+huan cun zai 	緩存在	c=1 d=0.00909528 t=5015
+huan cun zhong 	緩存中	c=1 d=0.008396 t=5015
+huan jing 	環境	c=1 d=0.0548812 t=5015
+huan rao 	環繞	c=1 d=0.0229864 t=5015
+huan rao tong zhi 	環繞通知	c=1 d=0.0213864 t=5015
+huan wang 	換網	c=1 d=0.941765 t=5015
+huan ying 	歡迎	c=4 d=1.32349 t=5015
+huan ying lai dao 	歡迎來到	c=1 d=0.244143 t=5015
+hui 	回	c=0 d=0.083527 t=5015
+hui 	會	c=3 d=1.43122 t=5015
+hui 	灰	c=0 d=0.0117068 t=5015
+hui bao cuo 	回報錯	c=1 d=0.0914959 t=5015
+hui bei 	會被	c=0 d=0.0543351 t=5015
+hui fu 	回覆	c=0 d=0.0273898 t=5015
+hui fu gai 	回覆改	c=1 d=0.275271 t=5015
+hui fu gai 	會覆蓋	c=1 d=0.276651 t=5015
+hui gun 	回滾	c=0 d=0.00107269 t=5015
+hui he ce shi 	灰盒測試	c=1 d=0.117655 t=5015
+hui hua 	會話	c=0 d=0.0339596 t=5015
+hui shou 	回收	c=0 d=0.00156076 t=5015
+hui sui zhe 	會隨着	c=1 d=0.024972 t=5015
+hui tiao 	回調	c=0 d=0.045612 t=5015
+hui ying she zai shu ju ku zhong 	會映射在數據庫中	c=1 d=0.865022 t=5015
+hui yuan 	會員	c=0 d=0.0951229 t=5015
+hui yuan zhu ce 	會員註冊	c=1 d=0.955997 t=5015
+hun luan 	混亂	c=1 d=0.0106734 t=5015
+huo 	或	c=6 d=0.99005 t=5015
+huo 	霍	c=2 d=1.039 t=5015
+huo bi 	火幣	c=2 d=0.394554 t=5015
+huo qu 	獲取	c=30 d=6.20657 t=5015
+huo qu can shu 	獲取參數	c=2 d=1.06879 t=5015
+huo qu ding dan shu ju shi bai 	獲取訂單數據失敗	c=1 d=0.537944 t=5015
+huo qu gong neng 	獲取功能	c=1 d=0.191092 t=5015
+huo qu guo cheng 	獲取過程	c=1 d=0.00970611 t=5015
+huo qu jie kou 	獲取接口	c=1 d=0.343009 t=5015
+huo qu jue dui lu jing 	獲取絕對路徑	c=1 d=0.951229 t=5015
+huo qu jue se 	獲取角色	c=1 d=0.120032 t=5015
+huo qu lian jie 	獲取連接	c=2 d=0.193682 t=5015
+huo qu liu xin xi 	獲取流信息	c=2 d=1.3984 t=5015
+huo qu quan bu shu ju 	獲取全部數據	c=1 d=0.122456 t=5015
+huo qu shu ju 	獲取數據	c=3 d=1.4597 t=5015
+huo qu shu ju shi bai 	獲取數據失敗	c=1 d=0.251579 t=5015
+huo qu suo you 	獲取所有	c=1 d=0.697676 t=5015
+huo qu suo you shu ju 	獲取所有數據	c=1 d=0.117655 t=5015
+huo qu wen jian 	獲取文件	c=1 d=0.878095 t=5015
+huo qu wen jian ming 	獲取文件名	c=2 d=1.31056 t=5015
+huo qu wen jian ming zi 	獲取文件名字	c=1 d=0.909373 t=5015
+huo qu xiang mu ming 	獲取項目名	c=1 d=0.310367 t=5015
+huo qu yi tiao shu ju 	獲取一條數據	c=1 d=0.113042 t=5015
+huo qu zhi zhan 	獲取值棧	c=1 d=0.873716 t=5015
+huo rong 	火絨	c=1 d=0.226502 t=5015
+huo shi fou wei kong 	或是否爲空	c=1 d=0.0098528 t=5015
+huo shuai 	霍帥	c=1 d=1.66269e-11 t=5015
+huo zhe 	或者	c=3 d=0.105996 t=5015
+huo zhe chong ding xiang 	或者重定向	c=1 d=0.57695 t=5015
+ji 	即	c=2 d=0.312204 t=5015
+ji 	及	c=2 d=0.396531 t=5015
+ji 	忌	c=0 d=0.0255381 t=5015
+ji 	級	c=2 d=0.158817 t=5015
+ji 	集	c=2 d=1.30021 t=5015
+ji ba 	雞巴	c=0 d=0.0232236 t=5015
+ji ben 	基本	c=2 d=0.0303845 t=5015
+ji ben quan xian 	基本權限	c=1 d=0.0365162 t=5015
+ji bie 	級別	c=0 d=0.00106202 t=5015
+ji cheng 	繼承	c=5 d=1.38567 t=5015
+ji cheng lei shi xian 	繼承類實現	c=1 d=0.351692 t=5015
+ji cheng ying she 	繼承映射	c=1 d=0.00594622 t=5015
+ji chu shang 	基礎上	c=1 d=0.244143 t=5015
+ji he 	集合	c=12 d=2.81986 t=5015
+ji he biao 	集合表	c=3 d=0.477352 t=5015
+ji he ce shi 	集合測試	c=1 d=0.127454 t=5015
+ji he de lei xing 	集合的類型	c=1 d=0.362402 t=5015
+ji he shu xing 	集合屬性	c=1 d=0.196912 t=5015
+ji he shu xing ming 	集合屬性名	c=1 d=0.412714 t=5015
+ji he ying she 	集合映射	c=2 d=0.237557 t=5015
+ji he zhong 	集合中	c=1 d=0.144424 t=5015
+ji ji 	几几	c=0 d=0.0179066 t=5015
+ji ji 	積極	c=0 d=0.0410024 t=5015
+ji ji de bu fen 	積極的部分	c=1 d=0.20089 t=5015
+ji ji kai 	几几開	c=1 d=0.179964 t=5015
+ji ji le guan 	積極樂觀	c=1 d=0.211189 t=5015
+ji jia ban 	忌加班	c=1 d=0.256661 t=5015
+ji ke 	即可	c=1 d=0.0902655 t=5015
+ji ke 	計科	c=3 d=0.33297 t=5015
+ji kou 	幾口	c=1 d=0.442639 t=5015
+ji lei 	雞肋	c=0 d=0.00107807 t=5015
+ji lei gong neng 	雞肋功能	c=1 d=0.0108347 t=5015
+ji lian 	級聯	c=1 d=0.896397 t=5015
+ji lian bao cun huo geng xin 	級聯保存或更新	c=1 d=0.697676 t=5015
+ji lian cao zuo 	級聯操作	c=2 d=1.12757 t=5015
+ji lian shan chu 	級聯刪除	c=1 d=0.701173 t=5015
+ji lu 	記錄	c=2 d=0.976248 t=5015
+ji lu hai zai 	記錄還在	c=1 d=0.00447164 t=5015
+ji neng 	技能	c=1 d=0.195331 t=5015
+ji qiang 	濟強	c=1 d=0.274451 t=5015
+ji shi 	即時	c=1 d=0.145876 t=5015
+ji shu 	技術	c=0 d=0.0109154 t=5015
+ji suan 	計算	c=1 d=0.408608 t=5015
+ji suan ji 	計算機	c=0 d=0.0108067 t=5015
+ji suan ji gong cheng xi 	計算機工程系	c=2 d=0.217762 t=5015
+ji suan ji ke xue 	計算機科學	c=0 d=0.0109154 t=5015
+ji suan ji ke xue yu ji shu 	計算機科學與技術	c=1 d=0.109701 t=5015
+ji wei 	即爲	c=1 d=0.018968 t=5015
+ji yu 	基於	c=8 d=3.22159 t=5015
+ji zhi 	機制	c=1 d=0.0103063 t=5015
+ji zhong 	幾種	c=0 d=0.0726149 t=5015
+ji zhong zhuang tai 	幾種狀態	c=1 d=0.729789 t=5015
+jia 	加	c=3 d=0.891366 t=5015
+jia ban 	加班	c=0 d=0.0537621 t=5015
+jia ge 	價格	c=0 d=0.0440432 t=5015
+jia gou 	架構	c=1 d=0.565836 t=5015
+jia ke chong 	甲殼蟲	c=1 d=0.00748391 t=5015
+jia ru dao 	加入到	c=1 d=0.67368 t=5015
+jia shang 	加上	c=1 d=0.873716 t=5015
+jia suo 	加鎖	c=1 d=0.496585 t=5015
+jia xin 	加薪	c=0 d=0.0285076 t=5015
+jia zai 	加載	c=8 d=0.473993 t=5015
+jia zai jin lai 	加載進來	c=2 d=0.99005 t=5015
+jia zai pei zhi wen jian 	加載配置文件	c=2 d=0.249312 t=5015
+jia zai yan zheng ma 	加載驗證碼	c=1 d=0.0393602 t=5015
+jia zai ying she wen jian 	加載映射文件	c=3 d=0.330156 t=5015
+jia zai yuan li 	加載原理	c=1 d=0.162026 t=5015
+jia zai zhu pei zhi wen jian 	加載主配置文件	c=1 d=0.329559 t=5015
+jia zai zi ding yi 	加載自定義	c=1 d=0.22091 t=5015
+jia zhi 	價值	c=1 d=0.0393602 t=5015
+jian 	鍵	c=0 d=0.0388786 t=5015
+jian biao 	建表	c=2 d=0.0685156 t=5015
+jian biao 	鍵表	c=1 d=0.307279 t=5015
+jian bie qi 	鑑別器	c=1 d=0.012135 t=5015
+jian cha 	檢查	c=3 d=0.19226 t=5015
+jian cha ya jin bu zu 	檢查押金不足	c=1 d=1.62977e-11 t=5015
+jian dan 	簡單	c=1 d=0.90416 t=5015
+jian dan de 	簡單地	c=1 d=0.0124629 t=5015
+jian ge 	劍閣	c=2 d=0.0359959 t=5015
+jian kang 	健康	c=3 d=0.732784 t=5015
+jian li 	建立	c=1 d=0.213655 t=5015
+jian li ying she guan xi 	建立映射關係	c=1 d=0.0977834 t=5015
+jian shao 	減少	c=3 d=1.38072 t=5015
+jian shao fang wen shu ju ku 	減少訪問數據庫	c=1 d=0.99005 t=5015
+jian shao ying she 	減少映射	c=1 d=0.0132336 t=5015
+jian suo 	檢索	c=0 d=0.0162838 t=5015
+jian ting 	監聽	c=1 d=0.298197 t=5015
+jian ting fan hui zhi zhuang tai 	監聽返回值狀態	c=1 d=0.0804596 t=5015
+jian yi 	建議	c=0 d=0.00658748 t=5015
+jiang 	將	c=12 d=2.16863 t=5015
+jiang di 	降低	c=0 d=0.0873072 t=5015
+jiang di dai ma 	降低代碼	c=1 d=0.360595 t=5015
+jiang di ou he du 	降低耦合度	c=1 d=0.00932553 t=5015
+jiang dui xiang 	將對象	c=1 d=0.0561348 t=5015
+jiang dui xiang zhi jie bao cun dao shu ju ku 	將對象直接保存到數據庫	c=1 d=0.0096577 t=5015
+jiang jiao yan 	將校驗	c=1 d=0.101266 t=5015
+jiang jie guo fang zai 	將結果放在	c=1 d=0.13068 t=5015
+jiang mei tiao shu ju dou feng zhuang dao 	將每條數據都封裝到	c=1 d=0.149569 t=5015
+jiang pei zhi wen jian 	將配置文件	c=1 d=0.810584 t=5015
+jiang qing qiu 	將請求	c=1 d=0.447088 t=5015
+jiang shang chuan de nei rong 	將上傳的內容	c=1 d=0.965605 t=5015
+jiang shi ti lei 	將實體類	c=1 d=0.0485578 t=5015
+jiang shu ju 	將數據	c=3 d=2.28528 t=5015
+jiang wen jian zhuan cheng zi jie shu zu 	將文件轉成字節數組	c=1 d=1 t=5015
+jiang yi ge lei 	將一個類	c=1 d=0.00687406 t=5015
+jiang zi ding yi yan zheng qi 	將自定義驗證器	c=1 d=0.0875977 t=5015
+jiao di 	較低	c=0 d=0.00129715 t=5015
+jiao duo 	較多	c=1 d=0.0131675 t=5015
+jiao gao 	較高	c=3 d=0.434564 t=5015
+jiao gei 	交給	c=3 d=0.127568 t=5015
+jiao hu 	交互	c=2 d=0.603506 t=5015
+jiao shi 	教師	c=2 d=0.118447 t=5015
+jiao shi gong neng 	教師功能	c=2 d=0.306714 t=5015
+jiao shi mo kuai 	教師模塊	c=4 d=0.213897 t=5015
+jiao xue 	教學	c=0 d=0.0208045 t=5015
+jiao yan 	校驗	c=3 d=0.708528 t=5015
+jiao yan de lei 	校驗的類	c=1 d=0.0911727 t=5015
+jiao yan fang fa 	校驗方法	c=1 d=0.0916297 t=5015
+jiao yan qi 	校驗器	c=1 d=0.102797 t=5015
+jiao zhen 	較真	c=1 d=0.214381 t=5015
+jie 	劫	c=0 d=0.0373439 t=5015
+jie 	截	c=1 d=0.26054 t=5015
+jie chu 	解除	c=1 d=0.645723 t=5015
+jie chu guan xi 	解除關係	c=2 d=1.21047 t=5015
+jie dian 	節點	c=2 d=0.0887526 t=5015
+jie gou 	結構	c=1 d=0.0118551 t=5015
+jie guo 	結果	c=2 d=0.0575032 t=5015
+jie guo ge shu 	結果個數	c=1 d=0.0193512 t=5015
+jie guo ji 	結果集	c=1 d=0.19398 t=5015
+jie guo pei zhi 	結果配置	c=1 d=0.161218 t=5015
+jie he 	結合	c=0 d=0.0117655 t=5015
+jie jue fang an 	解決方案	c=0 d=0.00652193 t=5015
+jie jue fang fa 	解決方法	c=1 d=0.29523 t=5015
+jie kou 	接口	c=25 d=4.89785 t=5015
+jie kou de quan lu jing 	接口的全路徑	c=1 d=0.231078 t=5015
+jie kou jie shou 	接口接收	c=1 d=0.612626 t=5015
+jie kou ke ji cheng jie kou 	接口可繼承接口	c=1 d=0.444858 t=5015
+jie liu 	節流	c=0 d=0.00184074 t=5015
+jie ma 	解碼	c=0 d=0.0650509 t=5015
+jie mian 	界面	c=1 d=0.577744 t=5015
+jie ping 	截屏	c=1 d=0.15851 t=5015
+jie ping ruan jian 	截屏軟件	c=1 d=0.141564 t=5015
+jie shao 	介紹	c=1 d=0.188247 t=5015
+jie sheng 	節省	c=1 d=0.010358 t=5015
+jie shou 	接受	c=0 d=0.0151829 t=5015
+jie shou 	接收	c=3 d=0.754856 t=5015
+jie shou zuo ye 	接收作業	c=2 d=0.315262 t=5015
+jie shu 	結束	c=0 d=0.0024972 t=5015
+jie xi 	解析	c=1 d=0.301194 t=5015
+jie xi qi 	解析器	c=1 d=0.817284 t=5015
+jin 	進	c=0 d=0.0514274 t=5015
+jin e 	金額	c=0 d=0.0375311 t=5015
+jin lai 	進來	c=0 d=0.114795 t=5015
+jin lai le 	進來了	c=1 d=0.232236 t=5015
+jin mao 	金毛	c=2 d=0.229925 t=5015
+jin xing 	進行	c=2 d=0.470011 t=5015
+jin xing chu li 	進行處理	c=1 d=0.355226 t=5015
+jin xing fen li 	進行分離	c=1 d=0.551563 t=5015
+jin yong 	禁用	c=1 d=1.38879e-11 t=5015
+jing dian 	經典	c=0 d=0.0995012 t=5015
+jing dian kuang jia 	經典框架	c=1 d=1 t=5015
+jing mi 	精密	c=1 d=0.0106734 t=5015
+jing pin 	精品	c=0 d=0.0460704 t=5015
+jing pin shu shi wei yi 	精品舒適衛衣	c=1 d=0.463013 t=5015
+jing que 	精確	c=0 d=0.0105928 t=5015
+jing que cha zhao 	精確查找	c=1 d=0.106459 t=5015
+jing tai 	靜態	c=1 d=0.466023 t=5015
+jing tai dai li 	靜態代理	c=1 d=0.247833 t=5015
+jing tai fang fa 	靜態方法	c=3 d=0.900325 t=5015
+jiu 	就	c=10 d=0.476301 t=5015
+jiu bu zhi dao 	就不知道	c=1 d=0.271173 t=5015
+jiu dian 	酒店	c=1 d=0.392586 t=5015
+jiu diao yong 	就調用	c=1 d=0.980199 t=5015
+jiu fang xing 	就放行	c=1 d=0.0706512 t=5015
+jiu ji 	九集	c=0 d=0.214781 t=5015
+jiu jie 	糾結	c=1 d=0.155673 t=5015
+jiu shi 	九十	c=0 d=0.126573 t=5015
+jiu shi 	就是	c=1 d=0.154896 t=5015
+jiu shi jiu 	九十九	c=0 d=0.0637628 t=5015
+jiu xie xie pei zhi wen jian 	就寫寫配置文件	c=1 d=0.055299 t=5015
+jiu yi chu 	就移除	c=1 d=0.00918669 t=5015
+ju he 	聚合	c=0 d=0.0144424 t=5015
+ju he cha xun 	聚合查詢	c=1 d=0.0258615 t=5015
+ju he han shu 	聚合函數	c=2 d=0.0475931 t=5015
+ju he han shu jie guo ji 	聚合函數結果集	c=1 d=0.145148 t=5015
+ju lei 	聚類	c=0 d=0.0442639 t=5015
+ju ran 	居然	c=1 d=0.806541 t=5015
+ju ti 	具體	c=0 d=0.0763379 t=5015
+ju ti de lei 	具體的類	c=1 d=0.767206 t=5015
+ju ti lei 	具體類	c=1 d=0.45612 t=5015
+ju xian xing 	侷限性	c=1 d=0.010889 t=5015
+jue dui 	絕對	c=1 d=0.13859 t=5015
+jue dui lu jing 	絕對路徑	c=1 d=0.722527 t=5015
+jue se 	角色	c=8 d=1.6975 t=5015
+jue se guan li 	角色管理	c=2 d=0.215596 t=5015
+jue se miao shu 	角色描述	c=3 d=0.387928 t=5015
+jue se ming 	角色名	c=2 d=0.272709 t=5015
+jue se quan xian 	角色權限	c=1 d=0.113042 t=5015
+jue se xin xi 	角色信息	c=1 d=0.13068 t=5015
+ka 	卡	c=2 d=0.0331174 t=5015
+kai 	開	c=1 d=0.292293 t=5015
+kai fa 	開發	c=7 d=0.732326 t=5015
+kai fa bu 	開發部	c=1 d=0.506617 t=5015
+kai fa bu men 	開發部門	c=1 d=0.231078 t=5015
+kai fa liu cheng 	開發流程	c=1 d=0.110251 t=5015
+kai fa shi 	開發時	c=1 d=0.0642483 t=5015
+kai fa yin hang 	開發銀行	c=1 d=0.304221 t=5015
+kai fa zhe 	開發者	c=0 d=0.0887123 t=5015
+kai fa zhe zhi xu yao 	開發者只需要	c=1 d=0.582748 t=5015
+kai guan 	開關	c=1 d=0.00554422 t=5015
+kai qi 	開啓	c=8 d=2.75467 t=5015
+kai qi shi wu 	開啓事物	c=13 d=2.11752 t=5015
+kai qi shi wu de fang shi 	開啓事物的方式	c=1 d=0.0120342 t=5015
+kai qi ti jiao 	開啓提交	c=1 d=0.00873865 t=5015
+kai qi zhu jie sao miao 	開啓註解掃描	c=1 d=0.00960953 t=5015
+kai shi 	開始	c=1 d=0.134167 t=5015
+kai shi bian ma 	開始編碼	c=1 d=0.425283 t=5015
+kai shi jie xi pei zhi wen jian 	開始解析配置文件	c=1 d=0.852144 t=5015
+kai shi wei zhi 	開始位置	c=1 d=0.0199405 t=5015
+kai xin jiu hao 	開心就好	c=0 d=0.0895834 t=5015
+kai yuan 	開源	c=1 d=0.0122161 t=5015
+kan 	看	c=0 d=0.070822 t=5015
+kan bi sai 	看比賽	c=1 d=0.121846 t=5015
+kan dao 	看到	c=0 d=0.00196437 t=5015
+kan le 	看了	c=1 d=0.0188734 t=5015
+kan shu ju 	看數據	c=1 d=0.71177 t=5015
+kan wan le 	看完了	c=2 d=0.769778 t=5015
+ke 	可	c=2 d=0.178505 t=5015
+ke bu xie 	可不寫	c=1 d=0.0958472 t=5015
+ke cheng 	課程	c=1 d=0.285076 t=5015
+ke chong fu 	可重複	c=2 d=0.436994 t=5015
+ke hu duan 	客戶端	c=1 d=0.594521 t=5015
+ke jian 	課件	c=0 d=0.00531307 t=5015
+ke jian shang chuan 	課件上傳	c=4 d=0.318573 t=5015
+ke neng 	可能	c=1 d=0.0150707 t=5015
+ke sheng lve 	可省略	c=1 d=0.0505395 t=5015
+ke ti dai 	可替代	c=1 d=0.226502 t=5015
+ke xi 	可惜	c=1 d=0.018043 t=5015
+ke xuan 	可選	c=3 d=0.614865 t=5015
+ke yi 	可以	c=5 d=0.189913 t=5015
+ke yi bu wei yi 	可以不唯一	c=1 d=0.814647 t=5015
+ke yi gai cheng 	可以改成	c=1 d=0.425283 t=5015
+ke yi ji cheng 	可以繼承	c=1 d=0.453845 t=5015
+ke yi jian dan li jie wei 	可以簡單理解爲	c=1 d=0.0632918 t=5015
+ke yi jiang 	可以將	c=1 d=0.20089 t=5015
+ke yi jin xing 	可以進行	c=1 d=0.0478349 t=5015
+ke yi le ma 	可以了嗎	c=1 d=0.479505 t=5015
+ke yi shi xian 	可以實現	c=1 d=0.044804 t=5015
+ke yi shi xian jie kou 	可以實現接口	c=1 d=0.449329 t=5015
+ke yi shi yong 	可以使用	c=0 d=0.0354375 t=5015
+ke yi you 	可以有	c=1 d=0.463013 t=5015
+ke yi zheng he 	可以整合	c=2 d=0.142097 t=5015
+ke zai 	可在	c=1 d=0.677057 t=5015
+kong 	空	c=0 d=0.0995012 t=5015
+kong jian 	空間	c=0 d=0.0704688 t=5015
+kong zhi 	控制	c=0 d=0.0387887 t=5015
+kong zhi fan zhuan 	控制反轉	c=4 d=0.861477 t=5015
+kong zhi na xie shu ju 	控制哪些數據	c=1 d=0.348192 t=5015
+kong zhi qi 	控制器	c=3 d=0.346456 t=5015
+kong zhi quan 	控制權	c=1 d=0.742051 t=5015
+kong zhi shi wu 	控制事物	c=1 d=0.008271 t=5015
+kong zhi zhen yi chang 	空指針異常	c=1 d=1 t=5015
+kong zhi zi fu 	控制字符	c=1 d=0.33454 t=5015
+kou jiao 	摳腳	c=1 d=0.822835 t=5015
+ku 	庫	c=1 d=0.0647265 t=5015
+ku an 	酷安	c=1 d=0.00767337 t=5015
+ku cun 	庫存	c=0 d=0.0491644 t=5015
+kuai 	塊	c=1 d=0.0146253 t=5015
+kuai le 	快了	c=0 d=0.0268474 t=5015
+kuai su 	快速	c=0 d=0.0784691 t=5015
+kuai su ru men 	快速入門	c=1 d=0.227638 t=5015
+kuai su sheng cheng ying she lei de 	快速生成映射類的	c=1 d=0.774916 t=5015
+kuan fan 	寬泛	c=0 d=0.0222017 t=5015
+kuan fan de fan wei 	寬泛的範圍	c=1 d=0.22313 t=5015
+kuang jia 	框架	c=11 d=1.78643 t=5015
+kuang jia she ji 	框架設計	c=1 d=0.0502874 t=5015
+kuo zhan 	擴展	c=2 d=0.640824 t=5015
+kuo zhan ming 	擴展名	c=1 d=0.657047 t=5015
+la 	啦	c=0 d=0.0177284 t=5015
+la 	拉	c=0 d=0.0117068 t=5015
+la wo 	拉我	c=1 d=0.0788664 t=5015
+lai 	來	c=0 d=0.00383928 t=5015
+lai bao zhang 	來保障	c=1 d=0.0163259 t=5015
+lai le 	來了	c=1 d=0.0168231 t=5015
+lan 	懶	c=0 d=0.0147342 t=5015
+lan jia zai 	懶加載	c=4 d=0.306897 t=5015
+lan jie 	攔截	c=6 d=1.75784 t=5015
+lan jie na xie 	攔截哪些	c=1 d=0.0221482 t=5015
+lan jie na xie fang fa 	攔截哪些方法	c=1 d=0.985112 t=5015
+lan jie qi 	攔截器	c=8 d=2.72264 t=5015
+lan jie qi pei zhi 	攔截器配置	c=2 d=0.588605 t=5015
+lan jie you ke 	攔截遊客	c=1 d=0.0678809 t=5015
+lao gu dong 	老古董	c=1 d=0.733447 t=5015
+lao wang 	老王	c=1 d=0.00673795 t=5015
+le 	了	c=16 d=1.63474 t=5015
+le guan 	樂觀	c=0 d=0.0210136 t=5015
+le ma 	了嗎	c=0 d=0.0477114 t=5015
+lei 	累	c=0 d=0.0444858 t=5015
+lei 	類	c=23 d=2.33498 t=5015
+lei bie 	類別	c=1 d=0.451456 t=5015
+lei de 	類的	c=1 d=0.0784931 t=5015
+lei de lu jing 	類的路徑	c=1 d=0.0163259 t=5015
+lei de shu liang tai duo 	類的數量太多	c=1 d=0.289384 t=5015
+lei jia zai qi dui xiang 	類加載器對象	c=1 d=0.332871 t=5015
+lei jie kou 	類接口	c=1 d=0.337902 t=5015
+lei ming 	類名	c=15 d=0.922132 t=5015
+lei xing 	類型	c=8 d=1.57689 t=5015
+lei xing zhuan huan 	類型轉換	c=2 d=0.616073 t=5015
+lei zu he guan xi ying she 	類組合關係映射	c=1 d=0.00606634 t=5015
+li 	利	c=1 d=0.308819 t=5015
+li 	李	c=1 d=0.2334 t=5015
+li 	裏	c=19 d=3.47636 t=5015
+li 	麗	c=0 d=0.00871609 t=5015
+li du 	粒度	c=0 d=0.000878245 t=5015
+li jie 	理解	c=1 d=0.529983 t=5015
+li mian 	裏面	c=8 d=1.63108 t=5015
+li mian de 	裏面的	c=1 d=0.865022 t=5015
+li shi min 	李世民	c=1 d=0.00891518 t=5015
+lian 	臉	c=0 d=0.00706512 t=5015
+lian 	鏈	c=0 d=0.0179066 t=5015
+lian he 	聯合	c=0 d=0.00162445 t=5015
+lian he cha xun 	聯合查詢	c=2 d=0.0425784 t=5015
+lian jie 	連接	c=3 d=0.294231 t=5015
+lian jie 	鏈接	c=0 d=0.0316637 t=5015
+lian jie chi 	連接池	c=7 d=0.27982 t=5015
+lian jie chi shang xian 	連接池上限	c=1 d=0.0156076 t=5015
+lian jie hui shou shi jian 	連接回收時間	c=1 d=0.0156858 t=5015
+lian jie shu ju ku 	鏈接數據庫	c=2 d=1.30548 t=5015
+lian meng 	聯盟	c=1 d=0.0116203 t=5015
+liang 	兩	c=1 d=0.0144076 t=5015
+liang 	量	c=0 d=0.0900325 t=5015
+liang bu 	兩部	c=0 d=0.0116484 t=5015
+liang bu yan zheng 	兩部驗證	c=1 d=0.117068 t=5015
+liang ci 	兩次	c=1 d=0.0739031 t=5015
+liang dian 	兩點	c=1 d=0.0250972 t=5015
+liang ge 	兩個	c=0 d=0.0852144 t=5015
+liang hao 	良好	c=1 d=0.238115 t=5015
+liang zhong 	兩種	c=0 d=0.0480412 t=5015
+liang zhong shi xian fang fa 	兩種實現方法	c=1 d=0.481909 t=5015
+liao jie 	瞭解	c=1 d=0.32628 t=5015
+lie biao 	列表	c=0 d=0.18868 t=5015
+lie biao ye 	列表頁	c=1 d=0.70822 t=5015
+lie biao zhan shi 	列表展示	c=1 d=0.726149 t=5015
+lin 	林	c=0 d=0.0718924 t=5015
+lin shi 	臨時	c=0 d=0.0733447 t=5015
+lin shi tai 	臨時態	c=1 d=0.737123 t=5015
+lin tian long 	林天龍	c=1 d=0.722527 t=5015
+ling 	另	c=1 d=0.00801811 t=5015
+ling 	零	c=0 d=0.597349 t=5015
+ling er ji 	零二集	c=1 d=0.657047 t=5015
+ling huo 	靈活	c=0 d=0.080285 t=5015
+ling wai 	另外	c=1 d=0.2334 t=5015
+ling yang 	領養	c=1 d=0.286878 t=5015
+ling yi ge 	另一個	c=1 d=0.48514 t=5015
+ling yi ge biao 	另一個表	c=1 d=0.0101022 t=5015
+ling yi ge lei 	另一個類	c=1 d=0.449329 t=5015
+ling yu 	領域	c=1 d=0.197899 t=5015
+liu 	流	c=2 d=0.90681 t=5015
+liu cheng 	流程	c=0 d=0.0860708 t=5015
+liu da 	六大	c=0 d=0.00773047 t=5015
+liu da he xin 	六大核心	c=1 d=0.0776922 t=5015
+liu ji 	六級	c=0 d=0.0666977 t=5015
+liu ji 	六集	c=0 d=0.144551 t=5015
+liu lan qi 	瀏覽器	c=0 d=0.0986639 t=5015
+liu liang 	流量	c=1 d=0.0162445 t=5015
+liu mou 	劉謀	c=1 d=0.465334 t=5015
+liu xin xi 	流信息	c=4 d=3.68061 t=5015
+long 	龍	c=0 d=0.0869358 t=5015
+lu 	錄	c=0 d=0.0139457 t=5015
+lu deng 	路燈	c=0 d=0.00735345 t=5015
+lu jing 	路徑	c=12 d=3.21723 t=5015
+lu jing hou zhui 	路徑後綴	c=1 d=0.313486 t=5015
+lu ping ruan jian 	錄屏軟件	c=1 d=0.140156 t=5015
+lu ru 	錄入	c=0 d=0.00880368 t=5015
+lu you qi 	路由器	c=1 d=0.937067 t=5015
+luan ma 	亂碼	c=1 d=0.366652 t=5015
+lun tan 	論壇	c=1 d=0.0186856 t=5015
+lun wen 	論文	c=1 d=0.0593087 t=5015
+luo ji 	邏輯	c=0 d=0.0613024 t=5015
+luo ji ming cheng 	邏輯名稱	c=1 d=0.308819 t=5015
+luo lan 	洛蘭	c=0 d=0.0244143 t=5015
+lv liang 	呂梁	c=1 d=0.00680566 t=5015
+ma 	嗎	c=2 d=0.19713 t=5015
+ma 	碼	c=1 d=0.0814647 t=5015
+ma 	馬	c=2 d=0.353693 t=5015
+mai 	賣	c=1 d=0.19593 t=5015
+mai gui shu 	買鬼書	c=1 d=0.831104 t=5015
+man chuan 	滿船	c=0 d=0.0018043 t=5015
+man chuan qing meng ya xing he 	滿船清夢壓星河	c=1 d=0.0181334 t=5015
+man wang da ye 	蠻王打野	c=1 d=0.0106202 t=5015
+mao 	帽	c=0 d=0.0860708 t=5015
+mao 	貓	c=0 d=0.00116203 t=5015
+mei 	沒	c=1 d=0.399091 t=5015
+mei ci 	每次	c=2 d=0.0874887 t=5015
+mei ci dou yao xie 	每次都要寫	c=1 d=0.588605 t=5015
+mei ci shi yong shi wu 	每次使用事物	c=1 d=0.0086517 t=5015
+mei ci zhi xing 	每次執行	c=1 d=0.0302249 t=5015
+mei ci zhi xing shi 	每次執行是	c=1 d=0.0291588 t=5015
+mei deng lu 	沒登錄	c=4 d=2.6056 t=5015
+mei ge 	每個	c=3 d=1.18297 t=5015
+mei ge chuang kou bu tong 	每個窗口不同	c=1 d=0.970446 t=5015
+mei ge ren 	每個人	c=1 d=0.00625109 t=5015
+mei ge xian cheng 	每個線程	c=1 d=0.044601 t=5015
+mei guan xi 	沒關係	c=1 d=0.0209629 t=5015
+mei jie 	沒接	c=0 d=0.012307 t=5015
+mei jie dao shi wu 	沒接到事物	c=1 d=0.123687 t=5015
+mei nian 	每年	c=1 d=0.0166557 t=5015
+mei qu deng lu ye mian 	沒取登錄頁面	c=1 d=0.0742736 t=5015
+mei she zhi 	沒設置	c=3 d=1.42026 t=5015
+mei she zhi zi dong deng lu 	沒設置自動登錄	c=1 d=0.628135 t=5015
+mei tiao 	每條	c=0 d=0.013332 t=5015
+mei tiao shu ju 	每條數據	c=1 d=0.162956 t=5015
+mei ye 	每頁	c=0 d=0.0904837 t=5015
+mei ye xian shi duo shao ge 	每頁顯示多少個	c=1 d=0.909373 t=5015
+mei yi ge 	每一個	c=0 d=0.0941765 t=5015
+mei yi ge gong neng 	每一個功能	c=1 d=0.946485 t=5015
+mei yi ge zi lei 	每一個子類	c=1 d=0.0110536 t=5015
+mei yong 	沒用	c=0 d=0.0207008 t=5015
+mei you 	沒有	c=4 d=0.813251 t=5015
+mei you diao yong 	沒有調用	c=1 d=0.154896 t=5015
+mei you mi ma 	沒有密碼	c=1 d=0.0724398 t=5015
+mei you quan xian 	沒有權限	c=1 d=0.0569831 t=5015
+mei you ren he 	沒有任何	c=0 d=0.0193013 t=5015
+mei you ren he quan xian 	沒有任何權限	c=1 d=0.19398 t=5015
+mei you shi xian 	沒有實現	c=1 d=0.445696 t=5015
+mei you shi xian jie kou 	沒有實現接口	c=1 d=0.494109 t=5015
+mei you tong guo 	沒有通過	c=1 d=0.774916 t=5015
+mei you ying xiang 	沒有影響	c=1 d=0.585669 t=5015
+mei you zhu jian 	沒有主鍵	c=1 d=0.0322254 t=5015
+mei yue 	每月	c=1 d=0.0184074 t=5015
+mei zhang 	每張	c=0 d=0.000612731 t=5015
+mei zhang shen fen zheng 	每張身份證	c=1 d=0.00615802 t=5015
+meng 	夢	c=0 d=0.0882497 t=5015
+mi fen 	米粉	c=2 d=0.0309556 t=5015
+mi fen ka 	米粉卡	c=2 d=0.0364477 t=5015
+mi ma 	密碼	c=17 d=2.96689 t=5015
+mi ma bu neng wei kong 	密碼不能爲空	c=1 d=0.100761 t=5015
+mi ma bu yi zhi 	密碼不一致	c=1 d=0.0742736 t=5015
+mian 	麪	c=1 d=0.722527 t=5015
+mian shi 	面試	c=1 d=0.50409 t=5015
+mian xiang 	面向	c=1 d=0.0623495 t=5015
+mian xiang dui xiang 	面向對象	c=0 d=0.00401553 t=5015
+miao shu 	描述	c=4 d=1.23649 t=5015
+ming 	名	c=11 d=1.50456 t=5015
+ming 	茗	c=0 d=0.0079659 t=5015
+ming cheng 	名稱	c=1 d=0.0724398 t=5015
+ming cheng kong jian 	名稱空間	c=2 d=0.584025 t=5015
+ming ci 	名詞	c=0 d=0.038868 t=5015
+ming ming 	命名	c=1 d=0.71177 t=5015
+ming ming 	明明	c=0 d=0.0704688 t=5015
+ming ming can shu 	命名參數	c=1 d=0.0167392 t=5015
+ming ming kong jian 	明明空間	c=1 d=0.70822 t=5015
+ming zi 	名字	c=5 d=1.26937 t=5015
+mo ban 	模板	c=3 d=0.665174 t=5015
+mo ban gong ju lei 	模板工具類	c=1 d=0.0720785 t=5015
+mo ban ku 	模板庫	c=1 d=0.650509 t=5015
+mo hu 	模糊	c=0 d=0.00160027 t=5015
+mo hu cha xun 	模糊查詢	c=2 d=0.0420739 t=5015
+mo kuai 	模塊	c=6 d=0.560403 t=5015
+mo ni 	模擬	c=0 d=0.0037068 t=5015
+mo ni shu ju 	模擬數據	c=2 d=0.202552 t=5015
+mo ren 	默認	c=13 d=1.14324 t=5015
+mo ren jia zai 	默認加載	c=2 d=0.701173 t=5015
+mo ren xuan zhong 	默認選中	c=1 d=0.486752 t=5015
+mo ren zhi 	默認值	c=2 d=0.743603 t=5015
+mo ren zhuan fa 	默認轉發	c=1 d=0.814647 t=5015
+mo shi 	模式	c=2 d=0.572521 t=5015
+mo xing 	模型	c=2 d=0.621388 t=5015
+mo xing qu dong 	模型驅動	c=1 d=0.349938 t=5015
+mou ge 	某個	c=1 d=0.865022 t=5015
+mou ge jie kou 	某個接口	c=1 d=0.392586 t=5015
+mu biao 	目標	c=1 d=0.420424 t=5015
+mu biao biao 	目標表	c=1 d=0.0294518 t=5015
+mu biao dui xiang 	目標對象	c=19 d=6.35696 t=5015
+mu biao lu jing 	目標路徑	c=2 d=1.00888 t=5015
+mu biao wen jian 	目標文件	c=2 d=1.9361 t=5015
+mu di 	目的	c=1 d=0.955997 t=5015
+mu ji 	母雞	c=1 d=0.211189 t=5015
+mu lu 	目錄	c=3 d=1.42481 t=5015
+mu lu xia 	目錄下	c=0 d=0.0748264 t=5015
+na 	那	c=1 d=0.137381 t=5015
+na dao 	拿到	c=3 d=1.22273 t=5015
+na ge 	哪個	c=2 d=1.85447 t=5015
+na ge 	那個	c=0 d=0.0138069 t=5015
+na ge gong neng 	那個功能	c=1 d=0.138761 t=5015
+na ge lei 	哪個類	c=1 d=0.752014 t=5015
+na ge tu biao 	哪個圖標	c=1 d=0.136695 t=5015
+na hao 	那好	c=1 d=0.149569 t=5015
+na xie 	哪些	c=0 d=0.0987325 t=5015
+na xie dui xiang 	哪些對象	c=1 d=0.00562801 t=5015
+na zu 	哪組	c=1 d=0.995012 t=5015
+nan 	男	c=21 d=1.96236 t=5015
+nan qiao qu 	南譙區	c=1 d=0.600496 t=5015
+nan shi 	男士	c=0 d=0.0392586 t=5015
+nan shi shang yi 	男士上衣	c=1 d=0.394554 t=5015
+nan shou 	難受	c=0 d=0.0980199 t=5015
+nan zhuang 	男裝	c=1 d=0.392586 t=5015
+ne 	呢	c=0 d=0.0951229 t=5015
+nei 	內	c=1 d=0.0513033 t=5015
+nei cun 	內存	c=0 d=0.0767206 t=5015
+nei lian jie 	內連接	c=2 d=0.0437195 t=5015
+nei rong 	內容	c=1 d=1.06596 t=5015
+neng 	能	c=0 d=0.0209088 t=5015
+neng fou 	能否	c=0 d=0.0191092 t=5015
+neng fou sheng ren gong zuo 	能否勝任工作	c=1 d=0.19205 t=5015
+neng jia ban 	能加班	c=1 d=0.210136 t=5015
+neng wan 	能玩	c=0 d=0.0060205 t=5015
+neng yong 	能用	c=0 d=0.0126186 t=5015
+ni 	你	c=1 d=0.0892012 t=5015
+ni 	逆	c=0 d=0.0748264 t=5015
+ni ba zhe xie 	你把這些	c=1 d=0.121846 t=5015
+ni cang tian 	逆蒼天	c=1 d=0.752014 t=5015
+ni duo jiu mei 	你多久沒	c=1 d=0.0611149 t=5015
+ni hai 	你還	c=0 d=0.0951229 t=5015
+ni hai wan ma 	你還玩嗎	c=1 d=0.763379 t=5015
+ni hai wan ne 	你還玩呢	c=1 d=0.955997 t=5015
+ni hao 	你好	c=1 d=0.196912 t=5015
+ni la wo 	你拉我	c=1 d=0.117068 t=5015
+ni lian bu hao 	你臉不好	c=1 d=0.0710054 t=5015
+ni xian huan wang 	你先換網	c=1 d=0.400517 t=5015
+ni xiang 	逆向	c=0 d=0.0506617 t=5015
+ni xiang sheng cheng 	逆向生成	c=1 d=0.589408 t=5015
+ni yao 	你要	c=0 d=0.0250324 t=5015
+ni yao ling yang de chong wu lei xing 	你要領養的寵物類型	c=1 d=0.251579 t=5015
+nian 	唸	c=0 d=0.0666977 t=5015
+nian 	年	c=2 d=1.17472 t=5015
+nian ling 	年齡	c=6 d=0.497004 t=5015
+nian qu qu 	唸去去	c=1 d=0.67032 t=5015
+nin 	您	c=1 d=0.25284 t=5015
+nin hao 	您好	c=1 d=0.0403566 t=5015
+niu bi 	牛屄	c=1 d=0.247833 t=5015
+niu bi 	牛逼	c=1 d=0.246597 t=5015
+nu li 	努力	c=0 d=0.011475 t=5015
+nu li hui shuo huang 	努力會說謊	c=2 d=0.231809 t=5015
+nv 	女	c=10 d=1.54965 t=5015
+nv qiang 	女槍	c=1 d=0.0190631 t=5015
+nv zhuang 	女裝	c=0 d=0.0108067 t=5015
+o 	哦	c=3 d=0.146365 t=5015
+ou he 	耦合	c=1 d=0.362402 t=5015
+ou he du 	耦合度	c=1 d=0.551563 t=5015
+ou he du 	耦合讀	c=1 d=0.548812 t=5015
+pan duan 	判斷	c=5 d=1.62793 t=5015
+pan duan deng lu 	判斷登錄	c=1 d=0.463013 t=5015
+pan duan yan zheng ma shi fou zheng que 	判斷驗證碼是否正確	c=2 d=0.0967773 t=5015
+pei zhi 	配置	c=44 d=3.84004 t=5015
+pei zhi jian dan 	配置簡單	c=1 d=0.640824 t=5015
+pei zhi jie kou 	配置接口	c=1 d=0.229925 t=5015
+pei zhi lan jie qi 	配置攔截器	c=1 d=0.0675424 t=5015
+pei zhi le 	配置了	c=1 d=0.373896 t=5015
+pei zhi lian jie shu ju ku de xin xi 	配置連接數據庫的信息	c=1 d=0.0214936 t=5015
+pei zhi qie ru dian biao da shi 	配置切入點表達式	c=1 d=0.99005 t=5015
+pei zhi shi tu luo ji ming 	配置視圖邏輯名	c=1 d=0.307279 t=5015
+pei zhi shi wu guan li 	配置事務管理	c=2 d=0.946485 t=5015
+pei zhi shi wu guan li qi 	配置事物管理器	c=1 d=0.951229 t=5015
+pei zhi shu ju ku biao 	配置數據庫表	c=1 d=0.878095 t=5015
+pei zhi shu ju yuan dui xiang 	配置數據源對象	c=1 d=0.839457 t=5015
+pei zhi wen jian 	配置文件	c=8 d=1.11255 t=5015
+pei zhi wen jian lian jie 	配置文件連接	c=1 d=0.0953692 t=5015
+pei zhi wen jian shang chuan 	配置文件上傳	c=1 d=0.782705 t=5015
+pei zhi wen jian shi xian 	配置文件實現	c=1 d=0.158025 t=5015
+pei zhi wen jian zhong 	配置文件中	c=1 d=0.028297 t=5015
+pei zhi xin xi 	配置信息	c=2 d=0.244489 t=5015
+pei zhi yi dui duo de guan xi 	配置一對多的關係	c=1 d=0.191092 t=5015
+pei zhi ying she qi 	配置映射器	c=1 d=0.346456 t=5015
+pei zhi yong hu ming 	配置用戶名	c=1 d=0.0225956 t=5015
+pi pei 	匹配	c=1 d=0.0776922 t=5015
+pian yi 	偏移	c=0 d=0.0900325 t=5015
+pian yi liang 	偏移量	c=4 d=0.904837 t=5015
+ping 	屏	c=0 d=0.0499074 t=5015
+ping 	平	c=2 d=0.547803 t=5015
+ping guo 	蘋果	c=2 d=0.823369 t=5015
+ping lun 	評論	c=0 d=0.00155297 t=5015
+ping lun da bao zha 	評論大爆炸	c=1 d=0.0156076 t=5015
+ping shen 	評審	c=0 d=0.0286505 t=5015
+ping tai 	平臺	c=0 d=0.0847894 t=5015
+po hu 	破乎	c=1 d=0.210136 t=5015
+po jie 	破解	c=0 d=0.01764 t=5015
+po jie ban 	破解版	c=1 d=0.358796 t=5015
+po jie ruan jian 	破解軟件	c=1 d=0.177284 t=5015
+po luo 	魄羅	c=1 d=0.265803 t=5015
+pu tong 	普通	c=1 d=0.0706512 t=5015
+pu tong yong hu 	普通用戶	c=1 d=0.0629761 t=5015
+qi 	七	c=0 d=0.200982 t=5015
+qi 	器	c=0 d=0.0786628 t=5015
+qi 	起	c=2 d=0.287031 t=5015
+qi che 	汽車	c=0 d=0.000729913 t=5015
+qi che he che lun 	汽車和車輪	c=1 d=0.00733572 t=5015
+qi di 	啓迪	c=1 d=0.0880368 t=5015
+qi dian 	起點	c=4 d=0.0306967 t=5015
+qi ding shen xian 	氣定神閒	c=1 d=0.878095 t=5015
+qi dong 	啓動	c=2 d=0.873716 t=5015
+qi dong shi 	啓動時	c=2 d=0.220392 t=5015
+qi ta 	其他	c=3 d=0.202375 t=5015
+qi ta ye mian 	其他頁面	c=1 d=0.67368 t=5015
+qi wang ye hu ye 	其亡也忽也	c=1 d=0.119433 t=5015
+qi xing 	七星	c=0 d=0.00158434 t=5015
+qi xing ye bo ye 	其興也勃也	c=1 d=0.118837 t=5015
+qi xing zou zhu 	七星走珠	c=1 d=0.0159229 t=5015
+qi ye 	企業	c=1 d=0.189191 t=5015
+qi yong 	啓用	c=1 d=1.38187e-11 t=5015
+qi yuan 	奇緣	c=0 d=0.0715338 t=5015
+qi yuan 	起源	c=1 d=0.0154523 t=5015
+qi zhu ru dao kong zhi qi 	器注入到控制器	c=1 d=0.101774 t=5015
+qi zuo yong 	起作用	c=0 d=0.0489192 t=5015
+qian 	前	c=2 d=0.38868 t=5015
+qian duan 	前端	c=1 d=0.662567 t=5015
+qian duan ye mian 	前端頁面	c=1 d=0.532592 t=5015
+qian fang 	前方	c=0 d=0.0496585 t=5015
+qian tai 	前臺	c=2 d=0.883536 t=5015
+qian tai yan zheng 	前臺驗證	c=1 d=0.618783 t=5015
+qian zhi 	前置	c=0 d=0.0048362 t=5015
+qian zhi fang fa 	前置方法	c=1 d=0.0261214 t=5015
+qian zhi tong zhi 	前置通知	c=1 d=0.0224829 t=5015
+qian zhui 	前綴	c=1 d=0.343428 t=5015
+qian zhui hou zhui 	前綴後綴	c=1 d=0.316637 t=5015
+qie 	且	c=5 d=0.870755 t=5015
+qie mian 	切面	c=2 d=0.201418 t=5015
+qie mian bian cheng 	切面編程	c=2 d=0.578363 t=5015
+qie mian bian cheng 	切面變成	c=1 d=0.062662 t=5015
+qie mian lei 	切面類	c=6 d=1.59775 t=5015
+qie mian lei quan lu jing 	切面類全路徑	c=1 d=0.0235177 t=5015
+qie mian zhong 	切面中	c=1 d=0.479505 t=5015
+qie ru 	切入	c=1 d=0.889656 t=5015
+qie ru dian 	切入點	c=1 d=0.174468 t=5015
+qie ru dian biao da shi 	切入點表達式	c=5 d=1.59448 t=5015
+qie ru lei 	切入類	c=1 d=0.0216013 t=5015
+qin 	親	c=3 d=0.220633 t=5015
+qin ru 	侵入	c=1 d=0.055933 t=5015
+qing 	清	c=0 d=0.0018043 t=5015
+qing 	請	c=0 d=0.0824049 t=5015
+qing chong shi 	請重試	c=9 d=0.786628 t=5015
+qing deng lu 	請登錄	c=1 d=0.960789 t=5015
+qing gei nin 	請給您	c=1 d=0.254107 t=5015
+qing he 	清河	c=0 d=0.066365 t=5015
+qing kao 	清考	c=1 d=0.0893673 t=5015
+qing kuang xia 	情況下	c=1 d=0.0146986 t=5015
+qing qiu 	請求	c=4 d=0.90392 t=5015
+qing qiu de lu jing 	請求的路徑	c=1 d=0.235746 t=5015
+qing qiu dui xiang 	請求對象	c=1 d=0.491644 t=5015
+qing qiu shu ju 	請求數據	c=1 d=0.0480747 t=5015
+qing shu ru 	請輸入	c=4 d=1.10372 t=5015
+qing shu ru mi ma 	請輸入密碼	c=1 d=0.264477 t=5015
+qing shu ru nian ling 	請輸入年齡	c=1 d=0.268474 t=5015
+qing shu ru yong hu ming 	請輸入用戶名	c=1 d=0.263158 t=5015
+qing shu ru zheng que de 	請輸入正確的	c=1 d=0.19398 t=5015
+qing wei 	請爲	c=1 d=0.121846 t=5015
+qu 	去	c=16 d=3.40012 t=5015
+qu 	取	c=6 d=2.6006 t=5015
+qu bie 	區別	c=2 d=0.389422 t=5015
+qu chong 	去重	c=1 d=0.440432 t=5015
+qu chu lai 	取出來	c=0 d=0.0351692 t=5015
+qu deng lu 	去登錄	c=2 d=0.986198 t=5015
+qu deng lu ye mian 	取登錄頁面	c=2 d=0.693548 t=5015
+qu dong 	驅動	c=1 d=0.045412 t=5015
+qu dong bao 	驅動包	c=2 d=0.767704 t=5015
+qu fen 	區分	c=0 d=0.00109436 t=5015
+qu fen shu ju ku zhong 	區分數據庫中	c=1 d=0.0109985 t=5015
+qu kuai 	區塊	c=0 d=0.0179066 t=5015
+qu kuai lian 	區塊鏈	c=1 d=0.179964 t=5015
+qu qi ta ye mian 	去其他頁面	c=2 d=1.14299 t=5015
+qu qu 	去去	c=0 d=0.0666977 t=5015
+qu shou ye 	去首頁	c=1 d=0.579842 t=5015
+qu zhi 	取值	c=2 d=0.336572 t=5015
+qu zuo 	去做	c=1 d=0.0578443 t=5015
+quan 	全	c=0 d=0.00523397 t=5015
+quan bu 	全部	c=0 d=0.0228305 t=5015
+quan ju 	全局	c=2 d=0.395942 t=5015
+quan ju kai qi lan jie qi 	全局開啓攔截器	c=1 d=0.0381969 t=5015
+quan ju pei zhi 	全局配置	c=4 d=1.02193 t=5015
+quan ju pei zhi xin xi 	全局配置信息	c=1 d=0.477114 t=5015
+quan lu jing 	全路徑	c=5 d=0.12384 t=5015
+quan mian 	全面	c=0 d=0.0499074 t=5015
+quan mian ping shou ji 	全面屏手機	c=1 d=0.501576 t=5015
+quan wen 	全文	c=0 d=0.0201525 t=5015
+quan xian 	權限	c=5 d=0.563839 t=5015
+quan xian dai ma 	權限代碼	c=1 d=0.141564 t=5015
+quan xian fen pei cheng gong 	權限分配成功	c=1 d=0.128735 t=5015
+quan xian fen pei shi bai 	權限分配失敗	c=1 d=0.12938 t=5015
+quan xian guan li 	權限管理	c=3 d=0.346106 t=5015
+quan xian xin xi 	權限信息	c=1 d=0.13332 t=5015
+quan zi dong 	全自動	c=2 d=0.463745 t=5015
+que bao 	缺包	c=1 d=0.0118551 t=5015
+que dian 	缺點	c=4 d=0.571209 t=5015
+que ding 	確定	c=0 d=0.013466 t=5015
+que ding yao 	確定要	c=1 d=0.135335 t=5015
+que ren 	確認	c=3 d=0.206882 t=5015
+que ren mi ma 	確認密碼	c=3 d=0.753913 t=5015
+ran hou 	然後	c=4 d=0.820778 t=5015
+ran hou cha ru 	然後插入	c=1 d=0.241714 t=5015
+ran hou jin xing yan zheng 	然後進行驗證	c=1 d=0.524663 t=5015
+ran hou jiu 	然後就	c=0 d=0.0177284 t=5015
+ran hou jiu ke yi shi yong la 	然後就可以食用啦	c=1 d=0.178173 t=5015
+ran hou shan chu 	然後刪除	c=1 d=0.615697 t=5015
+ren he 	任何	c=0 d=0.0182684 t=5015
+ren he cao zuo 	任何操作	c=1 d=0.0295994 t=5015
+ren ji jiao hu 	人機交互	c=1 d=0.0359725 t=5015
+ren shi 	人事	c=3 d=1.51092 t=5015
+ren shi bu 	人事部	c=2 d=0.0337391 t=5015
+ren zai 	人在	c=1 d=0.0182243 t=5015
+ren zhen 	認真	c=0 d=0.0149569 t=5015
+ri 	日	c=1 d=0.57695 t=5015
+ri zhi 	日誌	c=2 d=0.0657047 t=5015
+ri zhi bao 	日誌包	c=1 d=0.66034 t=5015
+ri zu 	日租	c=1 d=0.0218184 t=5015
+rong qi 	容器	c=8 d=2.08341 t=5015
+rong qi dui xiang 	容器對象	c=2 d=0.176515 t=5015
+rong yi 	容易	c=1 d=0.0106202 t=5015
+rong yu 	冗餘	c=1 d=0.606178 t=5015
+ru 	如	c=0 d=0.00505395 t=5015
+ru guo 	如果	c=4 d=0.206563 t=5015
+ru guo cun zai 	如果存在	c=1 d=0.0277367 t=5015
+ru guo mei you 	如果沒有	c=1 d=0.169483 t=5015
+ru guo sheng lve 	如果省略	c=1 d=0.0769192 t=5015
+ru guo shi 	如果是	c=1 d=0.0699482 t=5015
+ru guo shu ju ku cun zai 	如果數據庫存在	c=1 d=0.224249 t=5015
+ru guo yong hu yi deng lu 	如果用戶已登錄	c=1 d=0.0682212 t=5015
+ru guo you 	如果有	c=1 d=0.167797 t=5015
+ru he 	如何	c=1 d=0.826959 t=5015
+ru he shan chu 	如何刪除	c=1 d=0.310367 t=5015
+ru he she zhi 	如何設置	c=1 d=0.895834 t=5015
+ru men 	入門	c=0 d=0.0226502 t=5015
+ru sheng lve 	如省略	c=1 d=0.0507928 t=5015
+ruan jian 	軟件	c=2 d=0.367948 t=5015
+rui wen 	瑞雯	c=1 d=0.13068 t=5015
+ruo 	弱	c=0 d=0.00845849 t=5015
+ruo yin yong 	弱引用	c=1 d=0.0850088 t=5015
+sa mo ye 	薩摩耶	c=1 d=0.236928 t=5015
+san 	三	c=2 d=0.0891366 t=5015
+san bai 	三百	c=0 d=0.0644036 t=5015
+san bai ji 	三百集	c=1 d=0.647265 t=5015
+san ceng 	三層	c=0 d=0.0353455 t=5015
+san ceng jia gou 	三層架構	c=1 d=0.355226 t=5015
+san ji 	三集	c=0 d=0.208104 t=5015
+san jian ke 	三劍客	c=1 d=0.290835 t=5015
+san shi 	三十	c=0 d=0.0755784 t=5015
+san wei 	三位	c=0 d=0.0414783 t=5015
+san xing 	三星	c=1 d=0.414783 t=5015
+san yao su 	三要素	c=2 d=1.46704 t=5015
+san ye 	三爺	c=3 d=2.94062 t=5015
+sao miao 	掃描	c=1 d=0.383098 t=5015
+sao miao zhu jie 	掃描註解	c=1 d=0.67032 t=5015
+sen ma wei yi 	森馬衛衣	c=2 d=0.919109 t=5015
+sha shen 	殺神	c=1 d=0.748264 t=5015
+shan 	刪	c=3 d=0.999541 t=5015
+shan chu 	刪除	c=13 d=1.30254 t=5015
+shan chu shi bai 	刪除失敗	c=2 d=0.748264 t=5015
+shan chu shu ju 	刪除數據	c=2 d=1.31884 t=5015
+shan chu zhi 	刪除之	c=1 d=0.0366992 t=5015
+shan diao 	刪掉	c=0 d=0.0055299 t=5015
+shan xi 	山西	c=5 d=0.185027 t=5015
+shan xi sheng 	山西省	c=0 d=0.00188734 t=5015
+shan xi sheng guan yu che xian bing xian zheng gai fang an 	山西省關於撤縣並縣整改方案	c=1 d=0.018968 t=5015
+shang 	上	c=4 d=0.89351 t=5015
+shang chang 	商場	c=0 d=0.0440432 t=5015
+shang chang jia ge 	商場價格	c=3 d=1.73097 t=5015
+shang chuan 	上傳	c=2 d=1.08684 t=5015
+shang chuan wen jian 	上傳文件	c=1 d=0.687289 t=5015
+shang chuan wen jian nei rong 	上傳文件內容	c=1 d=0.729789 t=5015
+shang chuan xiang mu bu zhou 	上傳項目步驟	c=1 d=0.117655 t=5015
+shang chuan zuo ye 	上傳作業	c=2 d=0.3029 t=5015
+shang dan 	上單	c=2 d=0.798516 t=5015
+shang de 	上的	c=0 d=0.0217621 t=5015
+shang hai 	上海	c=1 d=0.12938 t=5015
+shang jia 	上架	c=1 d=0.68531 t=5015
+shang pin 	商品	c=10 d=3.0633 t=5015
+shang pin de tu pian 	商品的圖片	c=1 d=0.444858 t=5015
+shang pin jia ge 	商品價格	c=2 d=0.598347 t=5015
+shang pin ku cun 	商品庫存	c=1 d=0.494109 t=5015
+shang pin lei bie 	商品類別	c=3 d=0.987909 t=5015
+shang pin lei bie xian shi shi bai 	商品類別顯示失敗	c=1 d=0.369723 t=5015
+shang pin miao shu 	商品描述	c=2 d=1.09788 t=5015
+shang pin ming zi 	商品名字	c=3 d=1.08439 t=5015
+shang pin shang jia 	商品上架	c=1 d=0.447088 t=5015
+shang pin shu liang 	商品數量	c=1 d=0.384812 t=5015
+shang pin tu pian 	商品圖片	c=3 d=0.634448 t=5015
+shang pin zhan shi 	商品展示	c=1 d=0.579842 t=5015
+shang shi 	上市	c=1 d=0.177284 t=5015
+shang shou 	上手	c=0 d=0.00117371 t=5015
+shang xia 	上下	c=1 d=0.557106 t=5015
+shang xia wen 	上下文	c=1 d=0.559898 t=5015
+shang xia wen jie dian 	上下文節點	c=1 d=0.0808629 t=5015
+shang xian 	上線	c=0 d=0.0418952 t=5015
+shang xian 	上限	c=0 d=0.00155297 t=5015
+shang yi 	上衣	c=0 d=0.0392586 t=5015
+she 	蛇	c=0 d=0.088692 t=5015
+she ji 	設計	c=0 d=0.0286505 t=5015
+she ji mo shi 	設計模式	c=2 d=0.514303 t=5015
+she ji ping shen 	設計評審	c=1 d=0.287941 t=5015
+she ji shu ju ku 	設計數據庫	c=1 d=0.112478 t=5015
+she zhi 	設置	c=9 d=2.27459 t=5015
+she zhi bian ma 	設置編碼	c=1 d=0.540641 t=5015
+she zhi fang wen lu jing 	設置訪問路徑	c=1 d=0.0816756 t=5015
+she zhi fu lei 	設置父類	c=1 d=0.449329 t=5015
+she zhi guan xi 	設置關係	c=1 d=0.279431 t=5015
+she zhi hui tiao han shu 	設置回調函數	c=1 d=0.458406 t=5015
+she zhi le 	設置了	c=3 d=1.16119 t=5015
+she zhi mei ye 	設置每頁	c=1 d=0.0200405 t=5015
+she zhi shi fou fu gai 	設置是否覆蓋	c=1 d=0.83527 t=5015
+she zhi wai jian 	設置外鍵	c=1 d=0.240508 t=5015
+shen 	神	c=1 d=0.130029 t=5015
+shen fen zheng 	身份證	c=1 d=0.00758051 t=5015
+shen fen zheng dui ying yong hu 	身份證對應用戶	c=1 d=0.00657159 t=5015
+shen fen zheng hao 	身份證號	c=1 d=0.00647375 t=5015
+shen jia 	身價	c=2 d=0.49995 t=5015
+shen me 	什麼	c=1 d=0.816994 t=5015
+shen me fang fa 	什麼方法	c=1 d=0.798516 t=5015
+shen me gong neng 	什麼功能	c=1 d=0.97531 t=5015
+shen me kai 	什麼開	c=1 d=0.179066 t=5015
+shen me shi hou 	什麼時候	c=0 d=0.0895834 t=5015
+shen me shi hou bei shi li hua 	什麼時候被實例化	c=1 d=0.900325 t=5015
+shen qing 	申請	c=0 d=0.0285076 t=5015
+shen qing jia xin 	申請加薪	c=1 d=0.286505 t=5015
+shen ru yan jiu 	深入研究	c=0 d=0.0194952 t=5015
+shen zhen 	深圳	c=1 d=0.143704 t=5015
+shen zhou 	神舟	c=0 d=0.0763379 t=5015
+shen zhou zhan shen 	神舟戰神	c=1 d=0.767206 t=5015
+sheng cheng 	生成	c=4 d=2.05252 t=5015
+sheng cheng ce lve 	生成策略	c=1 d=0.0608101 t=5015
+sheng cheng dai li dui xiang 	生成代理對象	c=2 d=0.62397 t=5015
+sheng cheng dai li dui xiang fang fa 	生成代理對象方法	c=1 d=0.701173 t=5015
+sheng cheng yan zheng ma 	生成驗證碼	c=1 d=0.0513033 t=5015
+sheng ji 	升級	c=3 d=0.0481574 t=5015
+sheng ji ban 	升級版	c=2 d=0.189567 t=5015
+sheng lve 	省略	c=1 d=0.0909036 t=5015
+sheng ming 	聲明	c=3 d=1.90701 t=5015
+sheng ming shi shi wu kong zhi 	聲明式事物控制	c=1 d=0.00806679 t=5015
+sheng ming shi wu guan li 	聲明事務管理	c=1 d=0.882497 t=5015
+sheng nei 	省內	c=1 d=0.0176857 t=5015
+sheng ren 	勝任	c=0 d=0.0191092 t=5015
+sheng ri 	生日	c=3 d=0.70323 t=5015
+sheng xu 	聖墟	c=2 d=1.46323 t=5015
+sheng yuan 	生源	c=0 d=0.056307 t=5015
+sheng yuan di 	生源第	c=1 d=0.282239 t=5015
+sheng yuan di dai kuan 	生源地貸款	c=4 d=1.20517 t=5015
+shi 	事	c=1 d=0.203926 t=5015
+shi 	使	c=1 d=0.0225956 t=5015
+shi 	式	c=0 d=0.00505395 t=5015
+shi 	是	c=12 d=1.06113 t=5015
+shi 	時	c=7 d=0.399883 t=5015
+shi bai 	失敗	c=5 d=0.574589 t=5015
+shi bu shi 	是不是	c=0 d=0.0519442 t=5015
+shi can 	實參	c=2 d=0.307279 t=5015
+shi chang jia ge 	市場價格	c=3 d=1.71796 t=5015
+shi du zhi ai 	舐犢之愛	c=0 d=0.0516851 t=5015
+shi du zhi ai wei 	舐犢之愛爲	c=1 d=0.519442 t=5015
+shi dui 	是對	c=1 d=0.519442 t=5015
+shi fang 	釋放	c=2 d=0.726621 t=5015
+shi fou 	是否	c=5 d=1.50363 t=5015
+shi fou cun zai 	是否存在	c=0 d=0.00837432 t=5015
+shi fou lan jia zai 	是否懶加載	c=1 d=0.113608 t=5015
+shi fou shi 	是否是	c=1 d=0.499074 t=5015
+shi fou shi yong 	是否使用	c=1 d=0.214381 t=5015
+shi fou shi yong lian jie chi 	是否使用連接池	c=1 d=0.210136 t=5015
+shi fou yi bu chu li 	是否異步處理	c=1 d=0.301194 t=5015
+shi fou zheng que 	是否正確	c=0 d=0.0045502 t=5015
+shi fou zhuan yi 	是否轉移	c=1 d=0.481909 t=5015
+shi jian 	事件	c=2 d=0.166127 t=5015
+shi jian 	時間	c=5 d=1.76966 t=5015
+shi kuang jia 	式框架	c=1 d=0.056186 t=5015
+shi li 	實例	c=1 d=0.248096 t=5015
+shi li hua 	實例化	c=7 d=0.985418 t=5015
+shi li hua dui xiang 	實例化對象	c=1 d=0.0187793 t=5015
+shi pei 	適配	c=1 d=0.090718 t=5015
+shi pei qi 	適配器	c=2 d=0.556521 t=5015
+shi pin 	視頻	c=1 d=0.621885 t=5015
+shi shang 	時尚	c=0 d=0.0108067 t=5015
+shi shang nv zhuang 	時尚女裝	c=1 d=0.108609 t=5015
+shi shen me 	是什麼	c=1 d=0.336216 t=5015
+shi sheng 	師生	c=0 d=0.0887846 t=5015
+shi sheng jiao hu 	師生交互	c=2 d=0.224806 t=5015
+shi sheng jiao hu ping tai 	師生交互平臺	c=7 d=3.71739 t=5015
+shi sheng jiao hu xi tong 	師生交互系統	c=1 d=0.0401553 t=5015
+shi shi 	試試	c=0 d=0.000637737 t=5015
+shi shi wu kong zhi 	式事物控制	c=1 d=0.00882921 t=5015
+shi ti 	實體	c=1 d=0.0790155 t=5015
+shi ti lei 	實體類	c=19 d=2.13256 t=5015
+shi ti lei dui xiang 	實體類對象	c=2 d=0.074507 t=5015
+shi ti lei shang 	實體類上	c=2 d=0.491613 t=5015
+shi tong yi ge wen jian jia 	時同一個文件夾	c=1 d=0.124307 t=5015
+shi tu 	視圖	c=1 d=0.591555 t=5015
+shi tu 	試圖	c=1 d=0.344728 t=5015
+shi tu jie xi qi 	視圖解析器	c=3 d=0.56667 t=5015
+shi wu 	事物	c=12 d=3.74397 t=5015
+shi wu de 	事物的	c=1 d=0.0108347 t=5015
+shi wu dui xiang 	事物對象	c=1 d=0.527292 t=5015
+shi wu guan li 	事務管理	c=1 d=0.226412 t=5015
+shi wu guan li qi 	事物管理器	c=1 d=0.0119145 t=5015
+shi wu kong zhi 	事物控制	c=2 d=0.0185388 t=5015
+shi wu pei zhi 	事物配置	c=1 d=0.0129715 t=5015
+shi wu xiang guan yi chang 	事物相關異常	c=1 d=0.0121552 t=5015
+shi wu zeng qiang 	事物增強	c=2 d=0.995012 t=5015
+shi xian 	實現	c=15 d=2.42659 t=5015
+shi xian de 	實現的	c=1 d=0.960789 t=5015
+shi xian fang fa 	實現方法	c=1 d=0.494109 t=5015
+shi xian jie kou 	實現接口	c=2 d=0.785521 t=5015
+shi xian lei 	實現類	c=6 d=1.26027 t=5015
+shi xian liang ge fang fa 	實現兩個方法	c=1 d=0.856415 t=5015
+shi xian shi wu 	實現事物	c=1 d=0.0098528 t=5015
+shi xian tong yi jie kou 	實現同一接口	c=1 d=0.287941 t=5015
+shi xian yan zheng qi 	實現驗證器	c=1 d=0.0862936 t=5015
+shi xiao 	失效	c=0 d=0.000810722 t=5015
+shi yi kuan 	是一款	c=0 d=0.0722527 t=5015
+shi yong 	使用	c=20 d=2.58065 t=5015
+shi yong 	食用	c=0 d=0.0177284 t=5015
+shi yong bu zhou 	使用步驟	c=2 d=0.600496 t=5015
+shi yong fang shi 	使用方式	c=1 d=0.319819 t=5015
+shi yong gong xiang yu 	使用共享域	c=1 d=1.5816e-11 t=5015
+shi yong jie kou 	使用接口	c=1 d=0.548812 t=5015
+shi yong lian jie chi 	使用連接池	c=2 d=0.425559 t=5015
+shi yong ling huo 	使用靈活	c=1 d=0.00860854 t=5015
+shi yong rong qi guan li shi wu 	使用容器管理事物	c=1 d=0.226502 t=5015
+shi yong shi 	使用時	c=2 d=0.2187 t=5015
+shi yong shu xing miao shu qi 	使用屬性描述起	c=1 d=0.292293 t=5015
+shi yong zhong jian biao 	使用中間表	c=1 d=0.353455 t=5015
+shi yong zi zeng jian 	使用自增鍵	c=1 d=0.371577 t=5015
+shi zen me chuan di de 	是怎麼傳遞的	c=1 d=0.527292 t=5015
+shou dong 	手動	c=1 d=0.0709892 t=5015
+shou dong dai ma 	手動代碼	c=1 d=0.00814786 t=5015
+shou dong she zhi 	手動設置	c=1 d=0.019708 t=5015
+shou dong shi xian 	手動實現	c=1 d=0.501576 t=5015
+shou dong ti jiao shi wu 	手動提交事物	c=1 d=0.257947 t=5015
+shou dong xie 	手動寫	c=1 d=0.425283 t=5015
+shou huo 	收貨	c=0 d=0.0120032 t=5015
+shou ji 	手機	c=5 d=1.21596 t=5015
+shou ji bi zhi 	手機壁紙	c=1 d=0.181772 t=5015
+shou ji shu ma 	手機數碼	c=1 d=0.107528 t=5015
+shou jian ren 	收件人	c=1 d=0.375311 t=5015
+shou kuan 	收款	c=0 d=0.00361528 t=5015
+shou kuan ma 	收款碼	c=1 d=0.036334 t=5015
+shou xian 	首先	c=0 d=0.0162838 t=5015
+shou xian jian suo 	首先檢索	c=1 d=0.163654 t=5015
+shou xie 	手寫	c=1 d=0.0875977 t=5015
+shou ye 	首頁	c=12 d=2.55441 t=5015
+shou ye lie biao zhan shi 	首頁列表展示	c=1 d=0.481909 t=5015
+shu chu 	輸出	c=1 d=0.315058 t=5015
+shu ju 	數據	c=22 d=2.20017 t=5015
+shu ju bao cun cheng gong 	數據保存成功	c=2 d=0.583307 t=5015
+shu ju bu hui bei shan chu 	數據不會被刪除	c=1 d=0.657047 t=5015
+shu ju fang wen ceng 	數據訪問層	c=1 d=0.00891518 t=5015
+shu ju feng zhuang dao shi ti lei zhong 	數據封裝到實體類中	c=1 d=0.677057 t=5015
+shu ju geng xin 	數據更新	c=1 d=0.904837 t=5015
+shu ju hui bei bao cun 	數據會被保存	c=1 d=0.546074 t=5015
+shu ju hui xian 	數據回顯	c=2 d=1.79099 t=5015
+shu ju jiao yan 	數據校驗	c=1 d=0.615697 t=5015
+shu ju ku 	數據庫	c=12 d=1.93737 t=5015
+shu ju ku bao cun dui xiang 	數據庫保存對象	c=1 d=0.256661 t=5015
+shu ju ku cao zuo 	數據庫操作	c=1 d=0.615697 t=5015
+shu ju ku de xiang guan pei zhi 	數據庫的相關配置	c=1 d=0.0122773 t=5015
+shu ju ku fang wen 	數據庫訪問	c=1 d=0.390217 t=5015
+shu ju ku fang wen ceng 	數據庫訪問層	c=2 d=0.491644 t=5015
+shu ju ku lian jie chi 	數據庫連接池	c=1 d=0.331211 t=5015
+shu ju ku she ji bu he li 	數據庫設計不合理	c=1 d=0.0135009 t=5015
+shu ju ku zhong 	數據庫中	c=3 d=1.04321 t=5015
+shu ju ku zhong ceng jing you guo 	數據庫中曾經有過	c=1 d=0.909373 t=5015
+shu ju ku zhong you dui ying de 	數據庫中有對應的	c=1 d=0.843665 t=5015
+shu ju lei xing 	數據類型	c=1 d=0.0342181 t=5015
+shu ju yuan 	數據源	c=0 d=0.083527 t=5015
+shu ju zhong 	數據中	c=1 d=0.0323869 t=5015
+shu lian 	熟練	c=1 d=0.0115624 t=5015
+shu liang 	數量	c=3 d=0.288112 t=5015
+shu ma 	數碼	c=0 d=0.0106992 t=5015
+shu ru 	輸入	c=1 d=0.339652 t=5015
+shu ru fa 	輸入法	c=1 d=1.16345 t=5015
+shu shi 	舒適	c=0 d=0.0460704 t=5015
+shu xing 	屬性	c=13 d=1.68623 t=5015
+shu xing miao shu qi 	屬性描述器	c=1 d=0.29523 t=5015
+shu xing ming 	屬性名	c=15 d=1.22125 t=5015
+shu zi 	數字	c=0 d=0.00710054 t=5015
+shu zu 	數組	c=1 d=0.161685 t=5015
+shua xin 	刷新	c=1 d=0.844449 t=5015
+shua xin ye mian 	刷新頁面	c=1 d=0.0812682 t=5015
+shua xin ye mian ye mei yong 	刷新頁面也沒用	c=1 d=0.208045 t=5015
+shuai 	帥	c=2 d=1.03909 t=5015
+shuang xiang 	雙向	c=0 d=0.0344728 t=5015
+shuang xiang guan lian 	雙向關聯	c=1 d=0.346456 t=5015
+shui biao 	水錶	c=0 d=0.0394554 t=5015
+shui biao zhe zhong dong xi 	水錶這種東西	c=1 d=0.396531 t=5015
+shui yao 	誰要	c=1 d=0.479505 t=5015
+shun shi 	瞬時	c=0 d=0.0729789 t=5015
+shun shi tai 	瞬時態	c=6 d=0.812107 t=5015
+shun shi tai dui xiang 	瞬時態對象	c=1 d=0.790571 t=5015
+shuo 	說	c=1 d=0.535261 t=5015
+shuo huang 	說謊	c=0 d=0.011475 t=5015
+shuo ming 	說明	c=1 d=0.57695 t=5015
+si 	四	c=0 d=0.00992613 t=5015
+si ji 	四集	c=0 d=0.209147 t=5015
+si lu 	思路	c=1 d=0.371577 t=5015
+sou gou 	搜狗	c=1 d=0.279431 t=5015
+sou suo 	搜索	c=1 d=0.169483 t=5015
+sou tu 	搜圖	c=1 d=0.173774 t=5015
+su 	速	c=0 d=0.0268474 t=5015
+su yu ya 	蘇玉雅	c=1 d=0.715338 t=5015
+suan fa 	算法	c=1 d=0.410931 t=5015
+suan fa fu wu 	算法服務	c=1 d=0.357007 t=5015
+sui ji 	隨機	c=0 d=0.0066205 t=5015
+sui ji sheng cheng 	隨機生成	c=1 d=0.0665368 t=5015
+sui zhe 	隨着	c=0 d=0.00248475 t=5015
+suo ni 	索尼	c=1 d=0.418952 t=5015
+suo yi 	所以	c=2 d=0.852144 t=5015
+suo yin 	索引	c=0 d=0.0201525 t=5015
+suo you 	所有	c=5 d=2.27325 t=5015
+suo you cao zuo 	所有操作	c=1 d=0.0461896 t=5015
+suo you fang fa 	所有方法	c=1 d=0.024972 t=5015
+suo you gong neng 	所有功能	c=1 d=0.0617291 t=5015
+suo you quan xian 	所有權限	c=1 d=0.140156 t=5015
+suo you shang pin 	所有商品	c=1 d=0.729789 t=5015
+suo you shu ju 	所有數據	c=1 d=0.13813 t=5015
+suo you wen jian 	所有文件	c=1 d=0.759572 t=5015
+suo zai 	所在	c=0 d=0.00497871 t=5015
+suo zai de 	所在的	c=1 d=0.0500366 t=5015
+ta 	他	c=1 d=0.0626789 t=5015
+ta 	它	c=1 d=0.400517 t=5015
+ta cong di yu lai 	他從地獄來	c=1 d=0.0222592 t=5015
+ta men de 	他們的	c=0 d=0.0396531 t=5015
+ta men de yi lai bao 	他們的依賴包	c=1 d=0.398519 t=5015
+tai 	態	c=0 d=0.220036 t=5015
+tai 	臺	c=1 d=0.932394 t=5015
+tai duo 	太多	c=0 d=0.0287941 t=5015
+tai fu 	臺服	c=2 d=0.136108 t=5015
+tai gao 	太高	c=0 d=0.0551563 t=5015
+tai yuan 	太原	c=1 d=0.061496 t=5015
+tai yuan xue yuan 	太原學院	c=1 d=0.0366992 t=5015
+tan 	譚	c=0 d=0.0181772 t=5015
+tan wei wei 	譚維維	c=1 d=0.182684 t=5015
+tao can 	套餐	c=1 d=0.0191588 t=5015
+te dian 	特點	c=5 d=1.75034 t=5015
+ti dai 	替代	c=0 d=0.0225373 t=5015
+ti gao 	提高	c=2 d=1.01672 t=5015
+ti gao kai fa xiao lv 	提高開發效率	c=1 d=0.00995182 t=5015
+ti gao le 	提高了	c=1 d=0.324652 t=5015
+ti gao le dai ma de xiao lv 	提高了代碼的效率	c=1 d=0.562705 t=5015
+ti gao lian jie xiao lv 	提高連接效率	c=1 d=0.0147723 t=5015
+ti gao xiao lv 	提高效率	c=1 d=0.0291588 t=5015
+ti gong 	提供	c=2 d=0.147105 t=5015
+ti gong de 	提供的	c=1 d=0.00887071 t=5015
+ti gong le 	提供了	c=1 d=0.229925 t=5015
+ti jiao 	提交	c=15 d=3.01363 t=5015
+ti jiao shi wu 	提交事物	c=3 d=0.115549 t=5015
+ti jiao xiu gai 	提交修改	c=1 d=0.150318 t=5015
+ti shi xin xi 	提示信息	c=4 d=0.57695 t=5015
+tian fu 	天賦	c=1 d=0.123687 t=5015
+tian jia 	添加	c=9 d=1.43875 t=5015
+tian jia cheng gong 	添加成功	c=1 d=0.701173 t=5015
+tian jia jue se 	添加角色	c=2 d=0.274097 t=5015
+tian jia shang pin 	添加商品	c=2 d=1.33758 t=5015
+tian jia shang pin shi bai 	添加商品失敗	c=1 d=0.718924 t=5015
+tian jia shu ju 	添加數據	c=1 d=0.0285814 t=5015
+tian jia tiao jian 	添加條件	c=1 d=0.0461896 t=5015
+tian jia wai jian yue shu 	添加外鍵約束	c=1 d=0.00670434 t=5015
+tian jia yong hu 	添加用戶	c=2 d=0.67368 t=5015
+tian long 	天龍	c=0 d=0.0718924 t=5015
+tian shi 	天使	c=0 d=0.0267135 t=5015
+tiao 	條	c=0 d=0.0955997 t=5015
+tiao jian 	條件	c=5 d=0.218539 t=5015
+tiao jian cha xun 	條件查詢	c=1 d=0.0185631 t=5015
+tiao jian shi can 	條件實參	c=1 d=0.045275 t=5015
+tiao zhuan 	跳轉	c=1 d=0.838519 t=5015
+tiao zhuan di zhi 	跳轉地址	c=1 d=0.145148 t=5015
+tiao zhuan ye mian 	跳轉頁面	c=1 d=0.715338 t=5015
+ting 	停	c=1 d=0.122456 t=5015
+ting 	聽	c=1 d=0.0645703 t=5015
+tong bu 	同步	c=1 d=0.491644 t=5015
+tong chang 	通常	c=1 d=0.0211736 t=5015
+tong guo 	通過	c=8 d=0.962685 t=5015
+tong guo bu men guan li yuan gong 	通過部門管理員工	c=1 d=0.19205 t=5015
+tong guo bu men huo qu yuan gong 	通過部門獲取員工	c=1 d=0.307279 t=5015
+tong guo dai li 	通過代理	c=1 d=0.236928 t=5015
+tong guo fan she de fang shi 	通過反射的方式	c=1 d=0.32628 t=5015
+tong guo gong chang lei 	通過工廠類	c=1 d=0.085435 t=5015
+tong guo lan jie qi 	通過攔截器	c=1 d=0.955997 t=5015
+tong guo xiang mu wei hu guan xi 	通過項目維護關係	c=1 d=0.377192 t=5015
+tong guo xing can 	通過行參	c=1 d=0.600496 t=5015
+tong guo yuan gong cha xun bu men 	通過員工查詢部門	c=1 d=0.310367 t=5015
+tong ji 	統計	c=0 d=0.0126186 t=5015
+tong ji ge shu 	統計個數	c=1 d=0.126818 t=5015
+tong pei fu 	通配符	c=1 d=0.980199 t=5015
+tong xue 	同學	c=0 d=0.0079659 t=5015
+tong yi 	同一	c=1 d=0.0294364 t=5015
+tong yi 	統一	c=0 d=0.00191662 t=5015
+tong yi ge 	同一個	c=1 d=0.328617 t=5015
+tong yi ge jie kou 	同一個接口	c=1 d=0.255381 t=5015
+tong yi ge lei 	同一個類	c=1 d=0.00694315 t=5015
+tong yi ge shu ru fa 	同一個輸入法	c=2 d=1.86993 t=5015
+tong yi gui fan 	統一規範	c=1 d=0.551563 t=5015
+tong yi mu lu xia 	同一目錄下	c=1 d=0.242926 t=5015
+tong yi zhang biao li 	同一張表裏	c=1 d=0.00729913 t=5015
+tong yi zhi ding 	統一指定	c=1 d=0.0191587 t=5015
+tong zhi 	通知	c=0 d=0.010489 t=5015
+tou xin 	偷心	c=1 d=0.726149 t=5015
+tu biao 	圖標	c=0 d=0.0136014 t=5015
+tu pian 	圖片	c=6 d=2.94887 t=5015
+tu pian xi tong 	圖片系統	c=1 d=0.733447 t=5015
+tu xing hua 	圖形化	c=1 d=0.185251 t=5015
+tu xing hua cao zuo gong ju 	圖形化操作工具	c=1 d=0.16696 t=5015
+tui chu 	推出	c=1 d=1.48335e-11 t=5015
+tui chu 	退出	c=1 d=0.806541 t=5015
+tui chu deng lu 	退出登錄	c=3 d=0.614649 t=5015
+tui chu deng lu fang fa 	推出登錄方法	c=1 d=1.2949e-11 t=5015
+tui chu deng lu fang fa 	退出登錄方法	c=1 d=0.0792617 t=5015
+tui jian shi yong 	推薦使用	c=1 d=0.301194 t=5015
+wa 	瓦	c=0 d=0.0244143 t=5015
+wa luo lan chong wu dian 	瓦洛蘭寵物店	c=1 d=0.245367 t=5015
+wai 	外	c=1 d=0.337411 t=5015
+wai bu 	外部	c=0 d=0.00578443 t=5015
+wai bu rong qi 	外部容器	c=1 d=0.0581343 t=5015
+wai jian 	外鍵	c=8 d=2.0178 t=5015
+wai jian guan lian 	外鍵關聯	c=1 d=0.010358 t=5015
+wai jian shu xing 	外鍵屬性	c=1 d=0.559898 t=5015
+wai jian zhuang tai 	外鍵狀態	c=1 d=0.318224 t=5015
+wai jian zi duan ming 	外鍵字段名	c=3 d=1.3537 t=5015
+wai lian jie 	外連接	c=2 d=0.0500403 t=5015
+wai tao 	外套	c=1 d=0.396531 t=5015
+wan 	完	c=1 d=0.0599047 t=5015
+wan 	玩	c=0 d=0.0951686 t=5015
+wan bi 	完畢	c=1 d=0.0204453 t=5015
+wan cheng 	完成	c=0 d=0.0794534 t=5015
+wan de 	玩的	c=0 d=0.0895834 t=5015
+wan de kai xin jiu hao 	玩的開心就好	c=1 d=0.900325 t=5015
+wan quan 	完全	c=0 d=0.00401553 t=5015
+wan quan mian xiang dui xiang 	完全面向對象	c=1 d=0.0403566 t=5015
+wan quan you 	完全有	c=1 d=0.00782838 t=5015
+wan shan 	完善	c=1 d=0.0977834 t=5015
+wan shang 	晚上	c=0 d=0.0282239 t=5015
+wan shang jia ban 	晚上加班	c=1 d=0.283654 t=5015
+wan you xi 	玩遊戲	c=1 d=0.0160027 t=5015
+wang 	王	c=0 d=0.00288686 t=5015
+wang ji 	忘記	c=1 d=0.0407622 t=5015
+wang le 	忘了	c=0 d=0.0132655 t=5015
+wang luo 	網絡	c=0 d=0.0235746 t=5015
+wang luo jiao xue 	網絡教學	c=1 d=0.209088 t=5015
+wang luo yi chang 	網絡異常	c=12 d=2.02443 t=5015
+wang shang shang cheng 	網上商城	c=1 d=0.182684 t=5015
+wang ting 	王庭	c=0 d=0.00784731 t=5015
+wang xiao er 	王小二	c=1 d=0.0290133 t=5015
+wang zhan 	網站	c=1 d=0.198891 t=5015
+wei 	位	c=3 d=0.997621 t=5015
+wei 	未	c=0 d=0.0467666 t=5015
+wei 	爲	c=14 d=2.57307 t=5015
+wei 	衛	c=0 d=0.0460704 t=5015
+wei bei 	未被	c=1 d=0.621025 t=5015
+wei bei yin yong de shu ju hui bei shan chu 	未被引用的數據會被刪除	c=1 d=0.67032 t=5015
+wei bo 	微博	c=2 d=0.282239 t=5015
+wei bo yin yue 	微博音樂	c=1 d=0.227638 t=5015
+wei chu xue 	胃出血	c=1 d=1.51958e-11 t=5015
+wei deng lu 	未登錄	c=2 d=0.154671 t=5015
+wei fa huo 	未發貨	c=1 d=0.222017 t=5015
+wei fan 	違反	c=1 d=0.647265 t=5015
+wei fu kuan 	未付款	c=1 d=0.470011 t=5015
+wei hu 	維護	c=5 d=1.71741 t=5015
+wei hu guan lian guan xi 	維護關聯關係	c=1 d=0.477114 t=5015
+wei hu guan xi 	維護關係	c=1 d=0.543351 t=5015
+wei hu mu biao dui xiang 	維護目標對象	c=1 d=0.697676 t=5015
+wei hu yi ge mu biao dui xiang 	維護一個目標對象	c=2 d=0.753291 t=5015
+wei hu zhong 	維護中	c=1 d=0.283654 t=5015
+wei kong 	爲空	c=0 d=0.0949777 t=5015
+wei le 	爲了	c=1 d=0.831034 t=5015
+wei le shu ju hui xian 	爲了數據回顯	c=1 d=0.869358 t=5015
+wei lu deng 	爲路燈	c=1 d=0.0739031 t=5015
+wei mei ge chuang kou 	爲每個窗口	c=1 d=0.918512 t=5015
+wei ruan 	微軟	c=1 d=0.891366 t=5015
+wei wei 	維維	c=0 d=0.0181772 t=5015
+wei xin 	微信	c=0 d=0.0196912 t=5015
+wei yi 	唯一	c=2 d=0.162622 t=5015
+wei yi biao ji 	唯一標記	c=1 d=0.810584 t=5015
+wei yi de 	唯一的	c=1 d=0.0668703 t=5015
+wei yun suan 	位運算	c=1 d=0.414783 t=5015
+wei zhi 	位置	c=2 d=0.937067 t=5015
+wen ben 	文本	c=1 d=0.511709 t=5015
+wen dang 	文檔	c=1 d=0.084163 t=5015
+wen ding 	穩定	c=1 d=0.0448245 t=5015
+wen jian 	文件	c=16 d=4.72223 t=5015
+wen jian de 	文件的	c=1 d=0.897027 t=5015
+wen jian de ming zi 	文件的名字	c=1 d=0.99005 t=5015
+wen jian jia 	文件夾	c=2 d=0.941765 t=5015
+wen jian lie biao 	文件列表	c=2 d=0.878967 t=5015
+wen jian miao shu 	文件描述	c=1 d=0.774916 t=5015
+wen jian ming 	文件名	c=4 d=2.77661 t=5015
+wen jian ming bian ma 	文件名編碼	c=1 d=0.798516 t=5015
+wen jian shang chuan 	文件上傳	c=4 d=1.28969 t=5015
+wen jian shang chuan bao 	文件上傳包	c=1 d=0.618783 t=5015
+wen jian shang chuan lan jie qi 	文件上傳攔截器	c=1 d=0.900325 t=5015
+wen jian shang chuan ye wu fang fa 	文件上傳業務方法	c=1 d=0.802519 t=5015
+wen jian xia zai 	文件下載	c=2 d=1.15267 t=5015
+wen jian xia zai lie biao 	文件下載列表	c=1 d=0.839457 t=5015
+wen jian zhong 	文件中	c=1 d=0.0301394 t=5015
+wen ti 	問題	c=4 d=0.170738 t=5015
+wo 	我	c=5 d=0.369723 t=5015
+wo bu 	我不	c=0 d=0.0151829 t=5015
+wo bu jie shou zhe ge biao bai 	我不接受這個表白	c=1 d=0.15259 t=5015
+wo chi xi hong shi 	我吃西紅柿	c=1 d=0.744532 t=5015
+wo de 	我的	c=1 d=0.219808 t=5015
+wo hai 	我還	c=0 d=0.00156076 t=5015
+wo hen 	我很	c=0 d=0.0149569 t=5015
+wo hen ren zhen 	我很認真	c=1 d=0.150318 t=5015
+wo la bu dao ni 	我拉不到你	c=1 d=0.117655 t=5015
+wo mei you 	我沒有	c=0 d=0.00196437 t=5015
+wo men 	我們	c=0 d=0.050409 t=5015
+wo shi 	我是	c=1 d=0.0199405 t=5015
+wo wang 	我往	c=0 d=0.00403566 t=5015
+wo wang ji 	我往集	c=1 d=0.0405589 t=5015
+wo wang le ya suo le 	我忘了壓縮了	c=1 d=0.13332 t=5015
+wo wei xin 	我微信	c=1 d=0.197899 t=5015
+wo yi dong 	我移動	c=1 d=0.0164078 t=5015
+wo yong 	我用	c=0 d=0.00178634 t=5015
+wo zhe 	我這	c=1 d=0.0617291 t=5015
+wu 	無	c=1 d=0.0352602 t=5015
+wu fa 	無法	c=2 d=0.118887 t=5015
+wu fa huo qu 	無法獲取	c=1 d=0.163654 t=5015
+wu fa qi dong 	無法啓動	c=1 d=0.120032 t=5015
+wu guan 	無關	c=1 d=0.427415 t=5015
+wu ji 	五集	c=0 d=0.210195 t=5015
+wu jin 	無盡	c=0 d=0.0358796 t=5015
+wu jin mo shi 	無盡模式	c=1 d=0.360595 t=5015
+wu li 	物理	c=1 d=0.0208584 t=5015
+wu xu 	無序	c=2 d=0.439123 t=5015
+wu xu 	無需	c=0 d=0.019205 t=5015
+wu xu shou dong she zhi can shu 	無需手動設置參數	c=1 d=0.193013 t=5015
+wu ying xiang 	無影響	c=1 d=0.00927901 t=5015
+wu yu 	物語	c=0 d=0.00121552 t=5015
+xi 	細	c=0 d=0.000878245 t=5015
+xi hong shi 	西紅柿	c=0 d=0.0740818 t=5015
+xi jie 	細節	c=0 d=0.0215456 t=5015
+xi juan 	席捲	c=0 d=0.00153752 t=5015
+xi juan shan xi 	席捲山西	c=1 d=0.0154523 t=5015
+xi li du shi wu kong zhi 	細粒度事物控制	c=1 d=0.00882647 t=5015
+xi tong 	系統	c=1 d=0.784749 t=5015
+xi wang 	希望	c=1 d=0.018986 t=5015
+xi zhuang 	西裝	c=1 d=0.400517 t=5015
+xia 	下	c=2 d=0.70822 t=5015
+xia 	瞎	c=0 d=0.0232236 t=5015
+xia bian 	下邊	c=0 d=0.015259 t=5015
+xia bian cheng xu 	下邊程序	c=1 d=0.153355 t=5015
+xia ji ba xiu 	瞎雞巴秀	c=1 d=0.2334 t=5015
+xia jia 	下架	c=0 d=0.0748264 t=5015
+xia la 	下拉	c=0 d=0.0481909 t=5015
+xia la lie biao she zhi 	下拉列表設置	c=1 d=0.484325 t=5015
+xia mian 	下面	c=1 d=0.125556 t=5015
+xia zai 	下載	c=10 d=5.84323 t=5015
+xia zai qing qiu 	下載請求	c=1 d=0.767206 t=5015
+xia zai wen jian 	下載文件	c=1 d=0.790571 t=5015
+xian 	先	c=4 d=0.943796 t=5015
+xian 	縣	c=0 d=0.00188734 t=5015
+xian 	顯	c=0 d=0.083527 t=5015
+xian cha 	先查	c=1 d=0.313486 t=5015
+xian cha 	縣差	c=0 d=0.0310367 t=5015
+xian cha yuan gong 	縣差員工	c=1 d=0.311923 t=5015
+xian cheng 	線程	c=3 d=0.0892634 t=5015
+xian cheng an quan 	線程安全	c=3 d=0.0983757 t=5015
+xian cheng bu an quan 	線程不安全	c=1 d=0.0439369 t=5015
+xian cheng de fang shi chuang jian 	線程的方式創建	c=1 d=0.0224829 t=5015
+xian cheng jie shu 	線程結束	c=1 d=0.0250972 t=5015
+xian chuang jian 	先創建	c=1 d=0.26982 t=5015
+xian cun 	先存	c=1 d=0.283654 t=5015
+xian huo qu bu men 	先獲取部門	c=1 d=0.308819 t=5015
+xian jiang 	先將	c=1 d=0.606531 t=5015
+xian qu 	先去	c=2 d=0.942005 t=5015
+xian shan chu 	先刪除	c=1 d=0.0280154 t=5015
+xian shi 	顯示	c=4 d=1.58813 t=5015
+xian shi duo shao ge shu ju 	顯示多少個數據	c=1 d=0.970446 t=5015
+xian shi suo you xue sheng 	顯示所有學生	c=1 d=0.0871609 t=5015
+xian shi xia zai lie biao 	顯示下載列表	c=1 d=0.960789 t=5015
+xian shi yong hu 	顯示用戶	c=1 d=0.23457 t=5015
+xian shi zai 	顯示在	c=1 d=0.349938 t=5015
+xian shi zhi xing 	顯示執行	c=1 d=0.0934807 t=5015
+xian you 	現有	c=0 d=0.00510474 t=5015
+xian zai 	現在	c=2 d=0.0338008 t=5015
+xian zhi 	限制	c=0 d=0.0644036 t=5015
+xian zhi shang chuan 	限制上傳	c=1 d=0.647265 t=5015
+xian zhi xing 	先執行	c=2 d=1.82789 t=5015
+xiang 	向	c=1 d=0.348192 t=5015
+xiang 	想	c=0 d=0.0965605 t=5015
+xiang 	象	c=1 d=0.0184997 t=5015
+xiang dang yu 	相當於	c=1 d=0.778801 t=5015
+xiang dui 	相對	c=1 d=0.0471274 t=5015
+xiang dui fu za 	相對複雜	c=1 d=0.0105672 t=5015
+xiang guan 	相關	c=2 d=0.374667 t=5015
+xiang guan lei 	相關類	c=1 d=0.318224 t=5015
+xiang guan pei zhi 	相關配置	c=3 d=0.0930145 t=5015
+xiang guan ye wu 	相關業務	c=1 d=0.0466987 t=5015
+xiang hu 	相互	c=0 d=0.000946646 t=5015
+xiang hu zhuan hua 	相互轉化	c=1 d=0.00449405 t=5015
+xiang hu zhuan huan 	相互轉換	c=1 d=0.00951391 t=5015
+xiang kan 	想看	c=0 d=0.0377192 t=5015
+xiang kan de shu 	想看的書	c=2 d=0.773637 t=5015
+xiang mu 	項目	c=7 d=1.35717 t=5015
+xiang mu ming 	項目名	c=3 d=1.70923 t=5015
+xiang mu shang xian 	項目上線	c=1 d=0.421052 t=5015
+xiang mu she ji 	項目設計	c=1 d=0.113042 t=5015
+xiang qing 	詳情	c=0 d=0.0667512 t=5015
+xiang shang 	向上	c=0 d=0.0980199 t=5015
+xiang shang qu zheng 	向上取整	c=1 d=0.985112 t=5015
+xiang shi tu zhong feng zhuang shu ju 	向視圖種封裝數據	c=1 d=0.621885 t=5015
+xiang shi xian 	想實現	c=1 d=0.970446 t=5015
+xiang tong 	相同	c=1 d=0.410656 t=5015
+xiang ying 	相應	c=0 d=0.0235746 t=5015
+xiang yong 	想用	c=1 d=0.060553 t=5015
+xiao 	小	c=0 d=0.0771052 t=5015
+xiao er 	小二	c=0 d=0.00288686 t=5015
+xiao hong 	小紅	c=0 d=0.00291588 t=5015
+xiao hong dian 	小紅點	c=1 d=0.0293049 t=5015
+xiao hua 	小花	c=1 d=0.0837432 t=5015
+xiao hui 	銷毀	c=1 d=0.0189754 t=5015
+xiao hui fang fa 	銷毀方法	c=1 d=0.0175975 t=5015
+xiao ji 	小計	c=2 d=0.43852 t=5015
+xiao lang 	小狼	c=0 d=0.0279431 t=5015
+xiao lang bo 	小狼亳	c=1 d=0.280832 t=5015
+xiao lao shu 	小老鼠	c=0 d=0.00116786 t=5015
+xiao li 	小李	c=1 d=0.375311 t=5015
+xiao lv 	效率	c=1 d=0.0559898 t=5015
+xiao lv bu gao 	效率不高	c=1 d=0.0109985 t=5015
+xiao lv jiao di 	效率較低	c=1 d=0.0130365 t=5015
+xiao mi 	小米	c=3 d=1.41253 t=5015
+xiao ming 	小明	c=1 d=0.499074 t=5015
+xiao ming tong xue 	小茗同學	c=1 d=0.0800583 t=5015
+xiao shi 	小時	c=1 d=0.0157644 t=5015
+xiao wen ti bu duan 	小問題不斷	c=1 d=0.774916 t=5015
+xiao xi jie 	小細節	c=1 d=0.216536 t=5015
+xiao xie 	小寫	c=1 d=0.0812682 t=5015
+xiao xie 	消協	c=1 d=0.0808629 t=5015
+xiao yuan 	校園	c=0 d=0.001649 t=5015
+xiao yuan tao can 	校園套餐	c=1 d=0.0165727 t=5015
+xiao zhang 	校長	c=2 d=0.373439 t=5015
+xie 	寫	c=9 d=2.77628 t=5015
+xie dan yuan ce shi 	寫單元測試	c=1 d=0.276651 t=5015
+xie hao le 	寫好了	c=1 d=0.0596059 t=5015
+xie si 	寫死	c=1 d=0.0214936 t=5015
+xie xie 	寫寫	c=0 d=0.00550232 t=5015
+xie xie 	謝謝	c=1 d=0.12493 t=5015
+xie zai 	寫在	c=1 d=0.0270518 t=5015
+xin 	新	c=3 d=0.234217 t=5015
+xin ge 	新歌	c=1 d=0.226502 t=5015
+xin mi ma 	新密碼	c=1 d=0.0672055 t=5015
+xin sheng 	新生	c=3 d=0.145411 t=5015
+xin shui 	薪水	c=1 d=0.380983 t=5015
+xin tai 	心態	c=1 d=0.126186 t=5015
+xin xi 	信息	c=9 d=2.18332 t=5015
+xin xi guan li 	信息管理	c=1 d=0.0620578 t=5015
+xin xi shi bai 	信息失敗	c=1 d=0.120633 t=5015
+xin zi 	薪資	c=0 d=0.0217621 t=5015
+xing 	性	c=0 d=0.0364219 t=5015
+xing bie 	性別	c=6 d=0.457652 t=5015
+xing can 	行參	c=2 d=0.946485 t=5015
+xing cheng 	形成	c=0 d=0.0063609 t=5015
+xing feng 	星風	c=1 d=0.737123 t=5015
+xing he 	星河	c=0 d=0.0018043 t=5015
+xing ming 	姓名	c=11 d=0.824122 t=5015
+xing shi 	形式	c=2 d=0.338919 t=5015
+xing wei 	行爲	c=0 d=0.00108347 t=5015
+xiu 	秀	c=0 d=0.0232236 t=5015
+xiu gai 	修改	c=14 d=5.10625 t=5015
+xiu gai cheng gong 	修改成功	c=1 d=1.50446e-11 t=5015
+xiu gai jue se dui ying de quan xian 	修改角色對應的權限	c=1 d=0.0652193 t=5015
+xiu gai mi ma 	修改密碼	c=2 d=0.137594 t=5015
+xiu gai mi ma fang fa 	修改密碼方法	c=1 d=0.0652193 t=5015
+xiu gai shang pin shi bai 	修改商品失敗	c=1 d=0.759572 t=5015
+xiu gai ye mian 	修改頁面	c=1 d=0.856415 t=5015
+xu 	序	c=1 d=0.126818 t=5015
+xu lie 	序列	c=1 d=0.0617291 t=5015
+xu lie hua 	序列化	c=1 d=0.063609 t=5015
+xu qiu fen xi 	需求分析	c=2 d=0.22272 t=5015
+xu song 	許嵩	c=2 d=0.225373 t=5015
+xu yao 	需要	c=7 d=0.978204 t=5015
+xu yao chu li 	需要處理	c=1 d=0.786628 t=5015
+xu yao huo qu 	需要獲取	c=1 d=0.88692 t=5015
+xu yao kai fa zhe 	需要開發者	c=1 d=0.308819 t=5015
+xu yao kai qi shi wu 	需要開啓事物	c=1 d=0.0298969 t=5015
+xu yao sheng cheng 	需要生成	c=1 d=0.99005 t=5015
+xu yao shi xian 	需要實現	c=1 d=0.254107 t=5015
+xu yao zhong jian biao 	需要中間表	c=1 d=0.427415 t=5015
+xuan ze 	選擇	c=1 d=0.135364 t=5015
+xuan zhong 	選中	c=0 d=0.0484325 t=5015
+xue hao 	學號	c=7 d=0.378841 t=5015
+xue sheng 	學生	c=11 d=0.643709 t=5015
+xue sheng gong neng mo kuai 	學生功能模塊	c=1 d=0.147342 t=5015
+xue sheng guan li 	學生管理	c=2 d=0.111431 t=5015
+xue sheng xin xi 	學生信息	c=1 d=0.157009 t=5015
+xue sheng xin xi geng xin 	學生信息更新	c=1 d=0.14808 t=5015
+xue sheng xin xi guan li 	學生信息管理	c=1 d=0.0566989 t=5015
+xue sheng xin xi lie biao 	學生信息列表	c=1 d=0.0880368 t=5015
+xue sheng xin xi lu ru 	學生信息錄入	c=1 d=0.0884781 t=5015
+xue sheng xin xi shi bai 	學生信息失敗	c=1 d=0.0587185 t=5015
+xue yuan 	學院	c=0 d=0.00365162 t=5015
+xun huan 	循環	c=1 d=0.337902 t=5015
+xun zhao 	尋找	c=1 d=0.00927901 t=5015
+ya 	壓	c=0 d=0.0018043 t=5015
+ya jin 	押金	c=0 d=1.62164e-12 t=5015
+ya suo 	亞索	c=2 d=1.5851 t=5015
+ya suo 	壓縮	c=0 d=0.0132655 t=5015
+ya suo gei wo 	亞索給我	c=1 d=0.371577 t=5015
+yan 	閆	c=1 d=0.273227 t=5015
+yan chi 	延遲	c=0 d=0.0114178 t=5015
+yan ji qiang 	閆濟強	c=1 d=0.292293 t=5015
+yan shou 	驗收	c=1 d=0.119433 t=5015
+yan zheng 	驗證	c=10 d=2.08329 t=5015
+yan zheng ma 	驗證碼	c=7 d=1.95581 t=5015
+yan zheng ma cuo wu 	驗證碼錯誤	c=1 d=0.0515605 t=5015
+yan zheng yong hu 	驗證用戶	c=1 d=0.494109 t=5015
+yan zheng yu fa 	驗證語法	c=1 d=0.0692522 t=5015
+yao 	要	c=4 d=1.2164 t=5015
+yao fang zai 	要放在	c=1 d=0.0420036 t=5015
+yao pin 	藥品	c=0 d=1.61355e-12 t=5015
+yao pin biao 	藥品表	c=1 d=1.62164e-11 t=5015
+yao qiu 	要求	c=0 d=0.0217621 t=5015
+yao shi xian 	要實現	c=1 d=0.0632918 t=5015
+yao su 	要素	c=0 d=0.0891366 t=5015
+yao ying she 	要映射	c=1 d=0.0492917 t=5015
+yao you 	要有	c=0 d=0.050409 t=5015
+yao zhuan huan cheng shen me lei xing 	要轉換成什麼類型	c=1 d=0.56836 t=5015
+ye 	也	c=4 d=0.393685 t=5015
+ye 	頁	c=2 d=0.25875 t=5015
+ye ba 	也罷	c=1 d=0.440168 t=5015
+ye hai 	也還	c=0 d=0.00155297 t=5015
+ye hai hao 	也還好	c=1 d=0.0156076 t=5015
+ye jiu shi 	也就是	c=1 d=0.913931 t=5015
+ye ke 	也可	c=1 d=0.683861 t=5015
+ye mei you 	也沒有	c=0 d=0.0782705 t=5015
+ye mei you gai dui xiang de shu ju 	也沒有該對象的數據	c=1 d=0.786628 t=5015
+ye mian 	頁面	c=7 d=1.67473 t=5015
+ye shu 	頁數	c=1 d=1.05017 t=5015
+ye wu 	業務	c=3 d=1.39885 t=5015
+ye wu ceng 	業務層	c=1 d=0.680451 t=5015
+ye wu chu li 	業務處理	c=2 d=0.626979 t=5015
+ye wu dai ma 	業務代碼	c=2 d=1.04726 t=5015
+ye wu fang fa 	業務方法	c=1 d=0.980199 t=5015
+ye wu luo ji 	業務邏輯	c=1 d=0.756319 t=5015
+ye wu luo ji ceng 	業務邏輯層	c=1 d=0.501576 t=5015
+ye wu luo ji jie kou 	業務邏輯接口	c=1 d=0.554327 t=5015
+ye wu luo ji lei 	業務邏輯類	c=1 d=0.418952 t=5015
+ye xian shi de shu ju 	頁顯示的數據	c=1 d=0.980199 t=5015
+yi 	一	c=4 d=1.70851 t=5015
+yi 	以	c=8 d=0.377096 t=5015
+yi 	宜	c=2 d=0.517187 t=5015
+yi 	已	c=0 d=0.0794534 t=5015
+yi 	衣	c=0 d=0.0460704 t=5015
+yi ban 	一般	c=3 d=0.707292 t=5015
+yi ban dou shi 	一般都是	c=1 d=0.559898 t=5015
+yi bei 	已被	c=0 d=0.0748264 t=5015
+yi bu 	異步	c=0 d=0.0299692 t=5015
+yi chang 	異常	c=4 d=0.287211 t=5015
+yi chang tong zhi 	異常通知	c=2 d=0.0420341 t=5015
+yi chu 	移除	c=2 d=1.01256 t=5015
+yi chu suo you dui xiang 	移除所有對象	c=1 d=0.937067 t=5015
+yi chu zhan ding 	移除棧頂	c=1 d=0.918512 t=5015
+yi ci 	一次	c=1 d=0.106459 t=5015
+yi cun zai 	已存在	c=2 d=0.263416 t=5015
+yi de yi fang 	一的一方	c=1 d=0.680451 t=5015
+yi dian 	一點	c=0 d=0.014808 t=5015
+yi ding 	一定	c=0 d=0.050409 t=5015
+yi ding yao 	一定要	c=1 d=0.532698 t=5015
+yi ding yao gei 	一定要給	c=1 d=0.140858 t=5015
+yi ding yao you 	一定要有	c=2 d=1.32127 t=5015
+yi dong 	移動	c=0 d=0.00163259 t=5015
+yi dui duo 	一對多	c=6 d=1.54719 t=5015
+yi dui duo bao cun 	一對多保存	c=1 d=0.229925 t=5015
+yi dui duo he 	一對多和	c=1 d=0.341298 t=5015
+yi dui yi 	一對一	c=3 d=0.0695994 t=5015
+yi dui yi guan xi 	一對一關係	c=3 d=0.01917 t=5015
+yi fang 	一方	c=2 d=1.35065 t=5015
+yi fang qi zuo yong 	一方起作用	c=1 d=0.491644 t=5015
+yi fu 	衣服	c=3 d=0.565571 t=5015
+yi ge 	一個	c=5 d=0.791618 t=5015
+yi ge biao 	一個表	c=1 d=0.0109073 t=5015
+yi ge da zhao 	一個大招	c=1 d=0.882497 t=5015
+yi ge dui xiang 	一個對象	c=1 d=0.0550232 t=5015
+yi ge lei 	一個類	c=1 d=0.055299 t=5015
+yi ge ren 	一個人	c=0 d=0.000615802 t=5015
+yi ge wen jian yi ge wen jian 	一個文件一個文件	c=1 d=0.131336 t=5015
+yi ge yue 	一個月	c=1 d=0.0177743 t=5015
+yi gong 	一共	c=0 d=0.0955997 t=5015
+yi gong duo shao tiao shu ju 	一共多少條數據	c=1 d=0.960789 t=5015
+yi hang 	一行	c=1 d=0.0113334 t=5015
+yi hou 	以後	c=1 d=0.423162 t=5015
+yi hou duo 	一後多	c=1 d=0.289384 t=5015
+yi ji 	一級	c=1 d=0.200885 t=5015
+yi ji 	一集	c=0 d=0.205708 t=5015
+yi ji huan cun 	一級緩存	c=2 d=0.181254 t=5015
+yi jing 	已經	c=2 d=0.616781 t=5015
+yi jing deng lu 	已經登錄	c=3 d=1.41372 t=5015
+yi jing you 	已經有	c=1 d=0.0191587 t=5015
+yi lai 	依賴	c=2 d=1.86223 t=5015
+yi lai bao 	依賴包	c=1 d=0.631284 t=5015
+yi lai guan xi 	依賴關係	c=2 d=0.123744 t=5015
+yi lai zhu ru 	依賴注入	c=1 d=0.0584257 t=5015
+yi lu 	一路	c=0 d=0.0701173 t=5015
+yi lu cai hong 	一路彩虹	c=1 d=0.704688 t=5015
+yi miao 	一秒	c=1 d=0.390628 t=5015
+yi qi 	一起	c=0 d=0.0690734 t=5015
+yi shang 	以上	c=0 d=0.0117655 t=5015
+yi shang liang zhong jie he ce shi 	以上兩種結合測試	c=1 d=0.118245 t=5015
+yi shi 	一十	c=0 d=0.699495 t=5015
+yi tiao 	一條	c=0 d=0.0105928 t=5015
+yi tiao ji lu 	一條記錄	c=1 d=0.0338776 t=5015
+yi tiao shu ju 	一條數據	c=2 d=0.269909 t=5015
+yi tu 	異途	c=0 d=0.0353455 t=5015
+yi wan cheng 	已完成	c=1 d=0.798516 t=5015
+yi xi lie 	一系列	c=0 d=0.000458484 t=5015
+yi xi lie fang fa 	一系列方法	c=1 d=0.00460782 t=5015
+yi xian cheng de fang shi 	以線程的方式	c=1 d=0.0278757 t=5015
+yi yan 	一眼	c=1 d=0.018968 t=5015
+yi yang 	一樣	c=4 d=0.128808 t=5015
+yi ye 	一頁	c=1 d=0.965605 t=5015
+yi you 	已有	c=0 d=0.0965605 t=5015
+yi you zhang hao 	已有帳號	c=1 d=0.970446 t=5015
+yi yue 	一月	c=1 d=0.0145524 t=5015
+yi zhan shi 	一站式	c=0 d=0.00652193 t=5015
+yi zhan shi jie jue fang an 	一站式解決方案	c=1 d=0.0655462 t=5015
+yi zhang 	一張	c=0 d=0.00115047 t=5015
+yi zhang biao 	一張表	c=1 d=0.0115624 t=5015
+yi zhi xing 	移植性	c=1 d=0.0101529 t=5015
+yin hang 	銀行	c=2 d=0.583171 t=5015
+yin hao 	引號	c=0 d=0.00862936 t=5015
+yin ru 	引入	c=3 d=0.724103 t=5015
+yin ru kuang jia 	引入框架	c=2 d=0.105523 t=5015
+yin ru mo ren zhan 	引入默認棧	c=1 d=0.640824 t=5015
+yin ru pei zhi wen jian 	引入配置文件	c=1 d=0.873716 t=5015
+yin ru yue shu shi 	引入約束時	c=1 d=0.0143357 t=5015
+yin wei 	因爲	c=1 d=0.283654 t=5015
+yin yong 	引用	c=1 d=0.197857 t=5015
+yin yong yue shu 	引用約束	c=1 d=0.65377 t=5015
+yin yue 	音樂	c=1 d=0.0356117 t=5015
+ying she 	映射	c=19 d=3.26751 t=5015
+ying she guan xi 	映射關係	c=1 d=0.0230962 t=5015
+ying she ji he dui xiang 	映射集合對象	c=1 d=0.351692 t=5015
+ying she pei zhi 	映射配置	c=1 d=0.396531 t=5015
+ying she qi 	映射器	c=2 d=0.883718 t=5015
+ying she shi ti lei 	映射實體類	c=1 d=0.412714 t=5015
+ying she shi ti lei dui xiang 	映射實體類對象	c=1 d=0.0483156 t=5015
+ying she wen jian 	映射文件	c=4 d=0.265649 t=5015
+ying she wen jian pei zhi 	映射文件配置	c=1 d=0.10383 t=5015
+ying she wen jian zhi hou 	映射文件之後	c=1 d=0.0422141 t=5015
+ying she wen jian zhuan huan wei 	映射文件轉換爲	c=1 d=0.201897 t=5015
+ying she zai 	映射在	c=2 d=0.233015 t=5015
+ying wen 	英文	c=1 d=0.172045 t=5015
+ying xiang 	影響	c=1 d=0.0582748 t=5015
+ying yong 	應用	c=3 d=1.45313 t=5015
+ying yong he xin 	應用核心	c=1 d=0.588605 t=5015
+ying yong yu 	應用於	c=0 d=0.0579842 t=5015
+ying yu 	英語	c=0 d=0.00359725 t=5015
+ying zheng 	嬴政	c=2 d=0.794534 t=5015
+yong 	用	c=3 d=0.166984 t=5015
+yong de 	用的	c=0 d=0.0400517 t=5015
+yong de guo cheng zhong 	用的過程中	c=1 d=0.402524 t=5015
+yong guang 	用光	c=1 d=0.386741 t=5015
+yong hu 	用戶	c=21 d=2.43744 t=5015
+yong hu bian hao 	用戶編號	c=1 d=0.367879 t=5015
+yong hu biao 	用戶表	c=2 d=0.442639 t=5015
+yong hu biao zhong 	用戶表中	c=1 d=0.364219 t=5015
+yong hu guan li 	用戶管理	c=2 d=0.318431 t=5015
+yong hu mi ma 	用戶密碼	c=1 d=0.440432 t=5015
+yong hu ming 	用戶名	c=23 d=4.24792 t=5015
+yong hu ming chong fu 	用戶名重複	c=1 d=0.0788664 t=5015
+yong hu ming huo mi ma cuo wu 	用戶名或密碼錯誤	c=1 d=0.0520787 t=5015
+yong hu ming ke yi shi yong 	用戶名可以使用	c=1 d=0.16696 t=5015
+yong hu ming shi fou cun zai 	用戶名是否存在	c=1 d=0.084163 t=5015
+yong hu ming yi cun zai 	用戶名已存在	c=1 d=0.167797 t=5015
+yong hu shu ju 	用戶數據	c=0 d=0.029523 t=5015
+yong hu shu ju geng xin shi bai 	用戶數據更新失敗	c=1 d=0.29671 t=5015
+yong hu shu ru de nei rong 	用戶輸入的內容	c=1 d=0.99005 t=5015
+yong hu wei deng lu 	用戶未登錄	c=1 d=0.571209 t=5015
+yong hu xiang guan ye wu 	用戶相關業務	c=1 d=0.0492917 t=5015
+yong hu xin xi 	用戶信息	c=4 d=0.608787 t=5015
+yong hu yi jing deng lu 	用戶已經登錄	c=1 d=0.574072 t=5015
+yong lai 	用來	c=1 d=0.0665368 t=5015
+yong yu 	用於	c=2 d=0.383361 t=5015
+yong yu shan chu 	用於刪除	c=1 d=0.327915 t=5015
+yong zi 	用字	c=0 d=0.0310367 t=5015
+you 	右	c=2 d=0.085563 t=5015
+you 	有	c=7 d=1.12743 t=5015
+you 	由	c=4 d=0.532592 t=5015
+you chong fu 	有重複	c=1 d=0.272532 t=5015
+you da 	有大	c=1 d=0.311923 t=5015
+you dian 	優點	c=2 d=0.190439 t=5015
+you guan 	有關	c=0 d=0.0343009 t=5015
+you guan li yuan 	由管理員	c=1 d=0.0632918 t=5015
+you hen duo fu za dai ma xing cheng de lei 	有很多複雜代碼形成的類	c=1 d=0.0639279 t=5015
+you hua 	優化	c=2 d=0.186726 t=5015
+you hui 	優惠	c=0 d=0.00175097 t=5015
+you hui duo 	優惠多	c=1 d=0.0175975 t=5015
+you ke 	遊客	c=0 d=0.00675424 t=5015
+you li tai 	遊離態	c=5 d=0.744532 t=5015
+you mei you 	有沒有	c=2 d=0.353436 t=5015
+you que dian 	優缺點	c=1 d=0.00856561 t=5015
+you shou 	右手	c=0 d=0.0869358 t=5015
+you shou long 	右手龍	c=1 d=0.873716 t=5015
+you wai jian 	有外鍵	c=1 d=0.00637737 t=5015
+you wai lian jie 	右外連接	c=1 d=0.0319048 t=5015
+you xiang 	郵箱	c=2 d=0.644036 t=5015
+you xiao 	有效	c=0 d=0.0402524 t=5015
+you xiu 	優秀	c=0 d=0.01764 t=5015
+you xu 	有序	c=4 d=0.931549 t=5015
+you yi 	有一	c=0 d=0.050409 t=5015
+you yi ge di fang zhi you wo men zhi dao 	有一各地方只有我們知道	c=1 d=0.506617 t=5015
+you ying she qi 	有映射器	c=1 d=0.265803 t=5015
+you ying xiang 	有影響	c=0 d=0.00510474 t=5015
+yu 	域	c=1 d=1.03972 t=5015
+yu 	於	c=0 d=0.0767206 t=5015
+yu 	與	c=5 d=0.72762 t=5015
+yu 	魚	c=0 d=0.0865022 t=5015
+yu dao 	遇到	c=0 d=0.0120633 t=5015
+yu dao le 	遇到了	c=1 d=0.121238 t=5015
+yu dao yi chang 	遇到異常	c=1 d=0.0107269 t=5015
+yu fa 	語法	c=0 d=0.0143927 t=5015
+yu fa yan zheng 	語法驗證	c=1 d=0.0753961 t=5015
+yu ju 	語句	c=24 d=2.05667 t=5015
+yu nei cun zhong 	於內存中	c=1 d=0.771052 t=5015
+yu yan 	語言	c=2 d=1.15225 t=5015
+yuan 	元	c=1 d=0.0217096 t=5015
+yuan dong 	遠東	c=1 d=0.0871086 t=5015
+yuan dong wang ting 	遠東王庭	c=2 d=0.158525 t=5015
+yuan gong 	員工	c=3 d=0.426525 t=5015
+yuan gong bian hao 	員工編號	c=1 d=0.0389686 t=5015
+yuan gong biao 	員工表	c=6 d=1.5271 t=5015
+yuan gong shu ju 	員工數據	c=1 d=0.299692 t=5015
+yuan gong wei hu 	員工維護	c=1 d=0.301841 t=5015
+yuan gong wei hu bu men 	員工維護部門	c=1 d=0.280832 t=5015
+yuan li 	原理	c=0 d=0.0161218 t=5015
+yuan su 	元素	c=1 d=0.140837 t=5015
+yuan xi 	院系	c=5 d=0.528691 t=5015
+yuan xi guan li 	院系管理	c=2 d=0.209224 t=5015
+yue 	月	c=2 d=1.18061 t=5015
+yue guan 	月關	c=1 d=0.740818 t=5015
+yue shu 	約束	c=3 d=0.767206 t=5015
+yun suan 	運算	c=0 d=0.0412714 t=5015
+yun xing 	運行	c=1 d=0.174645 t=5015
+yun xu 	允許	c=0 d=0.0985112 t=5015
+yun zuo 	運作	c=0 d=0.0860708 t=5015
+yun zuo liu cheng 	運作流程	c=3 d=1.56744 t=5015
+za 	雜	c=1 d=0.0898153 t=5015
+zai 	再	c=3 d=0.135335 t=5015
+zai 	在	c=20 d=2.29572 t=5015
+zai ba 	再把	c=2 d=0.289606 t=5015
+zai ba shi ti lei 	再把實體類	c=1 d=0.142987 t=5015
+zai dai ma zhong 	在代碼中	c=1 d=0.0213864 t=5015
+zai duo de yi fang 	在多的一方	c=1 d=0.687289 t=5015
+zai fang fa li shi yong yan zheng 	在方法裏使用驗證	c=1 d=0.0889216 t=5015
+zai jie mian shang xian shi yan zheng xin xi 	在界面上顯示驗證信息	c=1 d=0.0893673 t=5015
+zai kan 	在看	c=0 d=0.0142987 t=5015
+zai kan zhi hu 	在看知乎	c=1 d=0.143704 t=5015
+zai mu biao dui xiang 	在目標對象	c=1 d=0.241714 t=5015
+zai na 	在哪	c=1 d=0.0206508 t=5015
+zai nei 	在內	c=0 d=0.0408608 t=5015
+zai nei cun zhong 	在內村中	c=1 d=0.410656 t=5015
+zai qu 	再去	c=0 d=0.0932394 t=5015
+zai qu fang wen 	再去訪問	c=1 d=0.937067 t=5015
+zai shu ju ku zhong tian jia yi ge zi duan 	在數據庫中添加一個字段	c=1 d=0.0113902 t=5015
+zai tong yi ge 	在同一個	c=1 d=0.0229371 t=5015
+zai xin zi shang de yao qiu 	在薪資上的要求	c=1 d=0.218712 t=5015
+zen me 	怎麼	c=1 d=0.333609 t=5015
+zen me bu neng wan 	怎麼不能玩	c=1 d=0.0605068 t=5015
+zen me zhu ce 	怎麼註冊	c=1 d=0.0728029 t=5015
+zeng 	增	c=2 d=0.983338 t=5015
+zeng 	贈	c=1 d=0.120032 t=5015
+zeng jia 	增加	c=2 d=0.245367 t=5015
+zeng jia yong hu 	增加用戶	c=1 d=0.343009 t=5015
+zeng qiang 	增強	c=1 d=1.07431 t=5015
+zeng shan 	增刪	c=0 d=0.0470011 t=5015
+zeng shan gai 	增刪改	c=1 d=0.0301974 t=5015
+zeng shan gai cha 	增刪改查	c=4 d=0.503171 t=5015
+zeng zhang 	增長	c=0 d=0.0121925 t=5015
+zhan 	棧	c=0 d=0.104665 t=5015
+zhan ding 	棧頂	c=0 d=0.0913931 t=5015
+zhan shen 	戰神	c=1 d=0.839717 t=5015
+zhan shi 	展示	c=2 d=0.834556 t=5015
+zhan wei fu 	佔位符	c=0 d=0.00169075 t=5015
+zhan zhong 	棧中	c=1 d=0.895834 t=5015
+zhang 	張	c=0 d=0.000726273 t=5015
+zhang hao 	帳號	c=1 d=0.268971 t=5015
+zhang hao ming 	帳號名	c=1 d=1.30139e-11 t=5015
+zhang san 	張三	c=4 d=0.318205 t=5015
+zhang xiong 	張兄	c=3 d=0.232236 t=5015
+zhao 	找	c=2 d=0.172907 t=5015
+zhao bu dao 	找不到	c=1 d=0.00937227 t=5015
+zhe 	這	c=0 d=0.0722527 t=5015
+zhe ge 	這個	c=3 d=1.03712 t=5015
+zhe ge she nv 	這個蛇女	c=1 d=0.891366 t=5015
+zhe he 	這和	c=1 d=0.0204453 t=5015
+zhe shi yi kuan shou ji 	這是一款手機	c=1 d=0.726149 t=5015
+zhe xie 	這些	c=0 d=0.0121238 t=5015
+zhe zhong 	這種	c=0 d=0.0394554 t=5015
+zhen de 	真的	c=0 d=0.0126186 t=5015
+zhen de hao 	真的好	c=1 d=0.126818 t=5015
+zhen shi 	真實	c=2 d=0.396789 t=5015
+zheng 	整	c=0 d=0.0980199 t=5015
+zheng gai 	整改	c=0 d=0.00188734 t=5015
+zheng ge 	整個	c=1 d=0.380983 t=5015
+zheng hao 	正好	c=1 d=0.380983 t=5015
+zheng he 	整合	c=3 d=0.909634 t=5015
+zheng que 	正確	c=1 d=0.227346 t=5015
+zheng shu 	整數	c=1 d=0.0710054 t=5015
+zheng shu 	證書	c=1 d=0.0706512 t=5015
+zheng zai 	正在	c=1 d=0.582748 t=5015
+zheng zai deng lu 	正在登錄	c=2 d=1.18521 t=5015
+zheng zai qu 	正在去	c=1 d=0.657047 t=5015
+zheng zai tiao zhuan ye mian 	正在跳轉頁面	c=1 d=0.551563 t=5015
+zhi 	之	c=0 d=0.012938 t=5015
+zhi 	值	c=12 d=4.37678 t=5015
+zhi 	只	c=3 d=0.414388 t=5015
+zhi 	指	c=2 d=0.985112 t=5015
+zhi bo 	直播	c=1 d=0.814647 t=5015
+zhi chi 	支持	c=7 d=0.904837 t=5015
+zhi chi quan wen suo yin 	支持全文索引	c=1 d=0.101774 t=5015
+zhi chi shi wu 	支持事物	c=1 d=0.100259 t=5015
+zhi chuang yi yi ge 	只創意一個	c=1 d=0.0448245 t=5015
+zhi cun zai 	只存在	c=1 d=0.767206 t=5015
+zhi dao 	知道	c=0 d=0.050409 t=5015
+zhi ding 	制定	c=1 d=0.86504 t=5015
+zhi ding 	指定	c=25 d=4.24862 t=5015
+zhi ding biao ming 	指定表名	c=1 d=0.0596059 t=5015
+zhi ding chou xiang 	指定抽象	c=1 d=0.0136366 t=5015
+zhi ding chuang jian 	指定創建	c=1 d=0.310367 t=5015
+zhi ding dang qian de 	制定當前的	c=1 d=0.733447 t=5015
+zhi ding dang qian lei 	指定當前類	c=2 d=1.54601 t=5015
+zhi ding fang wen de fang fa 	制定訪問的方法	c=1 d=0.771052 t=5015
+zhi ding huan cun kuang jia 	指定緩存框架	c=1 d=0.00557201 t=5015
+zhi ding mo ren 	指定默認	c=1 d=0.408608 t=5015
+zhi ding qie ru shi jian 	指定切入時間	c=1 d=0.83527 t=5015
+zhi ding qing qiu de bian ma 	制定請求的編碼	c=1 d=0.479505 t=5015
+zhi ding shang chuan 	制定上傳	c=1 d=0.932394 t=5015
+zhi ding wen jian xia zai de 	指定文件下載的	c=1 d=0.806541 t=5015
+zhi ding yi ge jian bie qi 	指定一個鑑別器	c=1 d=0.0119742 t=5015
+zhi ding zi duan 	指定字段	c=1 d=0.0159229 t=5015
+zhi du 	只讀	c=1 d=0.0111647 t=5015
+zhi dun guo fang fa 	值燉鍋方法	c=1 d=0.65377 t=5015
+zhi fan hui di yi tiao 	之返回第一條	c=1 d=0.130029 t=5015
+zhi fu bao 	支付寶	c=1 d=0.0361528 t=5015
+zhi hou 	之後	c=7 d=0.814647 t=5015
+zhi hu 	知乎	c=1 d=0.0162737 t=5015
+zhi jie 	直接	c=2 d=0.535081 t=5015
+zhi jie cong yi ji huan cun zhong qu zhi 	直接從一級緩存中取值	c=1 d=0.168638 t=5015
+zhi jie huo qu 	直接獲取	c=1 d=0.0875977 t=5015
+zhi jie huo qu dui xiang 	直接獲取對象	c=1 d=0.00980366 t=5015
+zhi jie jiu 	直接灸	c=0 d=0.0126186 t=5015
+zhi jie jiu neng yong 	直接灸能用	c=1 d=0.126818 t=5015
+zhi jie shi xian 	直接實現	c=1 d=0.752014 t=5015
+zhi jie shi yong 	直接使用	c=1 d=0.216536 t=5015
+zhi jie tong guo 	直接通過	c=1 d=0.748264 t=5015
+zhi jie xie 	直接寫	c=1 d=0.465334 t=5015
+zhi jie zhi xing 	直接執行	c=1 d=0.0298969 t=5015
+zhi kong 	置空	c=1 d=0.612626 t=5015
+zhi neng 	只能	c=1 d=0.130712 t=5015
+zhi neng shu ru shu zi 	只能輸入數字	c=1 d=0.0713613 t=5015
+zhi pei zhi 	只配置	c=1 d=0.329559 t=5015
+zhi ru 	植入	c=1 d=0.778975 t=5015
+zhi xing 	執行	c=13 d=1.46943 t=5015
+zhi xing hou 	執行後	c=1 d=0.0197421 t=5015
+zhi xing lan jie qi 	執行攔截器	c=2 d=0.932394 t=5015
+zhi xing liu cheng 	執行流程	c=1 d=0.219808 t=5015
+zhi xing mu biao fang fa 	執行目標方法	c=1 d=0.021068 t=5015
+zhi xing shi 	執行時	c=1 d=0.591555 t=5015
+zhi xing xiao lv 	執行效率	c=2 d=1.31303 t=5015
+zhi xing xiao lv di 	執行效率低	c=1 d=0.0441572 t=5015
+zhi xu 	只需	c=1 d=0.0884781 t=5015
+zhi xu yao 	只需要	c=0 d=0.0826393 t=5015
+zhi xu yao fan hui 	只需要返回	c=1 d=0.794534 t=5015
+zhi xu yao lian jie shu ju ku dui ying biao 	只需要鏈接數據庫對應表	c=1 d=0.782705 t=5015
+zhi xu yao zai 	只需要在	c=1 d=0.00895987 t=5015
+zhi you 	只有	c=2 d=0.050409 t=5015
+zhi zai 	只在	c=1 d=0.484325 t=5015
+zhi zhen 	指針	c=0 d=0.0995012 t=5015
+zhi zhi ding wai jian bu zhi ding zhu jian 	只指定外鍵不指定主鍵	c=1 d=0.396531 t=5015
+zhong 	中	c=24 d=2.03843 t=5015
+zhong 	種	c=1 d=0.635948 t=5015
+zhong dan 	中單	c=1 d=0.802519 t=5015
+zhong de 	中的	c=1 d=0.344728 t=5015
+zhong dian 	重點	c=1 d=0.168305 t=5015
+zhong dian jian cha 	重點檢查	c=1 d=0.103312 t=5015
+zhong guo nong ye yin hang 	中國農業銀行	c=1 d=0.0177743 t=5015
+zhong ji 	終極	c=0 d=0.0860708 t=5015
+zhong ji ji neng mao 	終極技能帽	c=1 d=0.865022 t=5015
+zhong jian 	中間	c=1 d=0.790571 t=5015
+zhong jian biao 	中間表	c=3 d=1.34874 t=5015
+zhong lei 	種類	c=2 d=0.872371 t=5015
+zhong qu chu lai de shu ju 	中取出來的數據	c=1 d=0.353455 t=5015
+zhong shang 	重傷	c=1 d=0.83527 t=5015
+zhong wen 	中文	c=1 d=0.364827 t=5015
+zhong wen luan ma wen ti 	中文亂碼問題	c=1 d=0.790571 t=5015
+zhong xin xi 	中信息	c=1 d=1.6794e-11 t=5015
+zhou 	周	c=1 d=0.0175097 t=5015
+zhou liu 	週六	c=1 d=0.11475 t=5015
+zhou mo yu kuai 	週末愉快	c=1 d=0.255381 t=5015
+zhu 	主	c=1 d=0.0660301 t=5015
+zhu 	珠	c=0 d=0.00158434 t=5015
+zhu ce 	註冊	c=14 d=4.1843 t=5015
+zhu ce cheng gong 	註冊成功	c=3 d=1.18362 t=5015
+zhu ce shi bai 	註冊失敗	c=2 d=1.13319 t=5015
+zhu ce zhuan huan qi 	註冊轉換器	c=2 d=0.806541 t=5015
+zhu chang 	豬場	c=1 d=0.467666 t=5015
+zhu jian 	主鍵	c=10 d=0.307045 t=5015
+zhu jian cha xun 	主鍵查詢	c=2 d=0.324089 t=5015
+zhu jian sheng cheng ce lve 	主鍵生成策略	c=2 d=0.0369931 t=5015
+zhu jian ying she 	主鍵映射	c=2 d=0.124273 t=5015
+zhu jie 	註解	c=11 d=1.76942 t=5015
+zhu jie de 	註解的	c=1 d=0.722527 t=5015
+zhu jie de fang shi shi xian 	註解的方式實現	c=1 d=0.386741 t=5015
+zhu jie fang shi 	註解方式	c=1 d=0.740818 t=5015
+zhu jie pei zhi 	註解配置	c=1 d=0.891366 t=5015
+zhu liu 	主流	c=0 d=0.0213312 t=5015
+zhu liu kuang jia 	主流框架	c=1 d=0.214381 t=5015
+zhu pei zhi wen jian 	主配置文件	c=3 d=0.0664363 t=5015
+zhu ru 	注入	c=9 d=0.990965 t=5015
+zhu ru dao kong zhi qi 	注入到控制器	c=1 d=0.0981635 t=5015
+zhu wai jian 	主外鍵	c=1 d=0.650509 t=5015
+zhu xiao 	註銷	c=2 d=0.772001 t=5015
+zhu yao 	主要	c=0 d=0.0579842 t=5015
+zhu yao de cheng jiu 	主要的成就	c=1 d=0.204948 t=5015
+zhu yao ying yong yu 	主要應用於	c=1 d=0.582748 t=5015
+zhu yi 	注意	c=2 d=1.4892 t=5015
+zhuan cheng 	轉成	c=0 d=0.0995012 t=5015
+zhuan dao 	轉到	c=1 d=0.0655462 t=5015
+zhuan fa 	轉發	c=4 d=1.51655 t=5015
+zhuan fa he chong ding xiang 	轉發和重定向	c=1 d=0.628135 t=5015
+zhuan hua 	轉化	c=1 d=0.00572099 t=5015
+zhuan huan 	轉換	c=0 d=0.0203815 t=5015
+zhuan huan cheng 	轉換成	c=0 d=0.0565525 t=5015
+zhuan huan qi 	轉換器	c=1 d=0.852144 t=5015
+zhuan men 	專門	c=1 d=0.0145148 t=5015
+zhuan men yong yu 	專門用於	c=1 d=0.145876 t=5015
+zhuan ye 	專業	c=4 d=0.453993 t=5015
+zhuan ye ming ci 	專業名詞	c=1 d=0.390628 t=5015
+zhuan ye ying yu 	專業英語	c=1 d=0.0361528 t=5015
+zhuan yi 	轉移	c=0 d=0.0479505 t=5015
+zhuang tai 	狀態	c=2 d=1.78306 t=5015
+zhuo 	捉	c=0 d=0.00116786 t=5015
+zhuo xiao lao shu 	捉小老鼠	c=1 d=0.0117371 t=5015
+zi 	子	c=0 d=0.0650509 t=5015
+zi 	自	c=0 d=0.00611149 t=5015
+zi ding yi 	自定義	c=3 d=0.970446 t=5015
+zi dong 	自動	c=7 d=3.3211 t=5015
+zi dong chuang jian biao 	自動創建表	c=1 d=0.0263839 t=5015
+zi dong deng lu 	自動登錄	c=9 d=3.98599 t=5015
+zi dong deng lu cheng gong 	自動登錄成功	c=1 d=0.690734 t=5015
+zi dong feng zhuang 	自動封裝	c=3 d=1.21911 t=5015
+zi dong jia zai 	自動加載	c=2 d=0.416862 t=5015
+zi dong jian biao 	自動建表	c=1 d=0.0948935 t=5015
+zi dong sheng cheng 	自動生成	c=2 d=1.02746 t=5015
+zi dong sheng cheng dui ying de 	自動生成對應的	c=1 d=0.786628 t=5015
+zi dong shua xin 	自動刷新	c=1 d=1 t=5015
+zi dong ti jiao 	自動提交	c=1 d=0.00843808 t=5015
+zi dong wei hu guan xi 	自動維護關係	c=1 d=0.302704 t=5015
+zi dong xuan ze 	自動選擇	c=1 d=0.0645703 t=5015
+zi duan 	字段	c=5 d=0.457425 t=5015
+zi duan ming 	字段名	c=2 d=0.126536 t=5015
+zi duan ying she 	字段映射	c=1 d=0.0710054 t=5015
+zi fu 	字符	c=4 d=0.377172 t=5015
+zi fu chuan 	字符串	c=2 d=0.938965 t=5015
+zi ji 	自己	c=0 d=0.00575558 t=5015
+zi ji shi shi 	自己試試	c=1 d=0.00640933 t=5015
+zi ji zhi ding 	自己指定	c=1 d=0.0578443 t=5015
+zi jie 	字節	c=1 d=0.100272 t=5015
+zi jie ma 	字節碼	c=1 d=0.818731 t=5015
+zi jie ma chu li 	子解碼處理	c=1 d=0.65377 t=5015
+zi lei 	子類	c=3 d=0.124889 t=5015
+zi lei biao 	子類表	c=1 d=0.0140519 t=5015
+zi lei dai li 	子類代理	c=2 d=0.8905 t=5015
+zi lei dui xiang 	子類對象	c=1 d=0.414783 t=5015
+zi lei ji cheng fu lei 	子類繼承父類	c=1 d=0.00603608 t=5015
+zi lei ming 	子類名	c=1 d=0.0125881 t=5015
+zi lei pei zhi 	子類配置	c=1 d=0.0107807 t=5015
+zi liao 	資料	c=0 d=0.0147342 t=5015
+zi liao xia zai 	資料下載	c=2 d=0.296903 t=5015
+zi wo 	自我	c=1 d=0.187308 t=5015
+zi you du 	自由度	c=1 d=0.429557 t=5015
+zi yuan 	資源	c=2 d=0.373516 t=5015
+zi zeng 	自增	c=2 d=0.12787 t=5015
+zi zeng zhang 	子增長	c=1 d=0.0611149 t=5015
+zi zeng zhang 	自增長	c=1 d=0.0614212 t=5015
+zi zhi li 	自制力	c=1 d=0.180866 t=5015
+zong gong 	總共	c=1 d=0.951229 t=5015
+zong yi jie mu 	綜藝節目	c=1 d=0.213312 t=5015
+zou 	走	c=0 d=0.00158434 t=5015
+zou zou 	走走	c=0 d=0.025924 t=5015
+zu he 	組合	c=0 d=0.000603608 t=5015
+zu jian 	組件	c=0 d=0.00129591 t=5015
+zu jian lei 	組件類	c=1 d=0.00704808 t=5015
+zu jian ying she 	組件映射	c=2 d=0.0133855 t=5015
+zui 	最	c=0 d=0.0585033 t=5015
+zui chang 	最長	c=0 d=0.0172045 t=5015
+zui chang wei 	最長爲	c=1 d=0.172907 t=5015
+zui da 	最大	c=0 d=0.0418601 t=5015
+zui da chang du 	最大長度	c=1 d=0.092089 t=5015
+zui da que dian 	最大缺點	c=1 d=0.212248 t=5015
+zui da you dian 	最大優點	c=1 d=0.208045 t=5015
+zui duan 	最短	c=0 d=0.0169483 t=5015
+zui duan wei 	最短爲	c=1 d=0.170333 t=5015
+zui hou 	最後	c=1 d=0.0197421 t=5015
+zui qiang 	最強	c=1 d=0.193013 t=5015
+zui shen ru yan jiu 	最深入研究	c=1 d=0.19593 t=5015
+zui xi wang zhi dao de 	最希望知道的	c=1 d=0.190139 t=5015
+zui xiao 	最小	c=0 d=0.0090718 t=5015
+zui xiao chang du 	最小長度	c=1 d=0.0911727 t=5015
+zui you xiao 	最有效	c=1 d=0.404542 t=5015
+zuo 	做	c=1 d=0.412714 t=5015
+zuo 	左	c=0 d=0.00184997 t=5015
+zuo guo 	做過	c=0 d=0.020089 t=5015
+zuo guo zui cheng gong 	做過最成功	c=1 d=0.201897 t=5015
+zuo mo 	左莫	c=1 d=0.71177 t=5015
+zuo shou 	左手	c=0 d=0.0865022 t=5015
+zuo shou yu 	左手魚	c=1 d=0.869358 t=5015
+zuo wai lian jie 	左外連接	c=2 d=0.0503381 t=5015
+zuo wei 	作爲	c=5 d=0.798516 t=5015
+zuo ye 	作業	c=1 d=0.180245 t=5015
+zuo yi 	左移	c=0 d=0.0414783 t=5015
+zuo yi san wei 	左移三位	c=1 d=0.416862 t=5015
+zuo yong 	作用	c=2 d=0.0307279 t=5015
+zuo yong yu 	作用域	c=1 d=0.308819 t=5015
