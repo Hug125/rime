@@ -137,6 +137,8 @@ patch:
       hilited_candidate_back_color: 0x10000000  # 0x333333
       comment_text_color: 0x606cff
       horizontal: false                          # 水平排列
+      font_point: 16              # 候选文字大小
+      label_font_point: 14        # 候选编号大小
 
     dust:
       name: 浮尘／Dust
@@ -382,8 +384,13 @@ patch:
     com.jetbrains.intellij:         # IDEA
         ascii_mode: true  
     com.googlecode.iterm2:          # Iterm2  
-        ascii_mode: true              
-
+        ascii_mode: true  
+    com.termius-dmg.mac:            # termius
+        ascii_mode: true   
+    com.apple.ActivityMonitor:      # 活动监视器 任务管理器
+        ascii_mode: true   
+    com.sublimetext.3:              # Sublime Text 3  
+        ascii_mode: true   
 
 
 
