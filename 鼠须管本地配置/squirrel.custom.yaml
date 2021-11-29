@@ -390,7 +390,9 @@ patch:
     com.apple.ActivityMonitor:      # 活动监视器 任务管理器
         ascii_mode: true   
     com.sublimetext.3:              # Sublime Text 3  
-        ascii_mode: true   
+        ascii_mode: true
+    com.prect.NavicatPremium15:     # navicat
+        ascii_mode: true
 
 
 
