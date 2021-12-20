@@ -2,28 +2,35 @@
 
 ![](https://i.imgur.com/nm2Wk1F.jpg)
 
+
+[![](https://img.shields.io/badge/鼠须管安装包-下载-brightgreen)](https://github.com/rime/squirrel/releases/download/0.15.2/Squirrel-0.15.2.zip)
+[![](https://img.shields.io/badge/配置文件-下载-brightgreen)](https://github.com/lhqx/rime/archive/refs/heads/master.zip)
+[![](https://img.shields.io/badge/UpdateLog-更新日志-yellow)](https://github.com/lhqx/rime/wiki#更新日志)
+[![](https://img.shields.io/badge/Telegram-电报群-27A1D8)](https://t.me/V2EXPro)
+[![](https://img.shields.io/badge/Twitter-推特-1E9BF1)](https://twitter.com/liuhqx)
+
+🌍 🌏 🌎 ✈️  **机场推荐：[点击这里](https://qingmai.tk/2021/12/14/justmysocks/)**
+
 ### 主要特点
 
-* 朙月拼音、小鹤双拼、自然码双拼、大写数字
-* 词库不丢失，配置里包含约 170 万搜狗词库
-* Emoji 与 macOS 同步
+* 朙月拼音、小鹤双拼、自然码双拼
+* 词库不丢失，支持多平台同步
+* 包含约 170 万搜狗词库（无重码）
+* Emoji 与 Mac 同步
 * 动态输入时间、日期、星期
-* 速度快、开源、不联网、DIY 空间大
-* 缺点：上手难度大，前期自造词准确度低
+* 速度快、开源、不联网保护隐私、自定义
+
 
 ***
-### 先看
-
-* 目录包含大部分详解，建议先看完；未能解决可以 [Issues](https://github.com/qingmail/rime/issues)（[含关闭 Issues](https://github.com/qingmail/rime/issues?q=is%3Aissue+is%3Aclosed)），或加入 [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/V2EXPro)
-* 安装鼠须管建议打开通知，部署配置文件会实时提示是否成功。
-* 更新日志：[点击这里](https://github.com/qingmail/rime/wiki#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
-
-***
+```
+目录 1-3：一键部署定制  
+目录 4-26：细节详情及修改
+```
 
 ### 目录
 
 1. [安装输入法](#安装输入法)
-2. [备份安装包](#备份安装包)
+2. [备份初始用户配置](#备份初始用户配置)
 3. [定制输入法](#定制输入法)
 4. [输入方案](#输入方案)
 5. [大写数字](#大写数字)
@@ -33,7 +40,7 @@
 9. [回车清码](#回车清码)
 10. [词库文档格式](#词库文档格式)
 11. [外挂词库](#外挂词库)
-12. [搜狗词库转换方法](https://github.com/qingmail/sogou-dict-transform)
+12. [搜狗词库转换方法](https://github.com/lhqx/sogou-dict-transform)
 13. [修改 Emoji](#修改-emoji)
 14. [载入外挂词库和 Emoji](#载入外挂词库和-Emoji)
 15. [关闭 Emoji](#关闭-emoji)
@@ -43,27 +50,26 @@
 19. [动态时间、日期、星期](#动态时间日期星期)
 20. [自定义短语](#自定义短语)
 21. [皮肤](#皮肤)
-22. [特定程序里关闭开启中文输入](#特定程序里关闭开启中文输入)
-23. [特定程序里中文输入英文标点](#特定程序里中文输入英文标点)
-24. [删除错词](#删除错词)
-25. [删除生僻字](https://github.com/qingmail/rime-rare-word)
-26. [同步](#同步)
-27. [报错日志](#报错日志)
-28. [卸载](#卸载鼠须管)
+22. [特定程序开启关闭中文输入和中文状态输出英文标点](#特定程序开启关闭中文输入和中文状态输出英文标点)
+23. [删除错词](#删除错词)
+24. [删除生僻字](https://github.com/lhqx/rime-rare-word)
+25. [同步](#同步)
+26. [报错日志](#报错日志)
+27. [卸载](#卸载鼠须管)
 ---
 ### 安装输入法
 
-1. 下载[鼠须管](https://rime.im/)并安装。
-2. 菜单栏点选【ㄓ】图标，开始使用输入法。
-> 注：默认为繁体输入，通过快捷键 `Control+｀` 呼出方案，切换输入方式，例如选择【朙月拼音·简化字】简体输入。
+打开鼠须管安装包并安装。菜单栏点选【ㄓ】图标，开始使用输入法。\
+默认繁体输出，通过快捷键 `Control+｀` 切换输入方式，例如选择【朙月拼音·简化字】简体输出。
 
-配置文件路径：
-* 程序配置路径: `/Library/Input Methods/Squirrel.app/Contents/SharedSupport`
-* 用户配置路径: `~/Library/Rime`（一般情况下，我们只用到这个）
+> 注：建议打开鼠须管通知，部署配置提示是否成功。
+
+程序安装路径: `/Library/Input Methods/Squirrel.app/Contents/SharedSupport`\
+用户配置路径: `~/Library/Rime`（一般情况下只用到这个）
 
 ---
 
-### 备份安装包
+### 备份初始用户配置
 
 防止定制输入法操作不当无法恢复，建议先为初始配置做个备份。在【终端】中输入或粘贴以下命令，按回车键。
 
@@ -71,9 +77,9 @@
 cp -r ~/Library/Rime ~/Library/Rime.bak
 ```
 
-配置文件路径（`~/Library/Rime`）多出【Rime.bak】即备份文件。
+用户配置路径出现一个【Rime.bak】文件夹即备份。
 
-![](https://tvax2.sinaimg.cn/large/008jMPXrgy1gr7uvc1gflj31m40v00vw.jpg)
+![](https://i.imgur.com/1EFPjAK.png)
 
 > 还原方法：【Rime】文件夹清空，将【Rime.bak】内的文件粘贴过去，重新部署。
 
@@ -81,30 +87,30 @@ cp -r ~/Library/Rime ~/Library/Rime.bak
 
 ### 定制输入法
 
-下载[配置文件](https://github.com/qingmail/rime/archive/refs/heads/master.zip)解压得到【配置文件】和【花园明朝字体】，因为 macOS 不含部分生僻字，所以将花园明朝字体安装到字体册。
+打开配置文件解压得到【配置文件】和【花园明朝字体】，因为 macOS 不含部分生僻字，所以将花园明朝字体安装到字体册。
 
-点选**用户设定**（`~/Library/Rime`）打开目录文件夹，将【配置文件】 里所有文件复制粘贴进去，并选择覆盖。
+点选菜单栏【ㄓ】里的**用户设定**（路径 `~/Library/Rime`）打开原配置文件夹，将【配置文件】 里所有文件复制粘贴进去，并选择覆盖。
 
-![](https://ww1.sinaimg.cn/large/008eZBHKgy1gn45cxyphgj31e20ca7e9.jpg)
 
 ```
 # 定制配置文件说明
-custom_phrase.txt                 # 自定义短语
+custom_phrase.txt                 # 自定义短语·文本替换
 default.custom.yaml               # 全局设置
-double_pinyin_flypy.custom.yaml   # 小鹤双拼
-double_pinyin_flypy.schema.yaml   # 小鹤双拼
-double_pinyin.custom.yaml         # 自然码双拼
-double_pinyin.schema.yaml         # 自然码双拼
+double_pinyin_flypy.custom.yaml   # 小鹤双拼（不用双拼可删除）
+double_pinyin_flypy.schema.yaml   # 小鹤双拼（不用双拼可删除）
+double_pinyin.custom.yaml         # 自然码双拼（不用双拼可删除）
+double_pinyin.schema.yaml         # 自然码双拼（不用双拼可删除）
 easy_en.dict.yaml                 # 英文词典
 easy_en.schema.yaml               # 英文词典
 luna_pinyin_simp.custom.yaml      # 朙月拼音·简化字
 luna_pinyin_simp.schema.yaml      # 朙月拼音·简化字
-luna_pinyin.custom.yaml           # 朙月拼音
-luna_pinyin.schema.yaml           # 朙月拼音
+luna_pinyin.custom.yaml           # 朙月拼音·繁体（不用繁体可删除）
+luna_pinyin.schema.yaml           # 朙月拼音·繁体（不用繁体可删除）
 luna_pinyin.extended.dict.yaml    # 挂载词库
-luna_pinyin.dict.yaml             # 词库（汉字）
-luna_pinyin.sogou.dict.yaml       # 词库（搜狗）
-luna_pinyin.zonghe.dict.yaml      # 词库（综合）
+luna_pinyin.dict.yaml             # 词库·汉字
+luna_pinyin.changyongci.dict.yaml # 词库·常用词
+luna_pinyin.chat.dict.yaml        # 词库·聊天
+luna_pinyin.sogou.dict.yaml       # 词库·搜狗
 numbers.schema.yaml               # 大写数字
 opencc                            
   ├── emoji_word.txt              # Emoji
@@ -114,10 +120,10 @@ squirrel.custom.yaml              # 皮肤
 ```
 
 
-点击**重新部署**（快捷键 `Control+Option+｀`），到这里完成定制，如对功能进行探索或调整，继续往下看。
+点击**重新部署**（快捷键 `Control+Option+｀`）完成定制。
 
-> 修改任何配置文件都要**重新部署**生效；
-> 本配置里搜狗词库较大，第一次部署时间会稍长。
+> 注1：修改任何文件都要“重新部署”方可生效；  
+> 注2：本配置里搜狗词库较大，首次部署时间会稍长，请耐心等待。
 
 ![](https://ww1.sinaimg.cn/large/008eZBHKgy1gn45fjrwu3j31e00c87e7.jpg)
 
@@ -137,7 +143,8 @@ patch:
     - schema: numbers               # 大写数字
 ```
 
-> 其他输入方案[点击这里](https://github.com/rime/plum)。推荐使用 [Visual Studio Code](https://code.visualstudio.com/) 打开 `.yaml` 文件（[Tab](https://twitter.com/qingmail/status/1357338760623529988) 键可能需要修改，因人而异）。
+> 其他输入方案[点击这里](https://github.com/rime/plum)。  
+> 推荐用 [VSCode](https://code.visualstudio.com/) 打开 `.yaml` 格式文件（[Tab 键修改方法](https://twitter.com/liuhqx/status/1357338760623529988)）。
 
 ---
 
@@ -179,15 +186,14 @@ patch:
   ascii_composer/good_old_caps_lock: true   # 若为true，caps只切换大小写
   ascii_composer/switch_key:
     Caps_Lock: commit_code                    
-    Shift_L: commit_code   # 左Shift，关闭noop
+    Shift_L: commit_code   # 左Shift
     Shift_R: noop          # 右Shift
     Control_L: noop        # 左Control
     Control_R: noop        # 右Control
 ```
 
-> 注1：Mac 上鼠须管不能区分左右 `Shift` ，因此左右 `Shift` 键作用一样。
->
-> 注2：如果 `caps` 键不能切换大小写，打开 Mac 系统偏好设置 - 键盘 - 输入法 - 取消勾选“使用大写锁定键切换“美国”输入模式”。
+> 注1：鼠须管目前无法区分左右 Shift 键 ，因此作用一样。\
+> 注2：如果 caps 键不能切换大小写，打开 Mac 系统偏好设置 - 键盘 - 输入法 - 取消【使用大写锁定键切换“美国”输入模式】。
 
 ---
 
@@ -222,55 +228,39 @@ key_binder/bindings: # 翻页
 
 ### 回车清码
 
-打开 `default.custom.yaml` 文件，找到下面代码（默认关闭，若开启去掉 `#`）。
+打开 `default.custom.yaml` 文件，找到下面代码（本配置默认关闭该功能）。
 
 ```
-  #- {accept: Return, send: Escape, when: composing} 
+  - {accept: Return, send: Escape, when: composing} 
 ```
 
 ---
 
 ### 词库文档格式
 
-文件命名为 <词库名>.dict.yaml。 
+电脑新建文件，命名格式为 <词库名>.dict.yaml，其他要求见下图。
 
-```
-# 以 --- ... 分别标记出 YAML 文档的起始与结束位置
-# 在 ... 下方空一行
+>注：词库或其他内容请用繁体，因为繁体支持自动转为简体，反之无效。如果词库是简体，而你繁体输出，那么词库将不会被触发。
 
----
-name: luna_pinyin            # 词库名
-version: "0.9"               # 版本
-sort: by_weight              # by_weight（词频高低排序）或 original（保持原码表中的顺序）
-use_preset_vocabulary: true  # true 或 false，是否导入预设词汇八股文
-...
+例如朙月拼音词库，则可以设置为 `luna_pinyin.词库名.dict.yaml`。
 
-# 格式每行定义一条〔文字－编码〕，字符与码表之间使用 tab 键，码表之间使用空格键。
-测	ce
-测试	ce shi
-目的地	mu di di
-```
+![](https://i.imgur.com/zcDOdod.png)
 
 ---
 
 ### 外挂词库
 
-打开 `luna_pinyin.extended.dict.yaml` 文件，找到 `import_tables`，将词库名称添加在下方。
+打开 `luna_pinyin.extended.dict.yaml` 文件，找到 `import_tables` 将词库名称添加进去。
 
-```
-import_tables:
-  - luna_pinyin
-  - luna_pinyin.sogou
-  - luna_pinyin.zonghe
-```
+![](https://i.imgur.com/fxOh26P.png)
 
 ---
 
 ### 修改 Emoji
 
-打开 opencc 文件夹内 `emoji_word.txt` 修改 Emoji。
+打开 opencc 文件夹内 `emoji_word.txt`。
 
-规则：`字符` + `字符` + `Emoji`；字符之间用 `tab` 键分隔，字符和 Emoji 之间用 `空格` 键分隔。
+规则：`字符 + 字符 + Emoji`，字符之间用 tab 键，字符和 Emoji 之间用空格键。
 
 ![](https://tva2.sinaimg.cn/large/008eZBHKly1goxgt4aawqj31ao0geq4o.jpg)
 
@@ -327,7 +317,11 @@ import_tables:
 
 ### 快捷符号
 
-打开 `luna_pinyin_simp.custom.yaml` 文件，找到 `punctuator`，修改快捷 Emoji 和符号。
+打开 `luna_pinyin_simp.custom.yaml` 文件，找到 `punctuator` 修改快捷 Emoji 和符号。
+
+效果：
+
+![](https://i.imgur.com/Ca784F1.png)
 
 ```
  # 符号快速输入和部分符号的快速上屏
@@ -368,7 +362,7 @@ import_tables:
 
 ### 模糊音
 
-示例：打开朙月拼音简化字 `luna_pinyin_simp.custom.yaml ` 文件，找到下面代码进行设置。 
+示例：打开朙月拼音简化字 `luna_pinyin_simp.custom.yaml ` 文件，找到下面代码进行设置，开启去掉前面 `#`。 
 
 ```
 # 模糊拼音
@@ -388,7 +382,7 @@ import_tables:
 
 ### 智能纠错
 
-示例：打开朙月拼音简化字 `luna_pinyin_simp.custom.yaml` 文件，找到下面代码进行设置。
+示例：打开朙月拼音简化字 `luna_pinyin_simp.custom.yaml` 文件，找到下面代码进行设置，关闭前面添加 `#`。
 
 ```
     # 自動糾正一些常見的按鍵錯誤
@@ -402,13 +396,13 @@ import_tables:
 ---
 
 ### 动态时间、日期、星期
-打开 `Rime.lua` 文件修改编码和输出格式。
+打开 `Rime.lua` 文件修改编码和格式。默认日期= `date`，可以修改为自己喜欢的简短编码。
 
-* `time` = `时间`
-* `date` = `日期`
-* `week` = `星期`
+* `rq` = `日期`
+* `sj` = `时间`
+* `xq` = `星期`
 
-> 注：例如将时间设为 `sj`，双拼用户不建议改为两位字母，会存在冲突。
+![](https://i.imgur.com/bB820q5.png)
 
 再将下面代码添加在对应的输入方案里，例如：朙月拼音·简化字方案即添加在 `luna_pinyin_simp.custom.yaml`。
 
@@ -421,7 +415,7 @@ import_tables:
 
 ### 自定义短语
 
-打开 `custom_phrase.txt` 文件编辑短语。规则：`文字+编码+权重`，使用 `Tab` 键分隔。
+打开 `custom_phrase.txt` 文件编辑短语。规则：`文字 + 编码 + 权重`，使用 Tab 键分隔。
 
 示例：
 
@@ -435,46 +429,16 @@ Squirrel	rime	1
 
 ![](https://i.loli.net/2021/02/23/S3z1lxFm8Kws6nW.png)
 
-> 注：自定义短语始终显示在第一候选项，无法单独设置为第二或第三候选项。
+> 注：自定义短语始终显示在第一候选项，无法单独设置为其他后选项。
 
 ---
 ### 皮肤
 
 打开 `squirrel.custom.yaml` 文件，将皮肤代码添加进去。在 `style/color_scheme:` 后面修改名称即可更换皮肤。
 
-```
-  # 更换皮肤
-  style/color_scheme: macos_light
+![](https://i.imgur.com/Jmf49zP.png)
 
-  # 皮肤主题 
-  preset_color_schemes:
-  
-    macos_light:
-      back_color: 0xFFFFFF                      # 候选条背景色，24位色值，16进制，BGR顺序
-      border_color: 0xFFFFFF                    # 边框色
-      text_color: 0x424242                      # 拼音行文字颜色
-      hilited_back_color: 0xD75A00              # 第一候选项背景背景色
-      hilited_candidate_text_color: 0xFFFFFF    # 第一候选项文字颜色
-      hilited_candidate_label_color: 0xFFFFFF   # 第一候选项编号颜色
-      hilited_comment_text_color: 0x999999      # 注解文字高亮
-      hilited_text_color: 0x999999              # 高亮拼音 (需要开启内嵌编码)
-      candidate_text_color: 0x3c3c3c            # 预选项文字颜色
-      comment_text_color: 0x999999              # 拼音等提示文字颜色
-      horizontal: true                          # 水平排列
-      inline_preedit: true                      # 单行显示，false双行显示
-      label_color: 0x999999                     # 预选栏编号颜色
-      candidate_format: "%c\u2005%@"            # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间
-      font_face: "PingFangSC"                   # 候选词编号字体
-      font_point: 16              # 候选文字大小
-      label_font_point: 13        # 候选编号大小
-      corner_radius: 5            # 候选条圆角
-      hilited_corner_radius: 5    # 高亮圆角
-      border_height: 4            # 窗口上下高度
-      border_width: 4             # 窗口左右宽度
-      border_color_width: 0       # 输入条边框宽度
-```
-
-更多皮肤效果：[点击这里](https://github.com/qingmail/rime-pifu)。
+更多皮肤效果：[点击这里](https://github.com/lhqx/rime-pifu)。
 
 * 每 8bit 一组，从低位到高位分别代表 Red、Green、Blue、Alpha，共 32bit。
 * Alpha 值（如果界面支持）是可选的，默认为 `0xF` F 即不透明。
@@ -484,43 +448,23 @@ Squirrel	rime	1
 
 ---
 
-### 特定程序里关闭开启中文输入
+### 特定程序开启关闭中文输入和中文状态输出英文标点
 
-打开 `squirrel.custom.yaml` 文件，找到 `app_options:`，在下方输入程序目录名称。
-* `ture` 为关闭中文输入
-* `false` 为开启中文输入
+打开 `squirrel.custom.yaml` 文件，找到 `app_options:`，添加软件名和是否允许代码。
 
-示例：
-```
-  app_options:    # App关闭中文输入
-    #com.apple.Spotlight:            # 聚焦搜索
-        #ascii_mode: true
-    #com.runningwithcrayons.Alfred:  # afred
-        #ascii_mode: true
-    com.apple.Terminal:             # 终端
-        ascii_mode: true
-    com.microsoft.VSCode:           # Visual Studio Code
-        ascii_mode: false           # 开启中文输入
-```
+* `ascii_mode: ture` 关闭中文输入
+* `ascii_mode: false` 开启中文输入
+* `ascii_punct: true` 开启中文输入时输出英文标点
 
-> 延伸：如何获取程序安装目录下的名称？
-> 1. 打开**活动监视器**，选中对应程序，点击上方 `···` 再点选**取样进程**。
-> 2. 找到 `Identifier`，后面的编码即为该程序名称。
+示例：下图粉框内表示 Visual Studio Code 支持中文输入，但标点是英文。
 
----
+![](https://i.imgur.com/waa5gAJ.png)
 
-### 特定程序里中文输入英文标点
+> **延伸：如何获取程序名称？**
+> 1. 打开**活动监视器**，选中对应程序，上方 `···` 里点击**取样进程**。
+> 2. 找到 `Identifier`，后面显示即为该程序名称。
+> ![](https://i.imgur.com/W8hUnK1.png)
 
-打开 `squirrel.custom.yaml` 文件，找到 `app_options:`，在指定程序里加入 `ascii_punct: true`。
-
-示例：在 Visual Studio Code 程序里中文状态输入英文标点。
-
-```
-  app_options:    # App关闭中文输入
-    com.microsoft.VSCode:           # Visual Studio Code
-        ascii_mode: false           # 开启中文输入
-        ascii_punct: true           # 半角符号即中文状态输入英文标点
-```
 
 ---
 
@@ -534,37 +478,28 @@ Squirrel	rime	1
 
 ### 同步
 
-同步到 iCloud 云盘，在 iCloud 云盘内新建个文件夹。
+#### 词库同步到 iCloud
 
-1. 打开 ` installation.yaml` 文件，修改 `installation_id` 后面的 UUID。
-
-2. 再输入以下代码（admin 修改为您的 Mac 用户名）。
+1. 在 iCloud 云盘内新建个文件夹，例如 `Rime`。
+2. 打开配置文件 ` installation.yaml`，修改 `installation_id` ID，例如 `mac`。
+3. 再添加路径代码（admin 为 Mac 用户名）。
 
 ```
  sync_dir: "/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/Rime"
 ```
-示例：
 
-```
-distribution_code_name: Squirrel
-distribution_name: "鼠鬚管"
-distribution_version: 0.15.2
-install_time: "Tue Feb 23 04:21:16 2021"
-installation_id: "mac"	# 修改id, 同步时会在同步目录下生成文件夹，文件夹名对应id
-sync_dir: "/Users/admin/Library/Mobile Documents/com~apple~CloudDocs/Rime"  # 同步和备份目录至iCloud云盘
-rime_version: 1.7.3
-update_time: "Thu Feb 25 16:18:53 2021"
-```
+示例：下图路径意思是同步至 iCloud 下 Rime 文件夹内。
+
+![I](https://i.imgur.com/Q4g5Out.png)
 
 
-1. 点选菜单栏【ㄓ】->【同步用户数据】，打开 iCloud 云盘可查看。
+4. 点选菜单栏【ㄓ】-【同步用户数据】，打开 iCloud 云盘查看同步成功。
 
-![](https://i.loli.net/2021/03/01/3WGFzIevCr69j8n.png)
+![](https://i.imgur.com/bLhzWYm.png)
 
-**延伸：词库同步至新 Mac 方法：**
-
-1. 先将需要同步的配置文件拷贝至新电脑 iCloud 云盘。
-2. 再配置好鼠须管，打开 ` installation.yaml` 文件，将 UUID 和路径修改为同步文件一至并重新部署，完成词库同步。
+#### iCloud 同步至新电脑
+1. 将之前网盘里的备份词库文件拷贝至电脑 iCloud 云盘（如果 iCloud 是同一个 Apple ID 则无需拷贝）。
+2. 打开已经配置好的鼠须管配置文件 ` installation.yaml`，将 **ID** 和 **路径** 修改成和备份词库文件一至，重新部署完成词库同步。
 
 更多同步方案：[点击这里](https://github.com/rime/home/wiki/UserGuide#%E5%90%8C%E6%AD%A5%E7%94%A8%E6%88%B6%E8%B3%87%E6%96%99)
 
