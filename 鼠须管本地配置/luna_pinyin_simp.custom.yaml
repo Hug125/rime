@@ -19,7 +19,8 @@ patch:
         - GB2312
   simplifier:
     option_name: zh_simp
-    
+
+  # 启用罕见字過濾  
   engine/filters:
       - simplifier
       - simplifier@emoji_conversion
