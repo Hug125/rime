@@ -11,6 +11,16 @@ function date_translator(input, seg)
         yield(Candidate("time", seg.start, seg._end, os.date("%H:%M"), ""))
         yield(Candidate("time", seg.start, seg._end, os.date("%H:%M:%S"), ""))
     end
+    if (input == "shijian") then
+        --- Candidate(type, start, end, text, comment)
+        yield(Candidate("shijian", seg.start, seg._end, os.date("%Y-%m-%d %H:%M:%S"), ""))
+        yield(Candidate("shijian", seg.start, seg._end, os.date("%Y年%m月%d日 %H:%M:%S"), ""))
+    end
+    if (input == "sj") then
+        --- Candidate(type, start, end, text, comment)
+        yield(Candidate("sj", seg.start, seg._end, os.date("%Y-%m-%d %H:%M:%S"), ""))
+        yield(Candidate("sj", seg.start, seg._end, os.date("%Y年%m月%d日 %H:%M:%S"), ""))
+    end
 
     -- @JiandanDream
     -- https://github.com/KyleBing/rime-wubi86-jidian/issues/54
