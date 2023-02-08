@@ -10,7 +10,7 @@
 # Rime用戶文件夾/custom_phrase.txt
 #
 # 碼表各字段以製表符（Tab）分隔
-# 順序爲：文字、編碼、權重（決定重碼的次序、可選）
+# 順序爲：文字+編碼+權重（決定重碼的次序、可選）,用tab键间隔
 #
 # 雖然文本碼表編輯較爲方便，但不適合導入大量條目
 #
@@ -38,6 +38,7 @@ Apple TV	atv
 Apple Watch	aw
 Android	az
 App Cleaner & Uninstaller	acu
+B站	bzhan
 Chrome	ch	2
 Clubhouse	ch
 ClashX	cla
@@ -63,9 +64,12 @@ Google Voice	gv
 Gboard	gb
 Handoff	ho
 HyperSwitch	hs
+HarmonyOS	hm	2
+iOS	ios
 iCloud	ic
 Illustrator	ill
 iStat Menus	ism
+iPhone	i
 iWork	iw	4
 iTunes	itunes
 iMac	imac	2
@@ -118,6 +122,9 @@ Twitter	tt
 Type-C	tc	
 Typora	ty
 TeamViewer  tv
+T恤	txu
+U盤	upan
+up主	upzhu
 USB-C	uc
 V2EX	ve
 WhatsApp	wa
