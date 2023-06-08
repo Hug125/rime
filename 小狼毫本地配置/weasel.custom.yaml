@@ -1,0 +1,30 @@
+#weasel.custom.yaml UTF-8
+#定义输入法的外观、横排竖排等显示模式、右下角图标，并可以在指定程序中关闭中文输入。
+#使用“输入法设定”修改设定后，本文件内的注释都会消失。。慎重。
+#下列选项中，true表示开启，false关闭。
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.11.1
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Tue Jan  8 10:24:57 2019"
+  rime_version: 1.3.0
+patch:
+  "style/color_scheme": lost_temple #皮肤设定
+  "style/display_tray_icon": false #开启：右下角输入法状态栏显示图标，方便进行操作。关闭：隐藏图标
+  "style/font_face": Consolas #字体
+  "style/font_point": 14 #字号
+  "style/fullscreen": false #全屏？？目前未知待测试。
+  "style/horizontal": false #开启：横排显示候选词。关闭：竖排显示。
+  "style/inline_preedit": true #內嵌編碼（僅支持TSF）
+  "style/layout":
+    #显示效果选项
+    border_width: 3
+    candidate_spacing: 5
+    hilite_padding: 2
+    hilite_spacing: 4
+    margin_x: 12
+    margin_y: 12
+    min_height: 0
+    min_width: 160
+    round_corner: 4
+    spacing: 10
