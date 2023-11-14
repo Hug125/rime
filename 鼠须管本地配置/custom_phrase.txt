@@ -18,6 +18,7 @@
 
 Rime	rime	4
 鼠须管	rime	3
+小狼毫	rime	5
 https://rime.im/	rime	2
 Squirrel	rime	1
 >	dy	2

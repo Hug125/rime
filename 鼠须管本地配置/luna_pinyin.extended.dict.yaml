@@ -13,3 +13,6 @@ import_tables:
   - luna_pinyin.sogou
   - luna_pinyin.zonghe
   - luna_pinyin.av
+  - luna_pinyin.sougou.computer
+  - luna_pinyin.sougou.base
+  - luna_pinyin.sougou.letter

@@ -1,0 +1,98 @@
+patch:
+  schema/name: 小鹤双拼
+  switches:
+    - name: ascii_mode
+      reset: 0
+      states: ["中文", "西文"]
+    - name: emoji_suggestion
+      reset: 1
+      states: [ "🈚️", "🈶️" ]
+    - name: full_shape
+      states: ["半角", "全角"]
+    - name: simplification
+      reset: 1
+      states: ["漢字", "汉字"]
+    - name: ascii_punct
+      states: [ 。，, ．， ]
+    - options: ["utf8", "gbk", "gb2312"] # (※2)字符集选单
+      reset: 0 # 默认 UTF8
+      states:
+        - UTF-8
+        - GBK
+        - GB2312
+
+  'engine/filters/@before 0':
+    - simplifier@emoji_suggestion
+  emoji_suggestion:
+    opencc_config: emoji.json
+    option_name: emoji_suggestion
+    tips: all
+  engine/filters/+:
+  - lua_filter@Multiline_filter
+  - lua_filter@Tip_Filter
+  engine/translators/+:
+  - lua_translator@Date_Translator
+  - lua_translator@Daxie_Translator
+  - lua_translator@Unicode_Translator
+  - lua_translator@Emoji_Translator
+  - lua_translator@Lua_Tips
+
+  #載入朙月拼音擴充詞庫
+  'translator/dictionary': luna_pinyin.extended
+  'translator/preedit_format': {}
+  'translator/enable_correction': false
+
+
+  # 自定义符号上屏
+  punctuator:
+    import_preset: symbols
+    symbols:
+      "/fs": [½, ‰, ¼, ⅓, ⅔, ¾, ⅒ ]
+      "/xh": [ ＊, ×, ✱, ★, ☆, ✩, ✧, ❋, ❊, ❉, ❈, ❅, ✿, ✲]
+      "/dq": [🌍,🌎,🌏,🌐,🌑,🌒,🌓,🌔,🌕,🌖,🌗,🌘]
+      "/sg": [🍇,🍉,🍌,🍍,🍎,🍏,🍑,🍒,🍓,🍗,🍦,🎂,🍺,🍻]
+      "/dw": [🙈,🐵,🐈,🐷,🐨,🐼,🐾,🐔,🐬,🐠,🦋]
+      "/bq": [😀,😁,😂,😃,😄,😅,😆,😉,😊,😋,😎,😍,😘,😗]
+      "/ss": [💪,👈,👉,👆,👇,✋,👌,👍,👎,✊,👊,👋,👏,👐]
+    half_shape:
+      "#": "#"
+      "*": "*"
+      "`": "`"
+      "~": "~"
+      "@": "@"
+      "=": "="
+      '\': "、"
+      "%": "%"
+      "$": ["¥", "$", "€", "£", "¢", "¤"]
+      "|": ["|", "｜", "·", "・", "§", "¦", "‖", "︴"]
+      "/": ["/", "÷"]
+      "'": { pair: ["「", "」"] }
+      "[": ["【", "〔", "［"]
+      "]": ["】", "〕", "］"]
+      "<": "《"
+      ">": "》"
+      
+  recognizer/patterns/punct: '^/(([a-z]+)|\?|(uc[0-9a-fA-F]{0,6}([^0-9a-fA-F]+[0-9a-fA-F]{0,6})*|\d{0,8}([hq]\d+)?[^0-9]?|\d{0,8}(g|n|nr)|1?\d|dx\d+(\.\d{0,2})?|\d{1,6}[hq]|[1-7][sxz]))$'
+
+  # 加载easy_en依赖
+  "schema/dependencies/@1": easy_en
+  # 载入翻译英文的码表翻译器，取名为 english
+  "engine/translators/@4": table_translator@english
+  # english翻译器的设定项
+  english:
+    dictionary: easy_en
+    spelling_hints: 9
+    enable_completion: true # 是否启用英文输入联想补全
+    enable_sentence: false # 混输时不出现带有图案的英文
+    initial_quality: -0.5 # 英文候选词的位置, 数值越大越靠前。
+
+  key_binder/bindings:
+    # - { accept: period, send: 1, when: has_menu}  #打字时，句号选中第1个候选字发送
+    - { accept: semicolon, send: 2, when: has_menu}  #打字时，冒号选中第2个候选字发送
+    - { accept: apostrophe, send: 3, when: has_menu} #打字时，引号选中第3个候选字发送
+    - { accept: minus, send: Page_Up, when: paging} #减号向前翻页
+    - { accept: equal, send: Page_Down, when: has_menu} #等于号向后翻页
+    - { accept: Control+j, send: 4, when: has_menu}  #打字时，Ctrl+j选中第4个候选字发送
+    - { accept: Control+k, send: 5, when: has_menu}  #打字时，Ctrl+k选中第5个候选字发送
+    - { accept: Control+l, send: 6, when: has_menu}  #打字时，Ctrl+l选中第6个候选字发送
+  
