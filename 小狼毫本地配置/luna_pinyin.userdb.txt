@@ -269,6 +269,7 @@ ao 	熬	c=2 d=2.449e-08 t=173558
 ao ao 	嗷嗷	c=2 d=8.28341e-50 t=173558
 ao ba ma 	奧巴馬	c=7 d=0.0846398 t=173558
 ao de sai 	奧德賽	c=1 d=0.0216013 t=173558
+ao en 	奧恩	c=1 d=0.554327 t=119396
 ao jiao 	傲嬌	c=1 d=3.08054e-60 t=131593
 ao le 	奧了	c=1 d=1.4897e-42 t=131593
 ao mei 	傲梅	c=1 d=1.71549e-114 t=131593
@@ -1994,6 +1995,17 @@ bu gei jie jue 	不給解決	c=1 d=4.51644e-32 t=173558
 bu gei ni 	不給你	c=1 d=6.27453e-47 t=173558
 bu gei ni 	部給你	c=1 d=1.10288e-05 t=173558
 bu gei wo ka hao 	不給我卡號	c=1 d=0.000515692 t=173558
+bu gou 	不夠	c=6 d=0.0869359 t=119396
+bu gou de 	不夠的	c=1 d=1.17344e-58 t=119396
+bu gou jin xing 	不夠盡興	c=1 d=0.044601 t=119396
+bu gou le 	不夠了	c=1 d=2.548e-33 t=119396
+bu gou yong 	不夠用	c=1 d=0.000397625 t=119396
+bu gou yong le 	不夠用了	c=1 d=1.08624e-32 t=119396
+bu gou zai 	不夠在	c=1 d=0.00279479 t=119396
+bu gou zao 	不夠早	c=1 d=1.38568e-14 t=119396
+bu gua feng 	不颳風	c=1 d=0.0025415 t=119396
+bu gua hu zi 	不刮鬍子	c=1 d=0.537944 t=119396
+bu guai 	不乖	c=0 d=2.19294e-92 t=119396
 bu geng 	不更	c=1 d=1 t=170644
 bu geng xin 	不更新	c=1 d=0.0247235 t=131593
 bu gou 	不夠	c=14 d=0.0869359 t=173558
@@ -13980,8 +13992,20 @@ jiu hen shao chu wen ti le 	就很少出問題了	c=1 d=4.44451e-49 t=131593
 jiu hui 	就會	c=42 d=0.56836 t=173558
 jiu hui bao cuo 	就會報錯	c=1 d=3.12667e-29 t=131593
 jiu hui chu 	就會出	c=2 d=0.0333733 t=173558
+jiu hui chu wen ti 	就會出問題	c=3 d=5.28634e-26 t=119396
+jiu hui gei ni 	就會給你	c=1 d=7.78113e-20 t=119396
+jiu hui lai 	就回來	c=0 d=2.86739e-41 t=119396
+jiu hui lai le 	就回來了	c=1 d=2.88177e-40 t=119396
 jiu hui chu lai 	就會出來	c=1 d=1 t=158884
+jiu hui le 	就會了	c=1 d=0.0731678 t=119396
+jiu hui o 	就會哦	c=1 d=1.73338e-89 t=119396
+jiu hui qu 	就回去	c=0 d=0.00026852 t=119396
+jiu hui qu le 	就回去了	c=1 d=3.19754e-28 t=119396
+jiu hui qu zai shuo ba 	就回去再說吧	c=1 d=0.00197932 t=119396
+jiu hui xian shi zhe ge 	就會顯示這個	c=1 d=1.08702e-11 t=119396
+jiu hui xiao shi 	就會消失	c=1 d=1.32219e-21 t=119396
 jiu hui chu wen ti 	就會出問題	c=3 d=5.28634e-26 t=173558
+jiu hui you wen ti 	就會有問題	c=1 d=4.04391e-26 t=119396
 jiu hui fa huo 	就會發貨	c=1 d=0.282239 t=131593
 jiu hui fu 	就回覆	c=1 d=2.79669e-11 t=131593
 jiu hui fu le 	就恢復了	c=1 d=3.10525e-07 t=131593
