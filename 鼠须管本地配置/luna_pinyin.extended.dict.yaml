@@ -16,3 +16,4 @@ import_tables:
   - luna_pinyin.sougou.computer
   - luna_pinyin.sougou.base
   - luna_pinyin.sougou.letter
+  - luna_pinyin_simp.sougou.chaizi
